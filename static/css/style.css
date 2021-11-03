@@ -1,0 +1,14 @@
+.bg-nav{
+    background-image: url("city.jpg");
+    background-size: cover;
+}
+
+.content-section{
+    width: 200px;
+    margin: auto;
+}
+
+h2{
+    text-align: center;
+    margin-top: 10%;
+}
