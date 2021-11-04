@@ -4,11 +4,29 @@
 }
 
 .content-section{
-    width: 200px;
+    width: 220px;
     margin: auto;
+    font-family: cursive;
 }
 
-h2{
+h1, h2{
     text-align: center;
     margin-top: 10%;
+    font-family: cursive;
+}
+
+.strona_glowna{
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    width: 1000px;
+    font-family: cursive;
+}
+
+a{
+    font-family: cursive;
+}
+
+.button{
+    font-family: cursive;
 }

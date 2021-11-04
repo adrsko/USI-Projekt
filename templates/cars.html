@@ -1,3 +1,44 @@
 {% extends "layout.html" %}
 {% block content %}
+<div class="container">
+    <h2>Lista używanych Samochodów</h2>
+    <table class="table table-sm">
+        <tr>
+            <th scope="col">
+                Marka
+            </th>
+            <th scope="col">
+                Model
+            </th>
+            <th scope="col">
+                Rok
+            </th>
+            <th scope="col">
+                Przebieg [km]
+            </th>
+            <th scope="col">
+                Cena [zł]
+            </th>
+        </tr>
+            {% for car in cars %}
+            <tr>
+                <td>
+                    {{ car.brand }}
+                </td>
+                <td>
+                    {{ car.model }}
+                </td>
+                <td>
+                    {{ car.year }}
+                </td>
+                <td>
+                    {{ car.mileage }}
+                </td>
+                <td>
+                    {{ car.price }}
+                </td>
+            </tr>
+            {% endfor %}
+    </table>
+</div>
 {% endblock content %}

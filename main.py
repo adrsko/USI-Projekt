@@ -1,7 +1,7 @@
 from enum import unique
-from flask import Flask, render_template, flash, redirect, url_for
+from flask import Flask, render_template, flash, redirect, url_for, request
 from flask_sqlalchemy import SQLAlchemy
-from form import LoginForm, RegistrationForm
+from form import LoginForm, RegistrationForm, UpdateAccountForm
 from flask_bcrypt import Bcrypt
 from flask_login import UserMixin, LoginManager, login_user, current_user, logout_user
 
@@ -38,6 +38,7 @@ class Cars(db.Model):
     def __repr__(self):
         return f"Cars('{self.brand}', '{self.model}')"
 
+
 @app.route("/")
 @app.route("/home")
 def home():
@@ -49,7 +50,8 @@ def home():
 @app.route("/cars")
 def cars():
     if current_user.is_authenticated:
-        return render_template('cars.html')
+        cars = Cars.query.all()
+        return render_template('cars.html', cars=cars)
     else:
         return redirect(url_for('login'))
 
@@ -89,6 +91,22 @@ def login():
 def logout():
     logout_user()
     return redirect(url_for('login'))
+
+@app.route("/account", methods = ['GET', 'POST'])
+def account():
+    if current_user.is_authenticated:
+        form = UpdateAccountForm()
+        if form.validate_on_submit():
+            current_user.username = form.username.data
+            current_user.email = form.email.data
+            db.session.commit()
+            return redirect(url_for('account'))
+        elif request.method == 'GET':
+            form.username.data = current_user.username
+            form.email.data = current_user.email
+        return render_template('account.html', title='Account', form=form)
+    else:
+        return redirect(url_for('login'))
 
 if __name__ == '__main__':
     app.run(debug=True)
