@@ -5,6 +5,9 @@
     <table class="table table-sm">
         <tr>
             <th scope="col">
+                ID
+            </th>
+            <th scope="col">
                 Marka
             </th>
             <th scope="col">
@@ -20,8 +23,11 @@
                 Cena [zł]
             </th>
         </tr>
-            {% for car in cars %}
+            {% for car in cars.items %}
             <tr>
+                <td>
+                    {{ car.id }}
+                </td>
                 <td>
                     {{ car.brand }}
                 </td>
@@ -40,5 +46,11 @@
             </tr>
             {% endfor %}
     </table>
+    {% for page_num in cars.iter_pages() %}
+        {% if page_num %}
+            <a class="btn btn-outline-info mb-4" href="{{ url_for('cars', page=page_num) }}">{{ page_num }}</a>
+        {% else %}
+        {% endif %}
+    {% endfor %}
 </div>
 {% endblock content %}

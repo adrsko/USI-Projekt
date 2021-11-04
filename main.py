@@ -20,15 +20,15 @@ def load_user(user_id):
 
 class User(db.Model, UserMixin):
     id = db.Column(db.Integer, primary_key=True, nullable=False)
-    username = db.Column(db.String(20), unique=True, nullable=False)
-    email = db.Column(db.String(60), unique=True, nullable=False)
+    username = db.Column(db.String(20), nullable=False)
+    email = db.Column(db.String(60), nullable=False)
     password = db.Column(db.String(60), nullable=False)
 
     def __repr__(self):
         return f"User('{self.username}', '{self.email}')"
 
 class Cars(db.Model):
-    id = db.Column(db.Integer, primary_key=True, nullable=False)
+    id = db.Column(db.Integer, db.Sequence("seq_street_segment_id"))
     brand = db.Column(db.String(60), unique=True, nullable=False)
     model = db.Column(db.String(60), unique=True, nullable=False)
     year = db.Column(db.Integer, primary_key=True, nullable=False)
@@ -36,7 +36,7 @@ class Cars(db.Model):
     price = db.Column(db.Integer, primary_key=True, nullable=False)
 
     def __repr__(self):
-        return f"Cars('{self.brand}', '{self.model}')"
+        return f"Cars('{self.id}'', '{self.brand}', '{self.model}')"
 
 
 @app.route("/")
@@ -50,7 +50,8 @@ def home():
 @app.route("/cars")
 def cars():
     if current_user.is_authenticated:
-        cars = Cars.query.all()
+        page = request.args.get('page', 1, type=int)
+        cars = Cars.query.paginate(page=page, per_page=20)
         return render_template('cars.html', cars=cars)
     else:
         return redirect(url_for('login'))
