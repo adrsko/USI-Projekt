@@ -6,9 +6,6 @@
     <table class="table table-sm">
         <tr>
             <th scope="col">
-                ID
-            </th>
-            <th scope="col">
                 Marka
             </th>
             <th scope="col">
@@ -23,12 +20,12 @@
             <th scope="col">
                 Cena [zł]
             </th>
+            <th scope="col">
+                edycja
+            </th>
         </tr>
             {% for car in cars %}
             <tr>
-                <td>
-                    {{ car.id }}
-                </td>
                 <td>
                     {{ car.brand }}
                 </td>
@@ -43,6 +40,9 @@
                 </td>
                 <td>
                     {{ car.price }}
+                </td>
+                <td>
+                    <a class="btn btn-dark" href="{{ url_for('edit_car', id=car.id) }}">EDIT</a>
                 </td>
             </tr>
             {% endfor %}

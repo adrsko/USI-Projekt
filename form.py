@@ -29,3 +29,11 @@ class AddCarForm(FlaskForm):
     mileage = IntegerField('Przebieg: ')
     price = IntegerField('Cena: ')
     submit = SubmitField('Zapisz')
+
+class UpdateCarForm(FlaskForm):
+    brand = StringField('Marka: ')
+    model = StringField('Model: ')
+    year = IntegerField('Rok: ')
+    mileage = IntegerField('Przebieg: ')
+    price = IntegerField('Cena: ')
+    submit = SubmitField('Zapisz')
