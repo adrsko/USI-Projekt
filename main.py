@@ -123,26 +123,31 @@ def add_car():
             db.session.commit()
             return redirect(url_for('cars'))
         return render_template('add_car.html', title='Add_car', form=form)
+    else:
+        return redirect(url_for('login'))
 
 @app.route("/cars/<id>", methods = ['GET', 'POST'])
 def edit_car(id):
-    edit_car = Cars.query.filter_by(id=id).first()
-    form = UpdateCarForm()
-    if form.validate_on_submit():
-        edit_car.brand = form.brand.data
-        edit_car.model = form.model.data
-        edit_car.year = form.year.data
-        edit_car.mileage = form.mileage.data
-        edit_car.price = form.price.data
-        db.session.commit()
-        return redirect(url_for('cars'))
-    elif request.method == 'GET':
-        form.brand.data = edit_car.brand
-        form.model.data = edit_car.model
-        form.year.data = edit_car.year
-        form.mileage.data = edit_car.mileage
-        form.price.data = edit_car.price
-    return render_template('edit_car.html', title='Add_car', form=form)
+    if current_user.is_authenticated:
+        edit_car = Cars.query.filter_by(id=id).first()
+        form = UpdateCarForm()
+        if form.validate_on_submit():
+            edit_car.brand = form.brand.data
+            edit_car.model = form.model.data
+            edit_car.year = form.year.data
+            edit_car.mileage = form.mileage.data
+            edit_car.price = form.price.data
+            db.session.commit()
+            return redirect(url_for('cars'))
+        elif request.method == 'GET':
+            form.brand.data = edit_car.brand
+            form.model.data = edit_car.model
+            form.year.data = edit_car.year
+            form.mileage.data = edit_car.mileage
+            form.price.data = edit_car.price
+        return render_template('edit_car.html', title='Add_car', form=form)
+    else:
+        return redirect(url_for('login'))
 
 if __name__ == '__main__':
     app.run(debug=True)
