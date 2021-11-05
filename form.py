@@ -2,7 +2,7 @@ from wtforms.fields.core import BooleanField
 from wtforms.fields.simple import PasswordField, SubmitField
 from wtforms.validators import Email, EqualTo
 from flask_wtf import FlaskForm
-from wtforms import StringField, validators
+from wtforms import StringField, validators, IntegerField
 from flask_login import current_user
 
 class RegistrationForm(FlaskForm):
@@ -20,4 +20,12 @@ class LoginForm(FlaskForm):
 class UpdateAccountForm(FlaskForm):
     username = StringField('Login: ')
     email = StringField('Email: ')
+    submit = SubmitField('Zapisz')
+
+class AddCarForm(FlaskForm):
+    brand = StringField('Marka: ')
+    model = StringField('Model: ')
+    year = IntegerField('Rok: ')
+    mileage = IntegerField('Przebieg: ')
+    price = IntegerField('Cena: ')
     submit = SubmitField('Zapisz')

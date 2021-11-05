@@ -1,9 +1,11 @@
 from enum import unique
 from flask import Flask, render_template, flash, redirect, url_for, request
 from flask_sqlalchemy import SQLAlchemy
-from form import LoginForm, RegistrationForm, UpdateAccountForm
+from sqlalchemy import BigInteger
+from form import LoginForm, RegistrationForm, UpdateAccountForm, AddCarForm
 from flask_bcrypt import Bcrypt
 from flask_login import UserMixin, LoginManager, login_user, current_user, logout_user
+import uuid
 
 app = Flask(__name__)
 
@@ -28,15 +30,15 @@ class User(db.Model, UserMixin):
         return f"User('{self.username}', '{self.email}')"
 
 class Cars(db.Model):
-    id = db.Column(db.Integer, db.Sequence("seq_street_segment_id"))
-    brand = db.Column(db.String(60), unique=True, nullable=False)
-    model = db.Column(db.String(60), unique=True, nullable=False)
+    id = db.Column(db.String(100), nullable=False)
+    brand = db.Column(db.String(60), nullable=False)
+    model = db.Column(db.String(60), nullable=False)
     year = db.Column(db.Integer, primary_key=True, nullable=False)
     mileage = db.Column(db.Integer, primary_key=True, nullable=False)
     price = db.Column(db.Integer, primary_key=True, nullable=False)
 
     def __repr__(self):
-        return f"Cars('{self.id}'', '{self.brand}', '{self.model}')"
+        return f"Cars('{self.brand}', '{self.model}')"
 
 
 @app.route("/")
@@ -50,8 +52,7 @@ def home():
 @app.route("/cars")
 def cars():
     if current_user.is_authenticated:
-        page = request.args.get('page', 1, type=int)
-        cars = Cars.query.paginate(page=page, per_page=20)
+        cars = Cars.query.all()
         return render_template('cars.html', cars=cars)
     else:
         return redirect(url_for('login'))
@@ -67,14 +68,16 @@ def prices():
 def register():
     if current_user.is_authenticated:
         return redirect(url_for('home'))
-    form = RegistrationForm()
-    if form.validate_on_submit():
-        hashed_password = bcrypt.generate_password_hash(form.password.data).decode('utf-8')
-        user = User(username=form.username.data, email=form.email.data, password=hashed_password)
-        db.session.add(user)
-        db.session.commit()
-        return render_template('login.html', title='Login', form=form)
-    return render_template('register.html', title='Register', form=form)
+    else:
+        form = RegistrationForm()
+        if form.validate_on_submit():
+            hashed_password = bcrypt.generate_password_hash(form.password.data).decode('utf-8')
+            user = User(username=form.username.data, email=form.email.data, password=hashed_password)
+            db.session.add(user)
+            db.session.commit()
+            form = LoginForm()
+            return redirect(url_for('login'))
+        return render_template('register.html', title='Register', form=form)
 
 @app.route("/login", methods = ['GET', 'POST'])
 def login():
@@ -108,6 +111,17 @@ def account():
         return render_template('account.html', title='Account', form=form)
     else:
         return redirect(url_for('login'))
+
+@app.route("/add_car", methods = ['GET', 'POST'])
+def add_car():
+    if current_user.is_authenticated:
+        form = AddCarForm()
+        if form.validate_on_submit():
+            car = Cars(id = str(uuid.uuid4()), brand=form.brand.data, model=form.model.data, year=form.year.data, mileage=form.mileage.data, price=form.price.data)
+            db.session.add(car)
+            db.session.commit()
+            return redirect(url_for('cars'))
+        return render_template('add_car.html', title='Add_car', form=form)
 
 if __name__ == '__main__':
     app.run(debug=True)

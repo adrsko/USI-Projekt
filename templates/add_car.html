@@ -1,0 +1,38 @@
+{% extends "layout.html" %}
+{% block content %}
+    <div class = "content-section">
+        <form method = "POST" action="">
+            {{ form.hidden_tag() }}
+            <fieldset class="form-group">
+                <div class="form-group">
+                    {{ form.brand.label(class="form-control-label") }}
+                    {{ form.brand(class="form-control form-control-lg") }}
+                </div>
+                <br>
+                <div class="form-group">
+                    {{ form.model.label(class="form-control-label") }}
+                    {{ form.model(class="form-control form-control-lg") }}
+                </div>
+                <br>
+                <div class="form-group">
+                    {{ form.year.label(class="form-control-label") }}
+                    {{ form.year(class="form-control form-control-lg") }}
+                </div>
+                <br>
+                <div class="form-group">
+                    {{ form.mileage.label(class="form-control-label") }}
+                    {{ form.mileage(class="form-control form-control-lg") }}
+                </div>
+                <br>
+                <div class="form-group">
+                    {{ form.price.label(class="form-control-label") }}
+                    {{ form.price(class="form-control form-control-lg") }}
+                </div>
+            </fieldset>
+            <br>
+            <div class="form-group">
+                {{ form.submit(class="btn btn-outline-info") }}
+            </div>
+        </form>
+    </div>
+{% endblock content %}
