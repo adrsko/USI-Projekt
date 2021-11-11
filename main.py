@@ -1,4 +1,5 @@
 from enum import unique
+from os import error
 from flask import Flask, render_template, flash, redirect, url_for, request
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import BigInteger
@@ -50,10 +51,10 @@ def home():
     else:
         return redirect(url_for('login'))
 
-@app.route("/cars")
-def cars():
+@app.route("/cars/<int:page_num>",methods=['GET'])
+def cars(page_num):
     if current_user.is_authenticated:
-        cars = Cars.query.all()
+        cars = Cars.query.paginate(per_page=12, page=page_num, error_out=False)
         return render_template('cars.html', cars=cars)
     else:
         return redirect(url_for('login'))
@@ -121,7 +122,7 @@ def add_car():
             car = Cars(id = str(uuid.uuid4()), brand=form.brand.data, model=form.model.data, year=form.year.data, mileage=form.mileage.data, price=form.price.data)
             db.session.add(car)
             db.session.commit()
-            return redirect(url_for('cars'))
+            return redirect(url_for('cars', page_num=1))
         return render_template('add_car.html', title='Add_car', form=form)
     else:
         return redirect(url_for('login'))
@@ -138,7 +139,7 @@ def edit_car(id):
             edit_car.mileage = form.mileage.data
             edit_car.price = form.price.data
             db.session.commit()
-            return redirect(url_for('cars'))
+            return redirect(url_for('cars', page_num=1))
         elif request.method == 'GET':
             form.brand.data = edit_car.brand
             form.model.data = edit_car.model
