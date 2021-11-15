@@ -32,12 +32,12 @@ class User(db.Model, UserMixin):
         return f"User('{self.username}', '{self.email}')"
 
 class Cars(db.Model):
-    id = db.Column(db.String(100), nullable=False)
+    id = db.Column(db.String(100), primary_key=True, nullable=False)
     brand = db.Column(db.String(60), nullable=False)
     model = db.Column(db.String(60), nullable=False)
-    year = db.Column(db.Integer, primary_key=True, nullable=False)
-    mileage = db.Column(db.Integer, primary_key=True, nullable=False)
-    price = db.Column(db.Integer, primary_key=True, nullable=False)
+    year = db.Column(db.Integer, nullable=False)
+    mileage = db.Column(db.Integer, nullable=False)
+    price = db.Column(db.Integer, nullable=False)
 
     def __repr__(self):
         return f"Cars('{self.brand}', '{self.model}')"

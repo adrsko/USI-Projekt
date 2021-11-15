@@ -6,13 +6,13 @@
 .content-section{
     width: 220px;
     margin: auto;
-    font-family: cursive;
+    font-family: Georgia, serif;;
 }
 
 h1, h2{
     text-align: center;
     margin-top: 10%;
-    font-family: cursive;
+    font-family: Georgia, serif;;
 }
 
 .strona_glowna{
@@ -20,13 +20,13 @@ h1, h2{
     text-align: center;
     margin-top: 50px;
     width: 1000px;
-    font-family: cursive;
+    font-family: Georgia, serif;;
 }
 
 a{
-    font-family: cursive;
+    font-family: Georgia, serif;;
 }
 
 .button{
-    font-family: cursive;
+    font-family: Georgia, serif;;
 }
