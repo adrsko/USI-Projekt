@@ -201,7 +201,7 @@ Giulia
 benzyna
 automatyczna
 157799
-\\u0160koda
+Škoda
 Octavia
 2017
 137542
@@ -299,7 +299,7 @@ Murano
 diesel
 automatyczna
 41900
-\\u0160koda
+Škoda
 Octavia
 2017
 137542
@@ -593,7 +593,7 @@ Alfa Romeo
 diesel
 manualna
 15800
-Citro\\u00ebn
+Citroën
 DS5
 2014
 191000
@@ -670,7 +670,7 @@ Mustang
 benzyna
 manualna
 28000
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2015
 158000
@@ -845,7 +845,7 @@ Ceed
 benzyna
 manualna
 36900
-\\u0160koda
+Škoda
 Octavia
 2017
 74615
@@ -866,7 +866,7 @@ CLA
 benzyna
 automatyczna
 129000
-\\u0160koda
+Škoda
 Kodiaq
 2017
 48000
@@ -901,7 +901,7 @@ Golf
 benzyna
 manualna
 28999
-\\u0160koda
+Škoda
 Octavia
 2017
 92000
@@ -985,14 +985,14 @@ Arteon
 benzyna
 manualna
 159900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2016
 195200
 diesel
 manualna
 38500
-\\u0160koda
+Škoda
 Octavia
 2011
 155300
@@ -1006,7 +1006,7 @@ Mazda
 benzyna
 automatyczna
 54900
-\\u0160koda
+Škoda
 Octavia
 2020
 10800
@@ -1153,7 +1153,7 @@ Tipo
 benzyna
 manualna
 64999
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2014
 140000
@@ -1489,7 +1489,7 @@ ix20
 benzyna
 manualna
 29900
-Citro\\u00ebn
+Citroën
 C4
 2011
 177000
@@ -1573,7 +1573,7 @@ Mustang
 benzyna
 manualna
 129000
-\\u0160koda
+Škoda
 Kamiq
 2019
 21600
@@ -1615,7 +1615,7 @@ Q3
 diesel
 automatyczna
 210000
-Citro\\u00ebn
+Citroën
 C5 Aircross
 2021
 1
@@ -2112,7 +2112,7 @@ Q5
 diesel
 automatyczna
 134900
-Citro\\u00ebn
+Citroën
 C5
 2011
 171000
@@ -2182,7 +2182,7 @@ Klasa B
 benzyna
 automatyczna
 69500
-\\u0160koda
+Škoda
 Kamiq
 2021
 8
@@ -2203,7 +2203,7 @@ Klasa A
 benzyna
 manualna
 10000
-\\u0160koda
+Škoda
 Octavia
 2018
 199000
@@ -2308,7 +2308,7 @@ Fiesta
 benzyna
 manualna
 45800
-\\u0160koda
+Škoda
 Karoq
 2018
 58152
@@ -2427,7 +2427,7 @@ Corsa
 benzyna
 manualna
 66894
-\\u0160koda
+Škoda
 Superb
 2015
 136081
@@ -2455,7 +2455,7 @@ Astra
 diesel
 manualna
 28905
-\\u0160koda
+Škoda
 Fabia
 2017
 31600
@@ -2609,7 +2609,7 @@ Forester
 benzyna
 automatyczna
 27000
-\\u0160koda
+Škoda
 Superb
 2016
 189000
@@ -2686,7 +2686,7 @@ Tiguan
 diesel
 automatyczna
 66900
-\\u0160koda
+Škoda
 Octavia
 2017
 179000
@@ -2756,7 +2756,7 @@ Tiguan
 diesel
 automatyczna
 99900
-\\u0160koda
+Škoda
 Kodiaq
 2021
 7
@@ -2791,14 +2791,14 @@ Leon
 diesel
 automatyczna
 62900
-\\u0160koda
+Škoda
 Octavia
 2017
 199000
 diesel
 automatyczna
 76900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2013
 152000
@@ -2938,7 +2938,7 @@ Focus
 diesel
 manualna
 47900
-Citro\\u00ebn
+Citroën
 C5
 2008
 215000
@@ -3022,7 +3022,7 @@ Q7
 diesel
 automatyczna
 132900
-Citro\\u00ebn
+Citroën
 C3
 2011
 119050
@@ -3113,7 +3113,7 @@ X3
 benzyna
 automatyczna
 364500
-\\u0160koda
+Škoda
 Fabia
 2011
 238500
@@ -3225,7 +3225,7 @@ Macan
 diesel
 automatyczna
 192741
-Citro\\u00ebn
+Citroën
 Berlingo
 2009
 219374
@@ -3239,7 +3239,7 @@ Peugeot
 diesel
 manualna
 15500
-\\u0160koda
+Škoda
 Superb
 2009
 150000
@@ -3309,7 +3309,7 @@ A6
 benzyna
 automatyczna
 19000
-\\u0160koda
+Škoda
 Superb
 2017
 150000
@@ -3351,7 +3351,7 @@ Seria 3
 diesel
 manualna
 99899
-\\u0160koda
+Škoda
 Superb
 2016
 134084
@@ -3379,7 +3379,7 @@ Seria 4
 benzyna
 automatyczna
 37800
-\\u0160koda
+Škoda
 Citigo
 2013
 78079
@@ -3484,7 +3484,7 @@ Tiguan
 benzyna
 manualna
 54900
-\\u0160koda
+Škoda
 Citigo
 2017
 155013
@@ -3596,7 +3596,7 @@ Golf Plus
 diesel
 automatyczna
 32500
-\\u0160koda
+Škoda
 Fabia
 2017
 61518
@@ -3617,7 +3617,7 @@ Laguna
 benzyna
 manualna
 25900
-\\u0160koda
+Škoda
 Fabia
 2016
 97971
@@ -3645,7 +3645,7 @@ Captur
 benzyna
 automatyczna
 52900
-\\u0160koda
+Škoda
 RAPID
 2013
 85610
@@ -3694,7 +3694,7 @@ Peugeot
 diesel
 manualna
 47900
-\\u0160koda
+Škoda
 Fabia
 2014
 49564
@@ -3722,7 +3722,7 @@ Fiesta
 benzyna
 manualna
 36900
-Citro\\u00ebn
+Citroën
 C5
 2013
 120228
@@ -3848,14 +3848,14 @@ Mondeo
 diesel
 manualna
 19900
-\\u0160koda
+Škoda
 Octavia
 2016
 121532
 benzyna
 automatyczna
 69900
-Citro\\u00ebn
+Citroën
 C5
 2015
 195000
@@ -4002,7 +4002,7 @@ Touran
 diesel
 manualna
 51000
-\\u0160koda
+Škoda
 Fabia
 2017
 140000
@@ -4093,14 +4093,14 @@ Klasa S
 diesel
 automatyczna
 39900
-Citro\\u00ebn
+Citroën
 Berlingo
 2007
 212200
 benzyna
 manualna
 9500
-Citro\\u00ebn
+Citroën
 C4
 2007
 165605
@@ -4170,7 +4170,7 @@ Seria 5
 benzyna
 automatyczna
 26000
-\\u0160koda
+Škoda
 Fabia
 2017
 65807
@@ -4184,14 +4184,14 @@ Ceed
 benzyna
 manualna
 35500
-\\u0160koda
+Škoda
 Superb
 2017
 88973
 diesel
 automatyczna
 119900
-\\u0160koda
+Škoda
 Octavia
 2010
 235000
@@ -4268,7 +4268,7 @@ Caddy
 diesel
 manualna
 15375
-\\u0160koda
+Škoda
 Fabia
 2018
 119764
@@ -4331,7 +4331,7 @@ T-Cross
 benzyna
 automatyczna
 125999
-Citro\\u00ebn
+Citroën
 C5 Aircross
 2021
 1
@@ -4471,7 +4471,7 @@ Yaris
 benzyna
 manualna
 177000
-\\u0160koda
+Škoda
 Octavia
 2018
 114000
@@ -4856,7 +4856,7 @@ A4
 diesel
 automatyczna
 114900
-\\u0160koda
+Škoda
 Superb
 2018
 84173
@@ -4912,14 +4912,14 @@ Seria 3
 diesel
 manualna
 41900
-\\u0160koda
+Škoda
 Fabia
 2014
 62000
 benzyna
 manualna
 17900
-\\u0160koda
+Škoda
 Octavia
 2017
 74252
@@ -4947,7 +4947,7 @@ XC 60
 diesel
 automatyczna
 56900
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2014
 175000
@@ -5045,7 +5045,7 @@ Golf
 benzyna
 manualna
 79900
-\\u0160koda
+Škoda
 Octavia
 2018
 148150
@@ -5101,7 +5101,7 @@ Insignia
 diesel
 automatyczna
 72000
-\\u0160koda
+Škoda
 Octavia
 2017
 240873
@@ -5262,7 +5262,7 @@ A3
 diesel
 manualna
 45000
-\\u0160koda
+Škoda
 Octavia
 2018
 138744
@@ -5318,7 +5318,7 @@ Megane
 benzyna
 manualna
 22500
-\\u0160koda
+Škoda
 Superb
 2009
 241185
@@ -5549,7 +5549,7 @@ Peugeot
 diesel
 manualna
 30000
-Citro\\u00ebn
+Citroën
 SpaceTourer
 2018
 156403
@@ -5591,7 +5591,7 @@ Mazda
 benzyna
 automatyczna
 97000
-Citro\\u00ebn
+Citroën
 C5 Aircross
 2019
 53200
@@ -5878,7 +5878,7 @@ Klasa R
 diesel
 automatyczna
 16666
-Citro\\u00ebn
+Citroën
 C3 Picasso
 2015
 59122
@@ -6242,7 +6242,7 @@ Focus
 benzyna
 manualna
 11900
-\\u0160koda
+Škoda
 Octavia
 2016
 201500
@@ -6298,7 +6298,7 @@ Seria 3
 benzyna
 manualna
 44900
-\\u0160koda
+Škoda
 Octavia
 2015
 183200
@@ -6382,7 +6382,7 @@ Insignia
 diesel
 manualna
 51900
-Citro\\u00ebn
+Citroën
 C3
 2005
 198000
@@ -6480,7 +6480,7 @@ Insignia
 diesel
 automatyczna
 46900
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2015
 93113
@@ -6501,7 +6501,7 @@ Mondeo
 diesel
 manualna
 19000
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2017
 98258
@@ -6543,7 +6543,7 @@ XC 60
 diesel
 automatyczna
 142800
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2014
 90070
@@ -6620,7 +6620,7 @@ I30
 benzyna
 manualna
 19900
-\\u0160koda
+Škoda
 Superb
 2014
 225000
@@ -6718,7 +6718,7 @@ Seria 6
 diesel
 automatyczna
 64900
-Citro\\u00ebn
+Citroën
 C4
 2021
 7401
@@ -6865,7 +6865,7 @@ Kuga
 diesel
 manualna
 54500
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2017
 65420
@@ -7005,7 +7005,7 @@ Koleos
 diesel
 manualna
 23900
-Citro\\u00ebn
+Citroën
 C2
 2005
 247081
@@ -7082,7 +7082,7 @@ Focus
 benzyna
 manualna
 77900
-\\u0160koda
+Škoda
 Octavia
 2012
 134121
@@ -7096,7 +7096,7 @@ Passat
 diesel
 manualna
 7900
-\\u0160koda
+Škoda
 RAPID
 2018
 76000
@@ -7145,7 +7145,7 @@ Seria 5
 benzyna
 automatyczna
 169900
-Citro\\u00ebn
+Citroën
 C4 SpaceTourer
 2021
 4000
@@ -7159,7 +7159,7 @@ S-Type
 benzyna
 automatyczna
 9900
-Citro\\u00ebn
+Citroën
 C5
 2009
 240000
@@ -7369,7 +7369,7 @@ Mazda
 benzyna
 automatyczna
 94000
-Citro\\u00ebn
+Citroën
 C5
 2011
 255000
@@ -7460,7 +7460,7 @@ Focus
 diesel
 manualna
 34900
-\\u0160koda
+Škoda
 Fabia
 2011
 176000
@@ -7474,7 +7474,7 @@ Leon
 diesel
 manualna
 51900
-Citro\\u00ebn
+Citroën
 C5
 2010
 188000
@@ -7558,7 +7558,7 @@ Leon
 benzyna
 manualna
 3900
-\\u0160koda
+Škoda
 Octavia
 2009
 110000
@@ -7642,7 +7642,7 @@ SQ7
 diesel
 automatyczna
 249900
-\\u0160koda
+Škoda
 Octavia
 2018
 140000
@@ -7670,7 +7670,7 @@ Bravo
 benzyna
 manualna
 12300
-\\u0160koda
+Škoda
 Superb
 2016
 230000
@@ -7831,7 +7831,7 @@ ML
 diesel
 automatyczna
 33000
-Citro\\u00ebn
+Citroën
 Berlingo
 2006
 209000
@@ -8055,7 +8055,7 @@ Yaris
 benzyna
 manualna
 17900
-Citro\\u00ebn
+Citroën
 Jumpy Combi
 2015
 144307
@@ -8279,7 +8279,7 @@ Monte Carlo
 benzyna
 automatyczna
 79000
-\\u0160koda
+Škoda
 RAPID
 2015
 211000
@@ -8307,14 +8307,14 @@ Seria 3
 benzyna
 automatyczna
 99900
-Citro\\u00ebn
+Citroën
 DS3
 2016
 82100
 benzyna
 automatyczna
 27700
-\\u0160koda
+Škoda
 Kamiq
 2020
 24000
@@ -8335,7 +8335,7 @@ Jazz
 benzyna
 manualna
 8900
-\\u0160koda
+Škoda
 Octavia
 2008
 282000
@@ -8349,7 +8349,7 @@ A4
 benzyna
 manualna
 8900
-\\u0160koda
+Škoda
 Superb
 2003
 277354
@@ -8468,14 +8468,14 @@ A6
 diesel
 automatyczna
 84900
-Citro\\u00ebn
+Citroën
 DS4
 2013
 132225
 diesel
 automatyczna
 19900
-Citro\\u00ebn
+Citroën
 C4
 2010
 160000
@@ -8643,7 +8643,7 @@ RAM
 benzyna
 automatyczna
 64000
-\\u0160koda
+Škoda
 Octavia
 2012
 98000
@@ -8755,7 +8755,7 @@ Levante
 benzyna
 automatyczna
 143000
-\\u0160koda
+Škoda
 Superb
 2016
 156000
@@ -8846,21 +8846,21 @@ QX60
 benzyna
 automatyczna
 169900
-Citro\\u00ebn
+Citroën
 C3
 2017
 30243
 benzyna
 manualna
 48900
-\\u0160koda
+Škoda
 Fabia
 2011
 189000
 benzyna
 manualna
 15800
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2017
 123712
@@ -8986,7 +8986,7 @@ T-Cross
 benzyna
 manualna
 87000
-Citro\\u00ebn
+Citroën
 C3
 2017
 11827
@@ -9112,7 +9112,7 @@ Fiat
 benzyna
 manualna
 21600
-\\u0160koda
+Škoda
 Octavia
 2007
 410000
@@ -9273,7 +9273,7 @@ Avensis
 benzyna
 manualna
 69900
-\\u0160koda
+Škoda
 Superb
 2017
 113800
@@ -9350,7 +9350,7 @@ Q5
 diesel
 automatyczna
 197620
-\\u0160koda
+Škoda
 Octavia
 2012
 187000
@@ -9539,7 +9539,7 @@ Mazda
 benzyna
 manualna
 2990
-Citro\\u00ebn
+Citroën
 C5
 2010
 70000
@@ -9672,7 +9672,7 @@ Micra
 benzyna
 manualna
 7900
-Citro\\u00ebn
+Citroën
 C3
 2015
 63661
@@ -9763,7 +9763,7 @@ Zafira
 diesel
 manualna
 39900
-\\u0160koda
+Škoda
 Octavia
 2013
 109064
@@ -10022,7 +10022,7 @@ Seria 3
 benzyna
 manualna
 18500
-\\u0160koda
+Škoda
 Superb
 2012
 222000
@@ -10050,7 +10050,7 @@ A3
 benzyna
 manualna
 27500
-Citro\\u00ebn
+Citroën
 DS3
 2013
 253625
@@ -10092,7 +10092,7 @@ S-Max
 diesel
 manualna
 46900
-Citro\\u00ebn
+Citroën
 C3
 2013
 73759
@@ -10512,7 +10512,7 @@ Panamera
 benzyna
 automatyczna
 333333
-Citro\\u00ebn
+Citroën
 DS3
 2012
 156000
@@ -10582,7 +10582,7 @@ Arteon
 benzyna
 manualna
 161900
-\\u0160koda
+Škoda
 Superb
 2017
 115456
@@ -10771,14 +10771,14 @@ Auris
 benzyna
 manualna
 54900
-\\u0160koda
+Škoda
 Octavia
 2014
 270679
 diesel
 automatyczna
 39999
-\\u0160koda
+Škoda
 Octavia
 2007
 120478
@@ -10834,7 +10834,7 @@ Kuga
 diesel
 manualna
 39999
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2012
 82000
@@ -10848,7 +10848,7 @@ X1
 diesel
 automatyczna
 99800
-Citro\\u00ebn
+Citroën
 C3
 2018
 35000
@@ -11079,7 +11079,7 @@ Cooper S
 benzyna
 manualna
 18999
-Citro\\u00ebn
+Citroën
 C5
 2016
 220000
@@ -11219,7 +11219,7 @@ Golf
 benzyna
 manualna
 18400
-Citro\\u00ebn
+Citroën
 C3 Picasso
 2015
 72000
@@ -11254,14 +11254,14 @@ Ibiza
 benzyna
 manualna
 30900
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2016
 124844
 diesel
 manualna
 39900
-Citro\\u00ebn
+Citroën
 Berlingo
 2014
 161000
@@ -11534,7 +11534,7 @@ Passat
 diesel
 automatyczna
 46900
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2014
 129980
@@ -11597,7 +11597,7 @@ X5
 diesel
 automatyczna
 47300
-\\u0160koda
+Škoda
 Octavia
 2009
 330000
@@ -11667,7 +11667,7 @@ CX-3
 benzyna
 manualna
 81200
-Citro\\u00ebn
+Citroën
 Berlingo
 2012
 212000
@@ -11744,7 +11744,7 @@ Duster
 benzyna
 manualna
 45900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2010
 122951
@@ -11842,7 +11842,7 @@ Captur
 benzyna
 manualna
 47500
-\\u0160koda
+Škoda
 Superb
 2012
 213000
@@ -11933,7 +11933,7 @@ Previa
 diesel
 manualna
 19600
-\\u0160koda
+Škoda
 Karoq
 2021
 9
@@ -12003,7 +12003,7 @@ Golf
 diesel
 manualna
 37900
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2019
 26522
@@ -12080,7 +12080,7 @@ Avensis
 benzyna
 manualna
 14900
-\\u0160koda
+Škoda
 Superb
 2018
 215000
@@ -12129,7 +12129,7 @@ Astra
 benzyna
 automatyczna
 62900
-Citro\\u00ebn
+Citroën
 Berlingo
 2016
 82000
@@ -12206,7 +12206,7 @@ Aveo
 benzyna
 manualna
 19900
-Citro\\u00ebn
+Citroën
 DS3
 2010
 154867
@@ -12248,7 +12248,7 @@ Klasa A
 benzyna
 manualna
 9900
-\\u0160koda
+Škoda
 Fabia
 2015
 59000
@@ -12465,7 +12465,7 @@ Z4
 benzyna
 automatyczna
 129900
-Citro\\u00ebn
+Citroën
 C1
 2011
 97500
@@ -12493,7 +12493,7 @@ Insignia
 diesel
 manualna
 26700
-Citro\\u00ebn
+Citroën
 C5
 2014
 239000
@@ -12535,7 +12535,7 @@ Seria 5
 diesel
 automatyczna
 179900
-\\u0160koda
+Škoda
 Kodiaq
 2019
 47500
@@ -12738,7 +12738,7 @@ Seria 5
 diesel
 automatyczna
 100900
-\\u0160koda
+Škoda
 Karoq
 2021
 8
@@ -12857,7 +12857,7 @@ Ceed
 diesel
 manualna
 41900
-Citro\\u00ebn
+Citroën
 Berlingo
 2005
 175900
@@ -12990,7 +12990,7 @@ Kuga
 benzyna
 automatyczna
 188400
-Citro\\u00ebn
+Citroën
 C3
 2009
 136000
@@ -13165,14 +13165,14 @@ Passat
 diesel
 automatyczna
 25900
-Citro\\u00ebn
+Citroën
 C4
 2009
 210000
 diesel
 manualna
 11500
-Citro\\u00ebn
+Citroën
 C5
 2008
 218000
@@ -13263,7 +13263,7 @@ Klasa E
 diesel
 automatyczna
 69900
-Citro\\u00ebn
+Citroën
 C3
 2012
 127609
@@ -13291,7 +13291,7 @@ Mazda
 benzyna
 manualna
 54900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2012
 184000
@@ -13403,7 +13403,7 @@ Yaris
 benzyna
 manualna
 11500
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2008
 262000
@@ -13655,7 +13655,7 @@ Fiesta
 benzyna
 manualna
 19900
-Citro\\u00ebn
+Citroën
 C5
 2011
 106000
@@ -13746,7 +13746,7 @@ Tiguan
 diesel
 automatyczna
 144900
-\\u0160koda
+Škoda
 Superb
 2017
 276708
@@ -13802,7 +13802,7 @@ Focus
 diesel
 automatyczna
 59800
-Citro\\u00ebn
+Citroën
 C5
 2008
 198500
@@ -13844,8 +13844,8 @@ Kadjar
 diesel
 manualna
 62900
-Citro\\u00ebn
-C-Elys\\u00e9e
+Citroën
+C-Elysée
 2015
 119857
 diesel
@@ -14033,7 +14033,7 @@ Fiat
 benzyna
 manualna
 19900
-\\u0160koda
+Škoda
 RAPID
 2016
 151721
@@ -14173,14 +14173,14 @@ Astra
 benzyna
 manualna
 11500
-\\u0160koda
+Škoda
 Fabia
 2016
 163550
 diesel
 manualna
 33500
-\\u0160koda
+Škoda
 Superb
 2017
 182000
@@ -14369,21 +14369,21 @@ Grand Espace
 diesel
 manualna
 36500
-\\u0160koda
+Škoda
 Octavia
 2015
 86693
 benzyna
 automatyczna
 89900
-\\u0160koda
+Škoda
 Superb
 2020
 26742
 benzyna
 automatyczna
 201900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2011
 237000
@@ -14488,7 +14488,7 @@ XV
 benzyna
 automatyczna
 123255
-\\u0160koda
+Škoda
 Octavia
 2016
 92076
@@ -14565,7 +14565,7 @@ A8
 diesel
 automatyczna
 548900
-Citro\\u00ebn
+Citroën
 Berlingo
 2015
 332303
@@ -14754,7 +14754,7 @@ A8
 benzyna
 automatyczna
 69800
-Citro\\u00ebn
+Citroën
 C3
 2020
 9000
@@ -14768,7 +14768,7 @@ Corolla
 benzyna
 manualna
 7900
-\\u0160koda
+Škoda
 Fabia
 2008
 133000
@@ -14887,7 +14887,7 @@ Qashqai
 diesel
 manualna
 62900
-Citro\\u00ebn
+Citroën
 DS3
 2013
 177011
@@ -15048,7 +15048,7 @@ Fiesta
 benzyna
 manualna
 16500
-\\u0160koda
+Škoda
 Superb
 2017
 143778
@@ -15216,7 +15216,7 @@ Twingo
 benzyna
 manualna
 22500
-\\u0160koda
+Škoda
 Yeti
 2016
 84824
@@ -15307,7 +15307,7 @@ Avensis
 benzyna
 manualna
 25000
-\\u0160koda
+Škoda
 Superb
 2015
 105682
@@ -15398,7 +15398,7 @@ Seria 1
 benzyna
 manualna
 46900
-\\u0160koda
+Škoda
 Octavia
 2012
 339000
@@ -15419,7 +15419,7 @@ Seria 1
 benzyna
 manualna
 24900
-Citro\\u00ebn
+Citroën
 C3
 2021
 5
@@ -15447,7 +15447,7 @@ Clio
 diesel
 manualna
 28900
-Citro\\u00ebn
+Citroën
 C5
 2008
 318000
@@ -15559,14 +15559,14 @@ A5
 benzyna
 automatyczna
 46000
-\\u0160koda
+Škoda
 Octavia
 2014
 135000
 benzyna
 automatyczna
 72570
-\\u0160koda
+Škoda
 Superb
 2016
 182509
@@ -15734,7 +15734,7 @@ A4
 diesel
 manualna
 18500
-\\u0160koda
+Škoda
 Superb
 2015
 147356
@@ -15783,7 +15783,7 @@ CX-5
 benzyna
 manualna
 67000
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2016
 111105
@@ -15839,7 +15839,7 @@ Sharan
 benzyna
 automatyczna
 199900
-\\u0160koda
+Škoda
 Superb
 2017
 110110
@@ -16021,7 +16021,7 @@ Seria 3
 benzyna
 automatyczna
 28900
-\\u0160koda
+Škoda
 Kodiaq
 2021
 7
@@ -16042,7 +16042,7 @@ Seria 3
 diesel
 automatyczna
 59900
-\\u0160koda
+Škoda
 Scala
 2021
 9
@@ -16077,7 +16077,7 @@ Seria 3
 diesel
 automatyczna
 78990
-\\u0160koda
+Škoda
 Octavia
 2021
 5
@@ -16119,7 +16119,7 @@ Transit Custom
 diesel
 automatyczna
 168262
-\\u0160koda
+Škoda
 Kamiq
 2021
 7
@@ -16224,7 +16224,7 @@ Insignia
 benzyna
 manualna
 32700
-\\u0160koda
+Škoda
 Kamiq
 2021
 7
@@ -16266,7 +16266,7 @@ RAV4
 benzyna
 manualna
 12999
-Citro\\u00ebn
+Citroën
 C3
 2007
 113000
@@ -16308,7 +16308,7 @@ Freelander
 diesel
 automatyczna
 23999
-\\u0160koda
+Škoda
 Fabia
 2016
 126000
@@ -16364,7 +16364,7 @@ Qashqai
 benzyna
 manualna
 83799
-\\u0160koda
+Škoda
 Octavia
 2021
 8
@@ -16392,7 +16392,7 @@ I30
 diesel
 manualna
 34700
-\\u0160koda
+Škoda
 Superb
 2021
 8
@@ -16406,21 +16406,21 @@ A4
 benzyna
 automatyczna
 189025
-\\u0160koda
+Škoda
 Kamiq
 2021
 8
 benzyna
 automatyczna
 122650
-\\u0160koda
+Škoda
 Octavia
 2021
 5
 benzyna
 automatyczna
 118300
-\\u0160koda
+Škoda
 Octavia
 2021
 5
@@ -16483,7 +16483,7 @@ Giulia
 benzyna
 automatyczna
 209900
-\\u0160koda
+Škoda
 Octavia
 2021
 5
@@ -16609,7 +16609,7 @@ Focus
 benzyna
 manualna
 46900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2013
 134085
@@ -16679,7 +16679,7 @@ Giulia
 benzyna
 automatyczna
 209900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2015
 127245
@@ -16714,7 +16714,7 @@ X7
 benzyna
 automatyczna
 463500
-\\u0160koda
+Škoda
 Fabia
 2016
 111000
@@ -16791,7 +16791,7 @@ Zafira
 diesel
 manualna
 25999
-\\u0160koda
+Škoda
 Superb
 2021
 1
@@ -16812,7 +16812,7 @@ Golf
 benzyna
 manualna
 59500
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2017
 190000
@@ -16903,7 +16903,7 @@ X3
 benzyna
 automatyczna
 286500
-\\u0160koda
+Škoda
 Octavia
 2018
 109290
@@ -16924,7 +16924,7 @@ CLS
 benzyna
 automatyczna
 467400
-\\u0160koda
+Škoda
 Octavia
 2016
 197000
@@ -17169,7 +17169,7 @@ Q5
 diesel
 manualna
 55000
-\\u0160koda
+Škoda
 Kamiq
 2021
 1
@@ -17232,7 +17232,7 @@ Qashqai
 benzyna
 manualna
 46900
-Citro\\u00ebn
+Citroën
 C4 Aircross
 2014
 55780
@@ -17253,7 +17253,7 @@ Auris
 diesel
 manualna
 30900
-\\u0160koda
+Škoda
 Octavia
 2017
 162801
@@ -17477,7 +17477,7 @@ Porsche
 benzyna
 automatyczna
 369000
-\\u0160koda
+Škoda
 Octavia
 2021
 1
@@ -17505,7 +17505,7 @@ A4
 diesel
 automatyczna
 69900
-\\u0160koda
+Škoda
 Fabia
 2016
 73500
@@ -17575,7 +17575,7 @@ Peugeot
 diesel
 manualna
 47900
-\\u0160koda
+Škoda
 RAPID
 2017
 137000
@@ -17610,7 +17610,7 @@ Megane
 diesel
 manualna
 56800
-Citro\\u00ebn
+Citroën
 C3
 2017
 77382
@@ -17743,14 +17743,14 @@ Fiat
 benzyna
 manualna
 23499
-\\u0160koda
+Škoda
 Superb
 2021
 9
 benzyna
 automatyczna
 184200
-\\u0160koda
+Škoda
 Superb
 2021
 7
@@ -17764,7 +17764,7 @@ Astra
 benzyna
 automatyczna
 31999
-\\u0160koda
+Škoda
 Superb
 2021
 7
@@ -17778,21 +17778,21 @@ IS
 benzyna
 automatyczna
 73900
-\\u0160koda
+Škoda
 Superb
 2021
 7
 benzyna
 automatyczna
 150200
-\\u0160koda
+Škoda
 Superb
 2021
 7
 benzyna
 automatyczna
 150200
-\\u0160koda
+Škoda
 Superb
 2021
 7
@@ -17855,14 +17855,14 @@ Seria 3
 diesel
 manualna
 23900
-\\u0160koda
+Škoda
 Yeti
 2015
 89900
 diesel
 manualna
 43800
-\\u0160koda
+Škoda
 Octavia
 2021
 5890
@@ -17967,7 +17967,7 @@ Aveo
 benzyna
 manualna
 6999
-Citro\\u00ebn
+Citroën
 C5 Aircross
 2020
 19000
@@ -18114,7 +18114,7 @@ XC 40
 benzyna
 automatyczna
 211900
-\\u0160koda
+Škoda
 Kodiaq
 2020
 22820
@@ -18128,7 +18128,7 @@ I30
 diesel
 manualna
 34000
-\\u0160koda
+Škoda
 Superb
 2017
 49650
@@ -18191,7 +18191,7 @@ Q5
 diesel
 automatyczna
 240200
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2013
 114000
@@ -18275,7 +18275,7 @@ Passat
 diesel
 automatyczna
 159900
-Citro\\u00ebn
+Citroën
 C5 Aircross
 2019
 19900
@@ -18380,7 +18380,7 @@ Compass
 diesel
 manualna
 86900
-\\u0160koda
+Škoda
 Octavia
 2018
 82530
@@ -18709,7 +18709,7 @@ Mokka
 benzyna
 manualna
 44900
-\\u0160koda
+Škoda
 Octavia
 2021
 1
@@ -18905,7 +18905,7 @@ Kadjar
 benzyna
 manualna
 63900
-\\u0160koda
+Škoda
 Octavia
 2021
 1
@@ -18975,7 +18975,7 @@ Seria 5
 diesel
 automatyczna
 110700
-\\u0160koda
+Škoda
 Octavia
 2010
 208340
@@ -18996,7 +18996,7 @@ Klasa E
 benzyna
 automatyczna
 168500
-\\u0160koda
+Škoda
 Octavia
 2021
 1
@@ -19052,7 +19052,7 @@ Seria 5
 benzyna
 manualna
 25900
-\\u0160koda
+Škoda
 Octavia
 2021
 1
@@ -19143,7 +19143,7 @@ Clio
 benzyna
 manualna
 41900
-\\u0160koda
+Škoda
 RAPID
 2017
 121508
@@ -19444,7 +19444,7 @@ Leon
 benzyna
 manualna
 18500
-\\u0160koda
+Škoda
 Octavia
 2021
 1
@@ -19458,7 +19458,7 @@ Sportage
 benzyna
 manualna
 104900
-\\u0160koda
+Škoda
 Octavia
 2021
 1
@@ -19486,7 +19486,7 @@ GLE
 diesel
 automatyczna
 440900
-\\u0160koda
+Škoda
 RAPID
 2018
 100450
@@ -19647,7 +19647,7 @@ Meriva
 benzyna
 manualna
 11999
-\\u0160koda
+Škoda
 Octavia
 2018
 149677
@@ -19661,7 +19661,7 @@ Tipo
 benzyna
 manualna
 86900
-\\u0160koda
+Škoda
 Octavia
 2021
 1
@@ -19696,7 +19696,7 @@ Fiat
 benzyna
 manualna
 50000
-\\u0160koda
+Škoda
 Octavia
 2021
 1
@@ -19829,7 +19829,7 @@ Megane
 benzyna
 manualna
 49990
-\\u0160koda
+Škoda
 Superb
 2017
 66000
@@ -19850,7 +19850,7 @@ Touran
 benzyna
 manualna
 16500
-\\u0160koda
+Škoda
 RAPID
 2014
 225000
@@ -19892,7 +19892,7 @@ Cruze
 diesel
 manualna
 24999
-\\u0160koda
+Škoda
 Karoq
 2020
 6270
@@ -19920,7 +19920,7 @@ A8
 benzyna
 automatyczna
 47000
-\\u0160koda
+Škoda
 Kodiaq
 2017
 105534
@@ -20116,7 +20116,7 @@ C-MAX
 benzyna
 manualna
 34999
-Citro\\u00ebn
+Citroën
 C5
 2010
 291000
@@ -20403,7 +20403,7 @@ Golf
 benzyna
 automatyczna
 149900
-\\u0160koda
+Škoda
 RAPID
 2018
 28000
@@ -20620,7 +20620,7 @@ A4
 diesel
 automatyczna
 134999
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2015
 102000
@@ -20697,7 +20697,7 @@ Insignia
 diesel
 manualna
 24900
-\\u0160koda
+Škoda
 Octavia
 2019
 56445
@@ -20739,7 +20739,7 @@ A4
 benzyna
 automatyczna
 23900
-\\u0160koda
+Škoda
 Scala
 2019
 40463
@@ -20802,7 +20802,7 @@ Insignia
 diesel
 manualna
 45900
-\\u0160koda
+Škoda
 Fabia
 2015
 93362
@@ -20942,7 +20942,7 @@ CR-V
 benzyna
 manualna
 79950
-Citro\\u00ebn
+Citroën
 C4 SpaceTourer
 2018
 168000
@@ -20956,7 +20956,7 @@ Peugeot
 diesel
 manualna
 9900
-\\u0160koda
+Škoda
 Superb
 2016
 122487
@@ -20970,14 +20970,14 @@ Passat
 diesel
 manualna
 8900
-\\u0160koda
+Škoda
 Octavia
 2021
 5
 diesel
 manualna
 122900
-Citro\\u00ebn
+Citroën
 C3 Picasso
 2009
 119000
@@ -21026,7 +21026,7 @@ SLK
 benzyna
 automatyczna
 17500
-\\u0160koda
+Škoda
 Superb
 2018
 119000
@@ -21138,7 +21138,7 @@ Micra
 benzyna
 manualna
 47500
-\\u0160koda
+Škoda
 Octavia
 2011
 174302
@@ -21201,7 +21201,7 @@ T-Cross
 benzyna
 manualna
 108700
-Citro\\u00ebn
+Citroën
 C3 Aircross
 2020
 17000
@@ -21537,7 +21537,7 @@ A6
 diesel
 manualna
 35900
-Citro\\u00ebn
+Citroën
 C5
 2010
 239000
@@ -21600,7 +21600,7 @@ M2
 benzyna
 automatyczna
 265188
-\\u0160koda
+Škoda
 Fabia
 2017
 167000
@@ -21684,21 +21684,21 @@ Corsa
 benzyna
 manualna
 22500
-Citro\\u00ebn
+Citroën
 Jumpy Combi
 2011
 190583
 diesel
 manualna
 24999
-\\u0160koda
+Škoda
 Octavia
 2017
 68300
 benzyna
 automatyczna
 95900
-Citro\\u00ebn
+Citroën
 C5
 2010
 449000
@@ -21754,7 +21754,7 @@ X5
 diesel
 automatyczna
 49999
-\\u0160koda
+Škoda
 Octavia
 2017
 52540
@@ -21915,7 +21915,7 @@ Fiat
 benzyna
 manualna
 24900
-\\u0160koda
+Škoda
 Octavia
 2012
 132009
@@ -22034,7 +22034,7 @@ Q5
 benzyna
 automatyczna
 172000
-Citro\\u00ebn
+Citroën
 C5
 2011
 229000
@@ -22167,7 +22167,7 @@ Klasa E
 benzyna
 automatyczna
 16900
-Citro\\u00ebn
+Citroën
 DS3
 2015
 103705
@@ -22216,7 +22216,7 @@ Civic
 benzyna
 manualna
 33000
-Citro\\u00ebn
+Citroën
 DS4
 2012
 128536
@@ -22230,7 +22230,7 @@ GLA
 benzyna
 automatyczna
 80000
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2016
 65445
@@ -22328,14 +22328,14 @@ Sportage
 benzyna
 manualna
 85000
-\\u0160koda
+Škoda
 Superb
 2012
 103597
 benzyna
 automatyczna
 45000
-\\u0160koda
+Škoda
 RAPID
 2017
 48880
@@ -22384,7 +22384,7 @@ Polo
 diesel
 manualna
 12200
-\\u0160koda
+Škoda
 Fabia
 2019
 46488
@@ -22503,7 +22503,7 @@ X3
 diesel
 manualna
 28000
-\\u0160koda
+Škoda
 Fabia
 2016
 76500
@@ -22580,14 +22580,14 @@ Ibiza
 benzyna
 manualna
 65900
-Citro\\u00ebn
+Citroën
 Berlingo
 2003
 399950
 diesel
 manualna
 4300
-\\u0160koda
+Škoda
 Octavia
 2016
 153454
@@ -22601,7 +22601,7 @@ Kadjar
 diesel
 automatyczna
 82000
-Citro\\u00ebn
+Citroën
 C5
 2019
 47785
@@ -22825,14 +22825,14 @@ Sportage
 benzyna
 manualna
 51900
-Citro\\u00ebn
+Citroën
 C3
 2004
 139000
 benzyna
 automatyczna
 9999
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2016
 172000
@@ -23091,7 +23091,7 @@ Mondeo
 diesel
 automatyczna
 55000
-\\u0160koda
+Škoda
 Octavia
 2013
 140875
@@ -23119,7 +23119,7 @@ Astra
 benzyna
 manualna
 49000
-\\u0160koda
+Škoda
 Fabia
 2010
 116508
@@ -23245,14 +23245,14 @@ ML
 benzyna
 automatyczna
 148000
-Citro\\u00ebn
+Citroën
 C4
 2011
 246000
 diesel
 manualna
 21700
-Citro\\u00ebn
+Citroën
 C3
 2012
 76300
@@ -23266,7 +23266,7 @@ GLA
 diesel
 automatyczna
 95700
-\\u0160koda
+Škoda
 Superb
 2013
 223000
@@ -23343,7 +23343,7 @@ Focus
 benzyna
 automatyczna
 94000
-\\u0160koda
+Škoda
 Octavia
 2005
 305230
@@ -23518,7 +23518,7 @@ S-Max
 diesel
 manualna
 30900
-Citro\\u00ebn
+Citroën
 C2
 2004
 212000
@@ -23952,7 +23952,7 @@ Spark
 benzyna
 manualna
 14750
-\\u0160koda
+Škoda
 Superb
 2015
 137000
@@ -24001,7 +24001,7 @@ Seria 5
 diesel
 manualna
 39500
-Citro\\u00ebn
+Citroën
 C4
 2011
 276000
@@ -24211,7 +24211,7 @@ Jazz
 benzyna
 manualna
 25900
-Citro\\u00ebn
+Citroën
 C3
 2018
 23000
@@ -24281,14 +24281,14 @@ Picanto
 benzyna
 manualna
 27900
-Citro\\u00ebn
+Citroën
 C4
 2008
 231000
 benzyna
 manualna
 10900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2008
 249876
@@ -24351,7 +24351,7 @@ Arkana
 benzyna
 automatyczna
 122700
-Citro\\u00ebn
+Citroën
 C2
 2005
 238500
@@ -24428,7 +24428,7 @@ Golf
 benzyna
 automatyczna
 119900
-\\u0160koda
+Škoda
 Citigo
 2014
 45000
@@ -24631,7 +24631,7 @@ GLC
 benzyna
 automatyczna
 206640
-Citro\\u00ebn
+Citroën
 C3
 2012
 63000
@@ -24834,7 +24834,7 @@ Peugeot
 diesel
 manualna
 38900
-Citro\\u00ebn
+Citroën
 Berlingo
 2011
 128000
@@ -24974,7 +24974,7 @@ XC 40
 benzyna
 automatyczna
 212133
-\\u0160koda
+Škoda
 Octavia
 2013
 185700
@@ -25128,7 +25128,7 @@ Sportage
 diesel
 manualna
 53500
-Citro\\u00ebn
+Citroën
 C5
 2010
 108681
@@ -25282,7 +25282,7 @@ Focus
 diesel
 manualna
 22900
-Citro\\u00ebn
+Citroën
 Berlingo
 2017
 92300
@@ -25597,7 +25597,7 @@ Insignia
 diesel
 manualna
 29900
-\\u0160koda
+Škoda
 Superb
 2016
 103407
@@ -25653,7 +25653,7 @@ Pro_cee'd
 benzyna
 automatyczna
 124532
-\\u0160koda
+Škoda
 Octavia
 2016
 169400
@@ -25863,7 +25863,7 @@ Galaxy
 diesel
 automatyczna
 144900
-\\u0160koda
+Škoda
 RAPID
 2017
 79563
@@ -26150,7 +26150,7 @@ Sportage
 benzyna
 manualna
 87900
-\\u0160koda
+Škoda
 Superb
 2010
 139500
@@ -26255,7 +26255,7 @@ Swift
 benzyna
 manualna
 5980
-\\u0160koda
+Škoda
 Fabia
 2018
 91400
@@ -26360,7 +26360,7 @@ Peugeot
 diesel
 manualna
 24800
-\\u0160koda
+Škoda
 Octavia
 2017
 117900
@@ -26542,7 +26542,7 @@ A4
 diesel
 manualna
 46400
-\\u0160koda
+Škoda
 Superb
 2017
 91760
@@ -26724,7 +26724,7 @@ Jazz
 benzyna
 manualna
 49500
-\\u0160koda
+Škoda
 Octavia
 2017
 113500
@@ -26752,7 +26752,7 @@ Kuga
 diesel
 manualna
 59999
-\\u0160koda
+Škoda
 Octavia
 2009
 205000
@@ -26773,7 +26773,7 @@ Mazda
 benzyna
 automatyczna
 91900
-\\u0160koda
+Škoda
 Fabia
 2020
 35000
@@ -26892,7 +26892,7 @@ Focus
 benzyna
 manualna
 52900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2013
 89488
@@ -26976,7 +26976,7 @@ Swift
 benzyna
 manualna
 25900
-Citro\\u00ebn
+Citroën
 C1
 2005
 250000
@@ -27109,7 +27109,7 @@ I30
 benzyna
 manualna
 40500
-\\u0160koda
+Škoda
 Karoq
 2018
 80498
@@ -27193,7 +27193,7 @@ Grandeur
 benzyna
 automatyczna
 18900
-\\u0160koda
+Škoda
 Octavia
 2013
 172000
@@ -27305,7 +27305,7 @@ Z4
 benzyna
 manualna
 90000
-Citro\\u00ebn
+Citroën
 C1
 2014
 87000
@@ -27340,7 +27340,7 @@ Toledo
 diesel
 automatyczna
 43400
-\\u0160koda
+Škoda
 Octavia
 2011
 238370
@@ -27557,7 +27557,7 @@ Avensis
 diesel
 manualna
 34900
-Citro\\u00ebn
+Citroën
 DS3
 2010
 169000
@@ -27606,7 +27606,7 @@ Mondeo
 benzyna
 manualna
 19900
-\\u0160koda
+Škoda
 Octavia
 2018
 55291
@@ -27683,7 +27683,7 @@ A3
 diesel
 manualna
 49900
-\\u0160koda
+Škoda
 Fabia
 2015
 77600
@@ -27697,7 +27697,7 @@ Corsa
 benzyna
 manualna
 77090
-\\u0160koda
+Škoda
 Octavia
 2021
 5
@@ -27718,7 +27718,7 @@ XCeed
 benzyna
 manualna
 93495
-\\u0160koda
+Škoda
 Octavia
 2008
 280000
@@ -27942,7 +27942,7 @@ Talisman
 diesel
 automatyczna
 62900
-\\u0160koda
+Škoda
 RAPID
 2014
 76899
@@ -27970,7 +27970,7 @@ Golf Sportsvan
 diesel
 automatyczna
 68500
-\\u0160koda
+Škoda
 Octavia
 2013
 217200
@@ -28033,7 +28033,7 @@ Kuga
 diesel
 automatyczna
 137800
-Citro\\u00ebn
+Citroën
 C5
 2010
 215000
@@ -28215,7 +28215,7 @@ Duster
 benzyna
 manualna
 48900
-\\u0160koda
+Škoda
 Fabia
 2018
 140000
@@ -28236,7 +28236,7 @@ Astra
 benzyna
 manualna
 64900
-\\u0160koda
+Škoda
 Fabia
 2015
 208000
@@ -28334,7 +28334,7 @@ Sportage
 benzyna
 automatyczna
 113900
-\\u0160koda
+Škoda
 Octavia
 2018
 123000
@@ -28362,7 +28362,7 @@ Mazda
 benzyna
 automatyczna
 89900
-Citro\\u00ebn
+Citroën
 C3 Picasso
 2010
 207000
@@ -28376,7 +28376,7 @@ Fiesta
 benzyna
 manualna
 34900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2014
 172000
@@ -28397,7 +28397,7 @@ S60
 benzyna
 automatyczna
 193333
-\\u0160koda
+Škoda
 Octavia
 2008
 219200
@@ -28719,7 +28719,7 @@ Seria 5
 diesel
 manualna
 69900
-\\u0160koda
+Škoda
 Superb
 2008
 183256
@@ -28866,7 +28866,7 @@ C-MAX
 diesel
 manualna
 40500
-\\u0160koda
+Škoda
 Superb
 2021
 9
@@ -29160,7 +29160,7 @@ Klasa E
 diesel
 manualna
 34900
-\\u0160koda
+Škoda
 Octavia
 2006
 216000
@@ -29265,7 +29265,7 @@ Murano
 benzyna
 automatyczna
 19900
-Citro\\u00ebn
+Citroën
 C3
 2008
 112000
@@ -29454,8 +29454,8 @@ QX50
 benzyna
 automatyczna
 99950
-Citro\\u00ebn
-C-Elys\\u00e9e
+Citroën
+C-Elysée
 2017
 78200
 benzyna
@@ -29468,7 +29468,7 @@ CX-5
 benzyna
 automatyczna
 59800
-\\u0160koda
+Škoda
 Octavia
 2017
 76677
@@ -29531,7 +29531,7 @@ Sharan
 benzyna
 manualna
 81900
-Citro\\u00ebn
+Citroën
 C3
 2021
 1
@@ -29608,7 +29608,7 @@ CL
 benzyna
 automatyczna
 38000
-\\u0160koda
+Škoda
 Octavia
 2018
 58682
@@ -29650,7 +29650,7 @@ Micra
 benzyna
 manualna
 55900
-Citro\\u00ebn
+Citroën
 C5
 2012
 228000
@@ -29664,7 +29664,7 @@ Peugeot
 benzyna
 manualna
 48000
-\\u0160koda
+Škoda
 Kodiaq
 2021
 7
@@ -29678,7 +29678,7 @@ Seria 3
 benzyna
 manualna
 18000
-\\u0160koda
+Škoda
 Fabia
 2021
 8386
@@ -29692,7 +29692,7 @@ Megane
 diesel
 manualna
 64999
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2014
 140207
@@ -29748,7 +29748,7 @@ Transit Custom
 diesel
 manualna
 155716
-\\u0160koda
+Škoda
 RAPID
 2015
 120000
@@ -29762,7 +29762,7 @@ Golf
 diesel
 manualna
 65800
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2007
 340000
@@ -30070,7 +30070,7 @@ Scenic
 benzyna
 manualna
 36900
-\\u0160koda
+Škoda
 Superb
 2017
 179600
@@ -30119,7 +30119,7 @@ XCeed
 benzyna
 manualna
 93495
-\\u0160koda
+Škoda
 Yeti
 2016
 166500
@@ -30154,7 +30154,7 @@ Arteon
 benzyna
 automatyczna
 107000
-\\u0160koda
+Škoda
 Fabia
 2017
 90900
@@ -30287,7 +30287,7 @@ A5
 diesel
 manualna
 63000
-\\u0160koda
+Škoda
 Superb
 2016
 187513
@@ -30322,7 +30322,7 @@ Seria 5
 benzyna
 manualna
 29000
-\\u0160koda
+Škoda
 Octavia
 2011
 271000
@@ -30392,7 +30392,7 @@ Insignia
 benzyna
 automatyczna
 94200
-Citro\\u00ebn
+Citroën
 C3
 2014
 55078
@@ -30434,7 +30434,7 @@ i20
 diesel
 manualna
 18000
-Citro\\u00ebn
+Citroën
 C3
 2013
 36525
@@ -30469,7 +30469,7 @@ Auris
 diesel
 manualna
 58500
-\\u0160koda
+Škoda
 Fabia
 2021
 8
@@ -30602,7 +30602,7 @@ CLA
 benzyna
 automatyczna
 86900
-Citro\\u00ebn
+Citroën
 C3 Aircross
 2021
 1
@@ -30672,7 +30672,7 @@ Seria 3
 diesel
 automatyczna
 59999
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2016
 104748
@@ -30770,7 +30770,7 @@ Clio
 benzyna
 manualna
 80300
-\\u0160koda
+Škoda
 Superb
 2016
 125426
@@ -30945,7 +30945,7 @@ GLA
 benzyna
 automatyczna
 69700
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2010
 179800
@@ -31505,7 +31505,7 @@ Trafic
 diesel
 manualna
 38000
-Citro\\u00ebn
+Citroën
 C3 Aircross
 2021
 8927
@@ -31820,7 +31820,7 @@ Giulia
 diesel
 automatyczna
 252500
-\\u0160koda
+Škoda
 Octavia
 2018
 157668
@@ -31904,7 +31904,7 @@ Klasa E
 diesel
 manualna
 19900
-\\u0160koda
+Škoda
 Octavia
 2017
 181397
@@ -31981,7 +31981,7 @@ A3
 diesel
 manualna
 39499
-\\u0160koda
+Škoda
 Superb
 2017
 174927
@@ -32016,7 +32016,7 @@ Mokka
 benzyna
 manualna
 53999
-\\u0160koda
+Škoda
 Fabia
 2016
 122000
@@ -32086,7 +32086,7 @@ Grand Cherokee
 benzyna
 automatyczna
 95000
-Citro\\u00ebn
+Citroën
 Berlingo
 2009
 191013
@@ -32268,7 +32268,7 @@ A4
 benzyna
 automatyczna
 194900
-\\u0160koda
+Škoda
 RAPID
 2017
 138542
@@ -32373,8 +32373,8 @@ Ranger
 diesel
 automatyczna
 178965
-Citro\\u00ebn
-C-Elys\\u00e9e
+Citroën
+C-Elysée
 2017
 131900
 benzyna
@@ -32443,7 +32443,7 @@ Crossline
 diesel
 automatyczna
 40900
-Citro\\u00ebn
+Citroën
 C4
 2007
 123000
@@ -32562,7 +32562,7 @@ Mondeo
 benzyna
 manualna
 13900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2010
 168841
@@ -32653,7 +32653,7 @@ Peugeot
 diesel
 manualna
 38500
-\\u0160koda
+Škoda
 Kodiaq
 2017
 152022
@@ -32800,7 +32800,7 @@ Talisman
 diesel
 automatyczna
 129999
-\\u0160koda
+Škoda
 Kodiaq
 2019
 99369
@@ -32863,7 +32863,7 @@ Cooper
 diesel
 automatyczna
 23000
-\\u0160koda
+Škoda
 Superb
 2019
 88407
@@ -32891,7 +32891,7 @@ Mondeo
 diesel
 manualna
 87500
-\\u0160koda
+Škoda
 Octavia
 2021
 5
@@ -32912,21 +32912,21 @@ Puma
 benzyna
 manualna
 84900
-\\u0160koda
+Škoda
 Octavia
 2021
 5
 benzyna
 manualna
 126700
-\\u0160koda
+Škoda
 Superb
 2007
 287912
 diesel
 manualna
 10000
-\\u0160koda
+Škoda
 Octavia
 2021
 5
@@ -33150,7 +33150,7 @@ Seicento
 benzyna
 manualna
 60000
-\\u0160koda
+Škoda
 RAPID
 2015
 50255
@@ -33598,7 +33598,7 @@ Sportage
 benzyna
 manualna
 59000
-Citro\\u00ebn
+Citroën
 Berlingo
 2013
 196820
@@ -33619,7 +33619,7 @@ Sportage
 diesel
 automatyczna
 56900
-\\u0160koda
+Škoda
 Octavia
 2017
 55417
@@ -33647,7 +33647,7 @@ A6
 benzyna
 automatyczna
 114900
-Citro\\u00ebn
+Citroën
 C4
 2005
 185377
@@ -33668,7 +33668,7 @@ Murano
 benzyna
 automatyczna
 99000
-\\u0160koda
+Škoda
 Octavia
 2021
 19000
@@ -33731,7 +33731,7 @@ Klasa C
 benzyna
 manualna
 11600
-Citro\\u00ebn
+Citroën
 Berlingo
 2010
 137000
@@ -33878,7 +33878,7 @@ Optima
 diesel
 automatyczna
 86900
-\\u0160koda
+Škoda
 Octavia
 2017
 216500
@@ -33997,7 +33997,7 @@ Corolla
 benzyna
 automatyczna
 54900
-\\u0160koda
+Škoda
 Fabia
 2016
 220000
@@ -34074,7 +34074,7 @@ Ibiza
 benzyna
 manualna
 26900
-Citro\\u00ebn
+Citroën
 C3
 2017
 39968
@@ -34116,7 +34116,7 @@ i30 N
 benzyna
 manualna
 136500
-\\u0160koda
+Škoda
 Octavia
 2012
 162000
@@ -34242,7 +34242,7 @@ Focus
 diesel
 manualna
 22900
-Citro\\u00ebn
+Citroën
 C5
 2009
 232000
@@ -34312,7 +34312,7 @@ SL
 benzyna
 automatyczna
 71900
-\\u0160koda
+Škoda
 Octavia
 2014
 154650
@@ -34375,7 +34375,7 @@ Outlander
 benzyna
 manualna
 80500
-Citro\\u00ebn
+Citroën
 DS4
 2012
 114500
@@ -34424,7 +34424,7 @@ Corsa
 benzyna
 manualna
 10800
-Citro\\u00ebn
+Citroën
 C4
 2008
 161000
@@ -34480,7 +34480,7 @@ Seria 1
 benzyna
 manualna
 14500
-\\u0160koda
+Škoda
 Fabia
 2007
 160535
@@ -34578,7 +34578,7 @@ Mondeo
 benzyna
 manualna
 32000
-\\u0160koda
+Škoda
 Fabia
 2006
 191000
@@ -34599,7 +34599,7 @@ Klasa C
 benzyna
 automatyczna
 209000
-Citro\\u00ebn
+Citroën
 C3
 2009
 170000
@@ -34613,7 +34613,7 @@ Focus
 diesel
 manualna
 7900
-Citro\\u00ebn
+Citroën
 C3 Picasso
 2010
 200000
@@ -34683,7 +34683,7 @@ Thalia
 benzyna
 manualna
 13000
-Citro\\u00ebn
+Citroën
 C5
 2009
 197000
@@ -34725,7 +34725,7 @@ Focus
 benzyna
 manualna
 29900
-\\u0160koda
+Škoda
 Superb
 2018
 112000
@@ -34795,7 +34795,7 @@ Seria 1
 diesel
 manualna
 9400
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2006
 199900
@@ -34816,7 +34816,7 @@ A4
 diesel
 automatyczna
 115800
-Citro\\u00ebn
+Citroën
 C1
 2006
 147300
@@ -34949,7 +34949,7 @@ Q5
 benzyna
 automatyczna
 89900
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2016
 118500
@@ -34998,14 +34998,14 @@ Kadjar
 diesel
 automatyczna
 73900
-Citro\\u00ebn
+Citroën
 C3
 2018
 35830
 benzyna
 manualna
 52500
-Citro\\u00ebn
+Citroën
 C5
 2001
 237000
@@ -35061,7 +35061,7 @@ Touareg
 benzyna
 automatyczna
 82000
-Citro\\u00ebn
+Citroën
 C4
 2010
 151000
@@ -35117,7 +35117,7 @@ Focus
 benzyna
 manualna
 24900
-\\u0160koda
+Škoda
 Fabia
 2015
 84290
@@ -35208,7 +35208,7 @@ Seria 7
 benzyna
 automatyczna
 78900
-\\u0160koda
+Škoda
 Kodiaq
 2017
 94400
@@ -35425,7 +35425,7 @@ Mokka
 benzyna
 manualna
 48900
-\\u0160koda
+Škoda
 Superb
 2019
 40390
@@ -35460,7 +35460,7 @@ Duster
 diesel
 manualna
 49500
-\\u0160koda
+Škoda
 Octavia
 2008
 260000
@@ -35607,7 +35607,7 @@ Q5
 diesel
 automatyczna
 181600
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2006
 243301
@@ -35621,7 +35621,7 @@ Polo
 benzyna
 manualna
 6990
-\\u0160koda
+Škoda
 Octavia
 2015
 108000
@@ -35642,7 +35642,7 @@ SX4
 diesel
 manualna
 21900
-Citro\\u00ebn
+Citroën
 Berlingo
 2013
 179000
@@ -35754,14 +35754,14 @@ Yaris
 benzyna
 manualna
 17999
-Citro\\u00ebn
+Citroën
 2 CV
 1979
 24313
 benzyna
 manualna
 18600
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2011
 200976
@@ -36111,7 +36111,7 @@ Cayenne
 benzyna
 automatyczna
 33000
-\\u0160koda
+Škoda
 Octavia
 2008
 251000
@@ -36132,7 +36132,7 @@ Passat
 diesel
 manualna
 37900
-\\u0160koda
+Škoda
 Octavia
 2017
 172000
@@ -36279,7 +36279,7 @@ CC
 diesel
 automatyczna
 66900
-Citro\\u00ebn
+Citroën
 C5
 2008
 228258
@@ -36328,7 +36328,7 @@ Klasa S
 diesel
 automatyczna
 110000
-Citro\\u00ebn
+Citroën
 C5
 2009
 198000
@@ -36447,7 +36447,7 @@ Clio
 diesel
 manualna
 30900
-\\u0160koda
+Škoda
 Superb
 2018
 210500
@@ -36482,7 +36482,7 @@ Tucson
 benzyna
 manualna
 14900
-Citro\\u00ebn
+Citroën
 C1
 2008
 125000
@@ -36601,7 +36601,7 @@ Klasa S
 benzyna
 automatyczna
 209100
-\\u0160koda
+Škoda
 Octavia
 2011
 144569
@@ -36615,7 +36615,7 @@ A6
 diesel
 automatyczna
 278200
-\\u0160koda
+Škoda
 Octavia
 2007
 151258
@@ -36636,7 +36636,7 @@ Juke
 diesel
 manualna
 35500
-Citro\\u00ebn
+Citroën
 C3 Picasso
 2009
 121000
@@ -36657,7 +36657,7 @@ Meriva
 benzyna
 manualna
 5250
-\\u0160koda
+Škoda
 Kodiaq
 2021
 7
@@ -36685,7 +36685,7 @@ Grand Voyager
 benzyna
 automatyczna
 31900
-\\u0160koda
+Škoda
 Fabia
 2012
 112525
@@ -36818,7 +36818,7 @@ Scenic
 diesel
 manualna
 6900
-\\u0160koda
+Škoda
 Superb
 2016
 240000
@@ -36902,7 +36902,7 @@ Jetta
 benzyna
 manualna
 19999
-Citro\\u00ebn
+Citroën
 Xsara Picasso
 2007
 176700
@@ -37028,7 +37028,7 @@ Seria 3
 diesel
 automatyczna
 138000
-Citro\\u00ebn
+Citroën
 DS4
 2018
 10700
@@ -37154,7 +37154,7 @@ Leon
 benzyna
 manualna
 57000
-\\u0160koda
+Škoda
 RAPID
 2018
 69326
@@ -37308,7 +37308,7 @@ Ceed
 benzyna
 manualna
 18900
-\\u0160koda
+Škoda
 Superb
 2018
 135200
@@ -37385,7 +37385,7 @@ Zafira
 benzyna
 manualna
 17700
-\\u0160koda
+Škoda
 Superb
 2010
 280000
@@ -37735,7 +37735,7 @@ A6
 diesel
 automatyczna
 34000
-Citro\\u00ebn
+Citroën
 C3
 2013
 61000
@@ -37875,7 +37875,7 @@ ix35
 benzyna
 manualna
 46800
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2016
 17779
@@ -37896,7 +37896,7 @@ Giulietta
 benzyna
 manualna
 50000
-\\u0160koda
+Škoda
 Fabia
 2017
 84332
@@ -37952,7 +37952,7 @@ Sportage
 diesel
 manualna
 44000
-\\u0160koda
+Škoda
 Superb
 2013
 90019
@@ -38029,7 +38029,7 @@ Mazda
 benzyna
 manualna
 86000
-\\u0160koda
+Škoda
 Octavia
 2016
 157791
@@ -38085,7 +38085,7 @@ A8
 diesel
 automatyczna
 344900
-Citro\\u00ebn
+Citroën
 C-Crosser
 2008
 176508
@@ -38141,7 +38141,7 @@ A6
 diesel
 automatyczna
 57500
-\\u0160koda
+Škoda
 Kodiaq
 2020
 21337
@@ -38400,7 +38400,7 @@ Corsa
 benzyna
 manualna
 72100
-\\u0160koda
+Škoda
 Superb
 2018
 45000
@@ -38540,7 +38540,7 @@ Atu
 benzyna
 manualna
 13900
-Citro\\u00ebn
+Citroën
 Berlingo
 2011
 100000
@@ -38638,7 +38638,7 @@ Corolla Verso
 benzyna
 manualna
 19500
-Citro\\u00ebn
+Citroën
 C3
 2014
 80559
@@ -38729,7 +38729,7 @@ Fiesta
 diesel
 manualna
 27900
-\\u0160koda
+Škoda
 Octavia
 2021
 5
@@ -38750,7 +38750,7 @@ Ceed
 diesel
 automatyczna
 59900
-\\u0160koda
+Škoda
 Fabia
 2016
 119517
@@ -38827,7 +38827,7 @@ Mokka
 benzyna
 manualna
 69900
-\\u0160koda
+Škoda
 Fabia
 2017
 105414
@@ -38890,7 +38890,7 @@ Megane
 diesel
 manualna
 31900
-Citro\\u00ebn
+Citroën
 C5
 2009
 278626
@@ -38953,7 +38953,7 @@ Civic
 benzyna
 manualna
 15000
-\\u0160koda
+Škoda
 Scala
 2019
 22000
@@ -39016,7 +39016,7 @@ S4
 benzyna
 automatyczna
 90000
-Citro\\u00ebn
+Citroën
 C5
 2009
 207000
@@ -39093,7 +39093,7 @@ Megane
 benzyna
 automatyczna
 62000
-\\u0160koda
+Škoda
 Superb
 2020
 12405
@@ -39107,7 +39107,7 @@ Focus
 diesel
 manualna
 38000
-\\u0160koda
+Škoda
 Octavia
 2018
 64930
@@ -39198,7 +39198,7 @@ Klasa E
 diesel
 automatyczna
 305667
-\\u0160koda
+Škoda
 Octavia
 2017
 133003
@@ -39401,7 +39401,7 @@ Vivaro
 diesel
 automatyczna
 27900
-\\u0160koda
+Škoda
 Kodiaq
 2019
 43000
@@ -39499,7 +39499,7 @@ Challenger
 benzyna
 automatyczna
 109000
-Citro\\u00ebn
+Citroën
 C3 Aircross
 2018
 23000
@@ -39520,7 +39520,7 @@ Ibiza
 benzyna
 manualna
 8550
-Citro\\u00ebn
+Citroën
 C5 Aircross
 2020
 31597
@@ -39555,7 +39555,7 @@ Golf Plus
 benzyna
 manualna
 15999
-\\u0160koda
+Škoda
 Kamiq
 2021
 4887
@@ -39667,7 +39667,7 @@ S-Max
 benzyna
 automatyczna
 183850
-\\u0160koda
+Škoda
 RAPID
 2015
 71524
@@ -39758,7 +39758,7 @@ A6
 diesel
 automatyczna
 177900
-\\u0160koda
+Škoda
 Superb
 2018
 105192
@@ -39779,7 +39779,7 @@ Seria 5
 diesel
 automatyczna
 154900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2008
 270000
@@ -39800,7 +39800,7 @@ Croma
 benzyna
 manualna
 7500
-\\u0160koda
+Škoda
 Octavia
 2021
 5
@@ -39863,7 +39863,7 @@ Klasa S
 diesel
 automatyczna
 173000
-\\u0160koda
+Škoda
 Fabia
 2017
 33344
@@ -39891,7 +39891,7 @@ XC 90
 diesel
 automatyczna
 285000
-\\u0160koda
+Škoda
 Octavia
 2011
 245900
@@ -40045,7 +40045,7 @@ Tiguan
 benzyna
 manualna
 35900
-\\u0160koda
+Škoda
 Fabia
 2017
 68100
@@ -40059,7 +40059,7 @@ A3
 diesel
 manualna
 33999
-\\u0160koda
+Škoda
 Fabia
 2007
 330000
@@ -40437,7 +40437,7 @@ Seria 5
 benzyna
 automatyczna
 25000
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2014
 152500
@@ -40542,7 +40542,7 @@ V40
 diesel
 manualna
 51500
-Citro\\u00ebn
+Citroën
 CX
 1984
 75000
@@ -40584,14 +40584,14 @@ MGA
 benzyna
 manualna
 56000
-\\u0160koda
+Škoda
 Octavia
 2017
 94756
 diesel
 automatyczna
 69799
-\\u0160koda
+Škoda
 Superb
 2016
 96000
@@ -40612,7 +40612,7 @@ Sorento
 diesel
 automatyczna
 99900
-\\u0160koda
+Škoda
 Octavia
 2015
 197000
@@ -40661,7 +40661,7 @@ Seria 5
 diesel
 automatyczna
 75999
-Citro\\u00ebn
+Citroën
 C5
 2015
 207220
@@ -40675,7 +40675,7 @@ Polo
 benzyna
 automatyczna
 99500
-Citro\\u00ebn
+Citroën
 C3
 2007
 335000
@@ -40997,7 +40997,7 @@ Megane
 diesel
 manualna
 26000
-\\u0160koda
+Škoda
 Fabia
 2016
 68905
@@ -41011,7 +41011,7 @@ Astra
 benzyna
 manualna
 85199
-\\u0160koda
+Škoda
 Octavia
 2017
 140837
@@ -41046,7 +41046,7 @@ Seria 3
 diesel
 automatyczna
 41900
-\\u0160koda
+Škoda
 Octavia
 2014
 214700
@@ -41109,7 +41109,7 @@ Insignia
 benzyna
 automatyczna
 87799
-\\u0160koda
+Škoda
 Superb
 2017
 149277
@@ -41620,7 +41620,7 @@ Civic
 benzyna
 manualna
 8500
-\\u0160koda
+Škoda
 Octavia
 2019
 82554
@@ -41697,7 +41697,7 @@ Antara
 diesel
 manualna
 35900
-\\u0160koda
+Škoda
 RAPID
 2016
 93843
@@ -41739,7 +41739,7 @@ Juke
 benzyna
 manualna
 35400
-\\u0160koda
+Škoda
 RAPID
 2017
 126108
@@ -41774,7 +41774,7 @@ Grand C-MAX
 benzyna
 manualna
 66900
-Citro\\u00ebn
+Citroën
 Berlingo
 2004
 206500
@@ -41788,7 +41788,7 @@ Corsa
 benzyna
 manualna
 62999
-\\u0160koda
+Škoda
 Fabia
 2017
 188810
@@ -41858,7 +41858,7 @@ Vivaro
 diesel
 manualna
 56457
-Citro\\u00ebn
+Citroën
 C5
 2019
 49136
@@ -41893,7 +41893,7 @@ Talisman
 diesel
 automatyczna
 69999
-Citro\\u00ebn
+Citroën
 DS4
 2013
 180000
@@ -42019,7 +42019,7 @@ Q2
 diesel
 manualna
 85999
-\\u0160koda
+Škoda
 Octavia
 2012
 122600
@@ -42152,7 +42152,7 @@ Leon
 diesel
 manualna
 61000
-\\u0160koda
+Škoda
 Octavia
 2017
 151225
@@ -42173,7 +42173,7 @@ Mokka
 benzyna
 manualna
 52900
-\\u0160koda
+Škoda
 Kodiaq
 2018
 85000
@@ -42257,7 +42257,7 @@ Avensis
 benzyna
 manualna
 50900
-\\u0160koda
+Škoda
 Superb
 2017
 64000
@@ -42306,7 +42306,7 @@ I30
 benzyna
 manualna
 37500
-\\u0160koda
+Škoda
 Octavia
 2018
 125000
@@ -42362,7 +42362,7 @@ Kuga
 benzyna
 automatyczna
 98900
-\\u0160koda
+Škoda
 Octavia
 2018
 126000
@@ -42411,8 +42411,8 @@ Tiguan
 benzyna
 automatyczna
 236100
-Citro\\u00ebn
-C-Elys\\u00e9e
+Citroën
+C-Elysée
 2015
 76010
 benzyna
@@ -42460,7 +42460,7 @@ Insignia
 benzyna
 manualna
 77990
-\\u0160koda
+Škoda
 Citigo
 2019
 63844
@@ -42649,8 +42649,8 @@ Fiorino
 benzyna
 manualna
 38777
-Citro\\u00ebn
-C-Elys\\u00e9e
+Citroën
+C-Elysée
 2018
 102935
 benzyna
@@ -42684,7 +42684,7 @@ Cruze
 benzyna
 manualna
 22900
-\\u0160koda
+Škoda
 Fabia
 2016
 132396
@@ -42761,7 +42761,7 @@ Golf
 benzyna
 manualna
 79900
-\\u0160koda
+Škoda
 Superb
 2018
 84194
@@ -42803,7 +42803,7 @@ Megane
 benzyna
 manualna
 23400
-\\u0160koda
+Škoda
 Fabia
 2019
 48756
@@ -42845,7 +42845,7 @@ Micra
 benzyna
 manualna
 28200
-\\u0160koda
+Škoda
 Octavia
 2017
 99890
@@ -42894,7 +42894,7 @@ A3
 benzyna
 automatyczna
 195700
-\\u0160koda
+Škoda
 Octavia
 2018
 157668
@@ -42950,7 +42950,7 @@ GLC
 diesel
 automatyczna
 137999
-\\u0160koda
+Škoda
 Octavia
 2013
 172000
@@ -43146,14 +43146,14 @@ A6
 benzyna
 automatyczna
 210000
-Citro\\u00ebn
+Citroën
 Jumper
 2011
 245000
 diesel
 manualna
 39360
-\\u0160koda
+Škoda
 Superb
 2017
 117650
@@ -43426,7 +43426,7 @@ Auris
 benzyna
 manualna
 19700
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2008
 188000
@@ -43580,7 +43580,7 @@ Mondeo
 benzyna
 automatyczna
 79900
-\\u0160koda
+Škoda
 Fabia
 2019
 11894
@@ -43657,7 +43657,7 @@ Koleos
 diesel
 automatyczna
 112000
-\\u0160koda
+Škoda
 Octavia
 2017
 112000
@@ -43685,7 +43685,7 @@ A3
 benzyna
 manualna
 27500
-\\u0160koda
+Škoda
 Fabia
 2018
 54803
@@ -43713,7 +43713,7 @@ CLC
 benzyna
 manualna
 18999
-\\u0160koda
+Škoda
 Fabia
 2015
 124679
@@ -43825,7 +43825,7 @@ Civic
 benzyna
 automatyczna
 27000
-\\u0160koda
+Škoda
 Superb
 2014
 170351
@@ -43846,7 +43846,7 @@ A3
 diesel
 automatyczna
 82000
-Citro\\u00ebn
+Citroën
 C5
 2009
 218443
@@ -43881,7 +43881,7 @@ Seria 3
 benzyna
 manualna
 22000
-\\u0160koda
+Škoda
 Superb
 2012
 179848
@@ -43986,7 +43986,7 @@ Qashqai
 benzyna
 manualna
 149900
-\\u0160koda
+Škoda
 Octavia
 2016
 220717
@@ -44035,7 +44035,7 @@ Sportage
 benzyna
 manualna
 55000
-\\u0160koda
+Škoda
 Superb
 2012
 207000
@@ -44119,7 +44119,7 @@ ix20
 benzyna
 manualna
 29900
-\\u0160koda
+Škoda
 Octavia
 2006
 305000
@@ -44532,7 +44532,7 @@ Corolla
 benzyna
 manualna
 76900
-\\u0160koda
+Škoda
 Octavia
 2018
 180000
@@ -44700,14 +44700,14 @@ Qashqai
 diesel
 manualna
 25900
-Citro\\u00ebn
+Citroën
 C5
 2014
 175550
 diesel
 automatyczna
 44000
-\\u0160koda
+Škoda
 Octavia
 2011
 309000
@@ -44791,7 +44791,7 @@ Laguna
 benzyna
 manualna
 16900
-\\u0160koda
+Škoda
 Citigo
 2013
 54000
@@ -44903,7 +44903,7 @@ Peugeot
 diesel
 manualna
 10000
-Citro\\u00ebn
+Citroën
 Berlingo
 2011
 191300
@@ -45022,7 +45022,7 @@ Passat
 benzyna
 automatyczna
 30000
-Citro\\u00ebn
+Citroën
 C5
 2011
 165541
@@ -45085,7 +45085,7 @@ S80
 diesel
 automatyczna
 29900
-\\u0160koda
+Škoda
 Octavia
 2019
 72325
@@ -45218,7 +45218,7 @@ Mondeo
 diesel
 manualna
 26900
-Citro\\u00ebn
+Citroën
 C3
 2009
 181000
@@ -45484,7 +45484,7 @@ Mazda
 benzyna
 manualna
 29900
-\\u0160koda
+Škoda
 Fabia
 2013
 110974
@@ -45568,7 +45568,7 @@ Sorento
 diesel
 manualna
 11900
-\\u0160koda
+Škoda
 Fabia
 2012
 76693
@@ -45708,7 +45708,7 @@ Abarth
 benzyna
 manualna
 64500
-\\u0160koda
+Škoda
 RAPID
 2019
 76766
@@ -45785,7 +45785,7 @@ Seria 3
 diesel
 automatyczna
 103001
-\\u0160koda
+Škoda
 Octavia
 2009
 164255
@@ -45799,7 +45799,7 @@ Kadjar
 benzyna
 manualna
 60500
-\\u0160koda
+Škoda
 Octavia
 2017
 172123
@@ -45890,7 +45890,7 @@ Golf
 benzyna
 manualna
 75900
-\\u0160koda
+Škoda
 Octavia
 2018
 178861
@@ -45953,7 +45953,7 @@ Leon
 benzyna
 manualna
 44900
-\\u0160koda
+Škoda
 Octavia
 2017
 165216
@@ -45974,7 +45974,7 @@ Astra
 benzyna
 manualna
 23500
-Citro\\u00ebn
+Citroën
 C4
 2010
 185000
@@ -46086,7 +46086,7 @@ Megane
 diesel
 manualna
 29900
-\\u0160koda
+Škoda
 Scala
 2019
 34098
@@ -46191,7 +46191,7 @@ A4
 diesel
 automatyczna
 73400
-Citro\\u00ebn
+Citroën
 C5
 2019
 47785
@@ -46205,7 +46205,7 @@ Frontera
 benzyna
 automatyczna
 21999
-\\u0160koda
+Škoda
 Octavia
 2019
 96145
@@ -46226,7 +46226,7 @@ Verso
 diesel
 manualna
 33000
-\\u0160koda
+Škoda
 Octavia
 2019
 63323
@@ -46380,7 +46380,7 @@ Peugeot
 benzyna
 manualna
 26000
-\\u0160koda
+Škoda
 Octavia
 2018
 44047
@@ -46702,7 +46702,7 @@ Astra
 benzyna
 manualna
 33900
-\\u0160koda
+Škoda
 Octavia
 2011
 110419
@@ -46737,7 +46737,7 @@ Golf
 benzyna
 manualna
 49000
-\\u0160koda
+Škoda
 Octavia
 2012
 132009
@@ -46814,7 +46814,7 @@ XC 60
 diesel
 automatyczna
 105900
-\\u0160koda
+Škoda
 Octavia
 2012
 89748
@@ -46884,7 +46884,7 @@ A4
 benzyna
 manualna
 36700
-\\u0160koda
+Škoda
 Fabia
 2016
 185000
@@ -47122,7 +47122,7 @@ X3
 diesel
 automatyczna
 169900
-Citro\\u00ebn
+Citroën
 C5
 2008
 234000
@@ -47143,7 +47143,7 @@ Koleos
 diesel
 automatyczna
 100000
-\\u0160koda
+Škoda
 Octavia
 2008
 154702
@@ -47192,7 +47192,7 @@ S-Max
 diesel
 automatyczna
 28000
-\\u0160koda
+Škoda
 Fabia
 2010
 169000
@@ -47374,7 +47374,7 @@ Mondeo
 diesel
 automatyczna
 74999
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2016
 21522
@@ -47472,7 +47472,7 @@ Astra
 benzyna
 manualna
 36500
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2017
 86207
@@ -47507,7 +47507,7 @@ Range Rover Evoque
 diesel
 automatyczna
 119900
-\\u0160koda
+Škoda
 Octavia
 2015
 133000
@@ -47640,7 +47640,7 @@ Seria 5
 diesel
 automatyczna
 60000
-\\u0160koda
+Škoda
 Superb
 2016
 85000
@@ -47843,7 +47843,7 @@ Partner
 diesel
 manualna
 34500
-\\u0160koda
+Škoda
 Octavia
 2016
 218685
@@ -47955,7 +47955,7 @@ Grand Cherokee
 benzyna
 automatyczna
 142500
-\\u0160koda
+Škoda
 Superb
 2006
 170447
@@ -48137,14 +48137,14 @@ Astra
 diesel
 manualna
 9800
-\\u0160koda
+Škoda
 Superb
 2019
 67870
 benzyna
 manualna
 100001
-\\u0160koda
+Škoda
 Fabia
 2018
 27303
@@ -48186,7 +48186,7 @@ Focus
 diesel
 manualna
 40000
-\\u0160koda
+Škoda
 RAPID
 2018
 70722
@@ -48298,14 +48298,14 @@ Mondeo
 benzyna
 manualna
 37000
-\\u0160koda
+Škoda
 Octavia
 2018
 172911
 diesel
 manualna
 54000
-\\u0160koda
+Škoda
 Scala
 2019
 35921
@@ -48459,7 +48459,7 @@ EDGE
 diesel
 automatyczna
 124000
-\\u0160koda
+Škoda
 Superb
 2018
 84559
@@ -48571,7 +48571,7 @@ PT Cruiser
 benzyna
 manualna
 7200
-\\u0160koda
+Škoda
 Octavia
 2008
 270000
@@ -48683,7 +48683,7 @@ Passat
 diesel
 manualna
 8400
-\\u0160koda
+Škoda
 Octavia
 2021
 5
@@ -48704,7 +48704,7 @@ A4
 diesel
 manualna
 80000
-\\u0160koda
+Škoda
 Kamiq
 2021
 7
@@ -48781,7 +48781,7 @@ X5
 diesel
 automatyczna
 72000
-Citro\\u00ebn
+Citroën
 C4
 2021
 1
@@ -48858,7 +48858,7 @@ Golf
 benzyna
 manualna
 39000
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2007
 262000
@@ -48963,7 +48963,7 @@ S60
 benzyna
 automatyczna
 64400
-Citro\\u00ebn
+Citroën
 C3 Aircross
 2021
 1264
@@ -49012,7 +49012,7 @@ Insignia
 diesel
 manualna
 32000
-\\u0160koda
+Škoda
 Fabia
 2017
 41482
@@ -49124,7 +49124,7 @@ Accord
 benzyna
 manualna
 43000
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2014
 39603
@@ -49411,7 +49411,7 @@ Seria 1
 diesel
 manualna
 21900
-Citro\\u00ebn
+Citroën
 DS5
 2013
 214000
@@ -49663,7 +49663,7 @@ Klasa E
 benzyna
 automatyczna
 294900
-\\u0160koda
+Škoda
 Octavia
 2014
 189000
@@ -49698,7 +49698,7 @@ Klasa A
 diesel
 manualna
 21000
-Citro\\u00ebn
+Citroën
 C3
 2010
 130000
@@ -49761,7 +49761,7 @@ Kona
 diesel
 manualna
 65900
-\\u0160koda
+Škoda
 Kodiaq
 2018
 54531
@@ -49943,7 +49943,7 @@ Jetta
 benzyna
 manualna
 16900
-\\u0160koda
+Škoda
 Citigo
 2015
 99000
@@ -49971,7 +49971,7 @@ Crossfire
 benzyna
 manualna
 27950
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2010
 240000
@@ -50328,7 +50328,7 @@ Tiguan
 benzyna
 manualna
 48500
-\\u0160koda
+Škoda
 Superb
 2018
 83297
@@ -50342,14 +50342,14 @@ Aspen
 benzyna
 automatyczna
 50000
-\\u0160koda
+Škoda
 Superb
 2016
 146000
 diesel
 automatyczna
 77500
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2009
 145000
@@ -50454,7 +50454,7 @@ Seria 5
 benzyna
 manualna
 33900
-Citro\\u00ebn
+Citroën
 C5
 2010
 266028
@@ -50545,7 +50545,7 @@ City
 benzyna
 manualna
 12000
-\\u0160koda
+Škoda
 Citigo
 2016
 57801
@@ -50755,7 +50755,7 @@ Fiat
 benzyna
 manualna
 45900
-\\u0160koda
+Škoda
 Octavia
 2013
 94200
@@ -50972,7 +50972,7 @@ Clio
 benzyna
 manualna
 7900
-\\u0160koda
+Škoda
 Karoq
 2021
 9
@@ -51161,14 +51161,14 @@ Forester
 benzyna
 automatyczna
 114900
-\\u0160koda
+Škoda
 Kamiq
 2021
 7
 benzyna
 manualna
 89150
-\\u0160koda
+Škoda
 Octavia
 2018
 174000
@@ -51196,7 +51196,7 @@ Focus
 diesel
 manualna
 93450
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2016
 140179
@@ -51231,7 +51231,7 @@ Multivan
 diesel
 automatyczna
 295778
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2016
 226000
@@ -51315,7 +51315,7 @@ Peugeot
 benzyna
 manualna
 16500
-\\u0160koda
+Škoda
 Karoq
 2021
 9
@@ -51357,7 +51357,7 @@ Q3
 benzyna
 automatyczna
 184900
-Citro\\u00ebn
+Citroën
 C3
 2002
 190000
@@ -51378,7 +51378,7 @@ Macan
 benzyna
 automatyczna
 149000
-\\u0160koda
+Škoda
 Kodiaq
 2018
 79000
@@ -51427,7 +51427,7 @@ Astra
 benzyna
 manualna
 37900
-\\u0160koda
+Škoda
 Octavia
 2021
 8
@@ -51462,7 +51462,7 @@ S-Max
 diesel
 manualna
 28900
-\\u0160koda
+Škoda
 Octavia
 2021
 8
@@ -51511,7 +51511,7 @@ V60
 diesel
 automatyczna
 110799
-\\u0160koda
+Škoda
 Octavia
 2017
 205745
@@ -51588,14 +51588,14 @@ Qashqai
 benzyna
 manualna
 56900
-\\u0160koda
+Škoda
 Superb
 2018
 170000
 diesel
 manualna
 72900
-\\u0160koda
+Škoda
 Fabia
 2011
 81166
@@ -51672,7 +51672,7 @@ A4
 diesel
 manualna
 58500
-\\u0160koda
+Škoda
 Octavia
 2008
 253458
@@ -51707,7 +51707,7 @@ X-Trail
 diesel
 automatyczna
 33000
-\\u0160koda
+Škoda
 Superb
 2010
 236852
@@ -51756,7 +51756,7 @@ Astra
 diesel
 manualna
 39900
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2018
 86500
@@ -51784,7 +51784,7 @@ Insignia
 diesel
 manualna
 40800
-\\u0160koda
+Škoda
 Kamiq
 2021
 7
@@ -51812,7 +51812,7 @@ Mondeo
 diesel
 automatyczna
 104999
-Citro\\u00ebn
+Citroën
 C5
 2010
 155000
@@ -51896,7 +51896,7 @@ Seria 5
 diesel
 manualna
 55900
-\\u0160koda
+Škoda
 Karoq
 2021
 9
@@ -51945,7 +51945,7 @@ A5
 benzyna
 automatyczna
 80000
-Citro\\u00ebn
+Citroën
 C4
 2012
 91057
@@ -52008,7 +52008,7 @@ ix35
 benzyna
 manualna
 53500
-\\u0160koda
+Škoda
 Fabia
 2021
 5
@@ -52162,7 +52162,7 @@ Passat
 diesel
 automatyczna
 77799
-\\u0160koda
+Škoda
 Fabia
 2015
 38368
@@ -52253,14 +52253,14 @@ ASX
 benzyna
 manualna
 44000
-Citro\\u00ebn
+Citroën
 C5
 2009
 225445
 diesel
 manualna
 18000
-Citro\\u00ebn
+Citroën
 C4
 2008
 192528
@@ -52351,7 +52351,7 @@ Vitara
 benzyna
 automatyczna
 23500
-\\u0160koda
+Škoda
 Octavia
 2016
 150488
@@ -52386,7 +52386,7 @@ Focus
 diesel
 manualna
 11200
-\\u0160koda
+Škoda
 Octavia
 2009
 88589
@@ -52582,7 +52582,7 @@ A4
 diesel
 automatyczna
 14900
-\\u0160koda
+Škoda
 Superb
 2016
 121797
@@ -52610,7 +52610,7 @@ Klasa S
 benzyna
 automatyczna
 409000
-Citro\\u00ebn
+Citroën
 C1
 2008
 139000
@@ -52680,7 +52680,7 @@ Pajero
 diesel
 manualna
 29900
-\\u0160koda
+Škoda
 Roomster
 2013
 134600
@@ -52694,7 +52694,7 @@ Mazda
 diesel
 manualna
 3500
-Citro\\u00ebn
+Citroën
 C5
 2010
 266000
@@ -52785,7 +52785,7 @@ Seria 3
 benzyna
 automatyczna
 82500
-\\u0160koda
+Škoda
 Fabia
 2017
 168000
@@ -52883,7 +52883,7 @@ Klasa B
 diesel
 manualna
 16700
-\\u0160koda
+Škoda
 Octavia
 2009
 225000
@@ -52932,7 +52932,7 @@ Tucson
 benzyna
 manualna
 79900
-Citro\\u00ebn
+Citroën
 C4
 2014
 124501
@@ -53170,7 +53170,7 @@ Mazda
 benzyna
 manualna
 9900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2009
 203500
@@ -53485,7 +53485,7 @@ X3
 diesel
 automatyczna
 289100
-\\u0160koda
+Škoda
 Octavia
 2017
 148763
@@ -53499,14 +53499,14 @@ X3
 diesel
 manualna
 15000
-\\u0160koda
+Škoda
 Superb
 2016
 119846
 benzyna
 automatyczna
 103001
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2013
 110134
@@ -53583,7 +53583,7 @@ A6
 benzyna
 automatyczna
 14900
-\\u0160koda
+Škoda
 Octavia
 2017
 149577
@@ -53604,7 +53604,7 @@ Golf
 benzyna
 automatyczna
 77700
-\\u0160koda
+Škoda
 Octavia
 2019
 96145
@@ -53772,7 +53772,7 @@ Galaxy
 diesel
 manualna
 19000
-\\u0160koda
+Škoda
 Kodiaq
 2017
 43639
@@ -53786,7 +53786,7 @@ Vitara
 benzyna
 manualna
 64000
-\\u0160koda
+Škoda
 Fabia
 2018
 54803
@@ -53877,7 +53877,7 @@ Peugeot
 benzyna
 manualna
 13999
-\\u0160koda
+Škoda
 Superb
 2015
 179670
@@ -54038,7 +54038,7 @@ Punto
 benzyna
 manualna
 34700
-Citro\\u00ebn
+Citroën
 C3
 2008
 75000
@@ -54073,7 +54073,7 @@ Mondeo
 benzyna
 manualna
 24500
-Citro\\u00ebn
+Citroën
 C3
 2011
 189000
@@ -54199,7 +54199,7 @@ up!
 benzyna
 manualna
 40590
-\\u0160koda
+Škoda
 Octavia
 2018
 172000
@@ -54367,7 +54367,7 @@ Mazda
 benzyna
 automatyczna
 62900
-\\u0160koda
+Škoda
 Karoq
 2018
 69000
@@ -54395,7 +54395,7 @@ Astra
 diesel
 manualna
 43600
-Citro\\u00ebn
+Citroën
 Berlingo
 2007
 302650
@@ -54913,7 +54913,7 @@ Accord
 benzyna
 manualna
 64900
-\\u0160koda
+Škoda
 Octavia
 2018
 99500
@@ -54955,14 +54955,14 @@ Laguna
 benzyna
 manualna
 38900
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2009
 235000
 benzyna
 automatyczna
 16900
-Citro\\u00ebn
+Citroën
 C3
 2013
 163480
@@ -54983,7 +54983,7 @@ Mondeo
 diesel
 manualna
 23900
-\\u0160koda
+Škoda
 Octavia
 2013
 238000
@@ -55018,7 +55018,7 @@ Space Star
 benzyna
 manualna
 20800
-\\u0160koda
+Škoda
 Octavia
 1999
 238000
@@ -55081,7 +55081,7 @@ A4
 benzyna
 manualna
 19900
-\\u0160koda
+Škoda
 Superb
 2016
 125537
@@ -55144,7 +55144,7 @@ FX
 benzyna
 automatyczna
 54000
-\\u0160koda
+Škoda
 Superb
 2012
 249000
@@ -55158,7 +55158,7 @@ Avensis
 benzyna
 manualna
 20900
-\\u0160koda
+Škoda
 Octavia
 2017
 92000
@@ -55270,7 +55270,7 @@ Avensis
 benzyna
 manualna
 24900
-\\u0160koda
+Škoda
 Superb
 2011
 316000
@@ -55438,7 +55438,7 @@ Focus
 benzyna
 manualna
 18500
-\\u0160koda
+Škoda
 Fabia
 2007
 160000
@@ -55578,7 +55578,7 @@ X3
 diesel
 automatyczna
 31000
-\\u0160koda
+Škoda
 Octavia
 2016
 164792
@@ -55879,7 +55879,7 @@ M4
 benzyna
 automatyczna
 115000
-\\u0160koda
+Škoda
 Octavia
 2006
 147402
@@ -56026,7 +56026,7 @@ Astra
 benzyna
 manualna
 36900
-\\u0160koda
+Škoda
 Roomster
 2007
 192000
@@ -56040,7 +56040,7 @@ Pajero
 diesel
 manualna
 25900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2008
 250000
@@ -56264,7 +56264,7 @@ X-Trail
 diesel
 manualna
 67500
-\\u0160koda
+Škoda
 Octavia
 2016
 133000
@@ -56460,7 +56460,7 @@ Klasa S
 diesel
 automatyczna
 430377
-\\u0160koda
+Škoda
 Citigo
 2017
 95819
@@ -56502,7 +56502,7 @@ Seria 3
 diesel
 automatyczna
 42999
-Citro\\u00ebn
+Citroën
 C1
 2012
 126000
@@ -56698,7 +56698,7 @@ Yaris
 benzyna
 manualna
 15900
-\\u0160koda
+Škoda
 Superb
 2017
 113944
@@ -56761,7 +56761,7 @@ A4
 diesel
 automatyczna
 88300
-\\u0160koda
+Škoda
 Octavia
 2018
 91000
@@ -56775,7 +56775,7 @@ RAM
 benzyna
 automatyczna
 120000
-\\u0160koda
+Škoda
 Fabia
 2003
 248000
@@ -57027,7 +57027,7 @@ Scenic
 benzyna
 manualna
 17900
-Citro\\u00ebn
+Citroën
 Berlingo
 2010
 219401
@@ -57041,14 +57041,14 @@ A8
 diesel
 automatyczna
 208485
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2007
 153000
 benzyna
 automatyczna
 18400
-Citro\\u00ebn
+Citroën
 C3
 2014
 107656
@@ -57097,7 +57097,7 @@ Kuga
 diesel
 manualna
 59990
-\\u0160koda
+Škoda
 Octavia
 2018
 95941
@@ -57209,7 +57209,7 @@ Fiat
 benzyna
 automatyczna
 35900
-\\u0160koda
+Škoda
 Superb
 2021
 7
@@ -57321,7 +57321,7 @@ Insignia
 benzyna
 manualna
 42900
-Citro\\u00ebn
+Citroën
 C5
 2009
 283000
@@ -57468,7 +57468,7 @@ ix20
 benzyna
 manualna
 23800
-\\u0160koda
+Škoda
 Superb
 2021
 7
@@ -57503,7 +57503,7 @@ C-MAX
 benzyna
 manualna
 32000
-\\u0160koda
+Škoda
 Superb
 2021
 7
@@ -57636,7 +57636,7 @@ Passat
 diesel
 automatyczna
 149799
-\\u0160koda
+Škoda
 Fabia
 2018
 59072
@@ -57741,7 +57741,7 @@ CR-V
 benzyna
 manualna
 87900
-\\u0160koda
+Škoda
 Superb
 2016
 166366
@@ -57804,7 +57804,7 @@ Golf Sportsvan
 diesel
 manualna
 54900
-\\u0160koda
+Škoda
 Octavia
 2012
 270000
@@ -57853,21 +57853,21 @@ Peugeot
 benzyna
 manualna
 35500
-\\u0160koda
+Škoda
 Roomster
 2014
 143799
 benzyna
 manualna
 31900
-Citro\\u00ebn
+Citroën
 C4
 2015
 140000
 benzyna
 manualna
 33999
-\\u0160koda
+Škoda
 Karoq
 2021
 8
@@ -58028,7 +58028,7 @@ Caddy
 diesel
 manualna
 111196
-\\u0160koda
+Škoda
 Octavia
 2015
 186000
@@ -58133,7 +58133,7 @@ Astra
 diesel
 manualna
 7700
-Citro\\u00ebn
+Citroën
 DS3
 2010
 173517
@@ -58224,7 +58224,7 @@ X5 M
 benzyna
 automatyczna
 325000
-Citro\\u00ebn
+Citroën
 C3
 2010
 170000
@@ -58259,14 +58259,14 @@ Grand C-MAX
 benzyna
 manualna
 29000
-\\u0160koda
+Škoda
 Octavia
 2018
 74459
 benzyna
 manualna
 79799
-\\u0160koda
+Škoda
 Superb
 2021
 7
@@ -58315,7 +58315,7 @@ Q7
 diesel
 automatyczna
 90000
-\\u0160koda
+Škoda
 Octavia
 2017
 122451
@@ -58399,7 +58399,7 @@ Klasa C
 benzyna
 automatyczna
 33500
-\\u0160koda
+Škoda
 Fabia
 2004
 186100
@@ -58518,14 +58518,14 @@ Seria 1
 diesel
 automatyczna
 86700
-\\u0160koda
+Škoda
 Octavia
 2016
 232000
 diesel
 manualna
 32600
-Citro\\u00ebn
+Citroën
 Berlingo
 2016
 97872
@@ -58546,8 +58546,8 @@ A4
 benzyna
 automatyczna
 157500
-Citro\\u00ebn
-C-Elys\\u00e9e
+Citroën
+C-Elysée
 2014
 19250
 benzyna
@@ -58574,7 +58574,7 @@ Twingo
 benzyna
 manualna
 7990
-\\u0160koda
+Škoda
 Octavia
 2015
 139000
@@ -58616,7 +58616,7 @@ I30
 diesel
 manualna
 13900
-\\u0160koda
+Škoda
 Fabia
 2009
 122047
@@ -58637,7 +58637,7 @@ Megane
 benzyna
 manualna
 60000
-Citro\\u00ebn
+Citroën
 C3
 2021
 3181
@@ -58651,7 +58651,7 @@ i40
 diesel
 manualna
 34900
-\\u0160koda
+Škoda
 Roomster
 2010
 120000
@@ -58770,7 +58770,7 @@ A6
 diesel
 automatyczna
 121999
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2009
 261168
@@ -58840,7 +58840,7 @@ Golf
 benzyna
 manualna
 11999
-\\u0160koda
+Škoda
 Octavia
 2021
 1
@@ -59029,7 +59029,7 @@ Sunny
 benzyna
 manualna
 12500
-\\u0160koda
+Škoda
 Fabia
 2017
 120902
@@ -59148,7 +59148,7 @@ Q7
 diesel
 automatyczna
 49000
-\\u0160koda
+Škoda
 Superb
 2017
 92460
@@ -59442,7 +59442,7 @@ Leon
 benzyna
 manualna
 35900
-\\u0160koda
+Škoda
 Fabia
 2018
 200500
@@ -59603,7 +59603,7 @@ Tiguan Allspace
 benzyna
 automatyczna
 221900
-\\u0160koda
+Škoda
 Octavia
 2017
 192613
@@ -59666,7 +59666,7 @@ Klasa E
 benzyna
 manualna
 19500
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2016
 81911
@@ -59680,7 +59680,7 @@ Klasa C
 benzyna
 manualna
 83500
-\\u0160koda
+Škoda
 Octavia
 2021
 17000
@@ -59708,7 +59708,7 @@ i10
 benzyna
 manualna
 36900
-\\u0160koda
+Škoda
 Superb
 2015
 84443
@@ -59876,7 +59876,7 @@ Kuga
 diesel
 automatyczna
 38500
-Citro\\u00ebn
+Citroën
 C3
 2021
 5
@@ -59918,7 +59918,7 @@ Seria 7
 benzyna
 automatyczna
 23500
-\\u0160koda
+Škoda
 RAPID
 2018
 80000
@@ -59974,7 +59974,7 @@ I30
 benzyna
 manualna
 37900
-\\u0160koda
+Škoda
 Octavia
 2017
 29980
@@ -60058,7 +60058,7 @@ Avensis
 benzyna
 automatyczna
 53900
-\\u0160koda
+Škoda
 Fabia
 2017
 19666
@@ -60177,7 +60177,7 @@ Verso
 benzyna
 manualna
 69900
-\\u0160koda
+Škoda
 Superb
 2018
 144000
@@ -60373,7 +60373,7 @@ Q7
 benzyna
 automatyczna
 53000
-\\u0160koda
+Škoda
 Octavia
 2010
 141688
@@ -60443,7 +60443,7 @@ Peugeot
 benzyna
 manualna
 6600
-\\u0160koda
+Škoda
 Octavia
 2011
 148449
@@ -60625,7 +60625,7 @@ Megane
 benzyna
 manualna
 16900
-\\u0160koda
+Škoda
 Kamiq
 2020
 7
@@ -60779,7 +60779,7 @@ CX-3
 benzyna
 manualna
 69700
-\\u0160koda
+Škoda
 Scala
 2020
 9
@@ -60863,7 +60863,7 @@ A6
 diesel
 automatyczna
 54900
-\\u0160koda
+Škoda
 Octavia
 2019
 64000
@@ -60898,7 +60898,7 @@ Corsa
 benzyna
 manualna
 22900
-\\u0160koda
+Škoda
 Fabia
 2016
 124000
@@ -60947,7 +60947,7 @@ Sportage
 diesel
 manualna
 51900
-\\u0160koda
+Škoda
 Fabia
 2016
 49402
@@ -61059,7 +61059,7 @@ Insignia
 benzyna
 automatyczna
 59655
-\\u0160koda
+Škoda
 Octavia
 2014
 243000
@@ -61206,7 +61206,7 @@ Klasa B
 benzyna
 manualna
 43900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2017
 147948
@@ -61381,7 +61381,7 @@ Mondeo
 diesel
 manualna
 45200
-\\u0160koda
+Škoda
 Octavia
 2012
 188000
@@ -61479,7 +61479,7 @@ A3
 benzyna
 automatyczna
 31900
-\\u0160koda
+Škoda
 Fabia
 2013
 108135
@@ -61556,7 +61556,7 @@ i40
 diesel
 manualna
 37500
-Citro\\u00ebn
+Citroën
 C3
 2010
 123376
@@ -61787,7 +61787,7 @@ Q60
 benzyna
 automatyczna
 169986
-\\u0160koda
+Škoda
 Octavia
 2016
 169264
@@ -61969,7 +61969,7 @@ I30
 diesel
 manualna
 32900
-\\u0160koda
+Škoda
 Superb
 2018
 160000
@@ -62025,7 +62025,7 @@ Megane
 benzyna
 manualna
 18400
-\\u0160koda
+Škoda
 Roomster
 2009
 181500
@@ -62368,7 +62368,7 @@ Qashqai
 benzyna
 manualna
 41900
-\\u0160koda
+Škoda
 Superb
 2018
 48000
@@ -62438,7 +62438,7 @@ C30
 diesel
 manualna
 23800
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2010
 223000
@@ -62634,7 +62634,7 @@ Duster
 benzyna
 manualna
 49700
-\\u0160koda
+Škoda
 Superb
 2017
 140165
@@ -62718,7 +62718,7 @@ Fiesta
 benzyna
 manualna
 17900
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2014
 140207
@@ -62816,7 +62816,7 @@ Astra
 diesel
 manualna
 13999
-\\u0160koda
+Škoda
 Fabia
 2019
 75000
@@ -62949,7 +62949,7 @@ Passat
 diesel
 automatyczna
 43800
-\\u0160koda
+Škoda
 Kodiaq
 2017
 70530
@@ -62963,7 +62963,7 @@ A6
 diesel
 automatyczna
 145000
-\\u0160koda
+Škoda
 RAPID
 2014
 110470
@@ -63026,7 +63026,7 @@ DS 3 Crossback
 benzyna
 manualna
 89000
-\\u0160koda
+Škoda
 Superb
 2012
 290000
@@ -63439,7 +63439,7 @@ Sportage
 diesel
 manualna
 38000
-Citro\\u00ebn
+Citroën
 C5
 2008
 170800
@@ -63537,7 +63537,7 @@ A5
 diesel
 automatyczna
 169800
-\\u0160koda
+Škoda
 Superb
 2014
 133000
@@ -63565,7 +63565,7 @@ ix35
 diesel
 automatyczna
 57800
-\\u0160koda
+Škoda
 Octavia
 2016
 266000
@@ -63593,14 +63593,14 @@ GT
 benzyna
 automatyczna
 9800
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2008
 272300
 diesel
 manualna
 12500
-\\u0160koda
+Škoda
 Octavia
 2018
 173000
@@ -63628,7 +63628,7 @@ Seria 5
 diesel
 manualna
 65000
-Citro\\u00ebn
+Citroën
 C4
 2006
 242999
@@ -63712,7 +63712,7 @@ Klasa A
 benzyna
 manualna
 85000
-\\u0160koda
+Škoda
 Octavia
 1998
 297727
@@ -63733,7 +63733,7 @@ C-MAX
 diesel
 automatyczna
 31333
-\\u0160koda
+Škoda
 Superb
 2016
 199000
@@ -64013,7 +64013,7 @@ Seria 5
 diesel
 automatyczna
 80999
-\\u0160koda
+Škoda
 Octavia
 2017
 131000
@@ -64132,7 +64132,7 @@ XF
 benzyna
 automatyczna
 40500
-Citro\\u00ebn
+Citroën
 C4
 2006
 188000
@@ -64153,7 +64153,7 @@ Laguna
 benzyna
 manualna
 4700
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2011
 153000
@@ -64370,7 +64370,7 @@ X3
 benzyna
 automatyczna
 28900
-\\u0160koda
+Škoda
 Fabia
 2009
 107715
@@ -64384,7 +64384,7 @@ Q50
 benzyna
 automatyczna
 78500
-Citro\\u00ebn
+Citroën
 Berlingo
 2005
 227425
@@ -64496,7 +64496,7 @@ Seria 3
 benzyna
 automatyczna
 85000
-\\u0160koda
+Škoda
 Fabia
 2009
 210000
@@ -64713,7 +64713,7 @@ A6
 diesel
 manualna
 13500
-\\u0160koda
+Škoda
 Superb
 2011
 215258
@@ -64937,7 +64937,7 @@ Klasa B
 diesel
 manualna
 37000
-\\u0160koda
+Škoda
 Octavia
 2006
 214408
@@ -65168,7 +65168,7 @@ Klasa E
 diesel
 automatyczna
 24900
-Citro\\u00ebn
+Citroën
 C5
 2008
 183000
@@ -65189,7 +65189,7 @@ Astra
 benzyna
 manualna
 57441
-Citro\\u00ebn
+Citroën
 DS5
 2013
 191200
@@ -65336,7 +65336,7 @@ Astra
 benzyna
 manualna
 42900
-\\u0160koda
+Škoda
 Citigo
 2014
 67178
@@ -65469,7 +65469,7 @@ CLK
 benzyna
 manualna
 11900
-\\u0160koda
+Škoda
 Fabia
 2006
 149522
@@ -65763,7 +65763,7 @@ Peugeot
 diesel
 manualna
 42500
-\\u0160koda
+Škoda
 Karoq
 2018
 62216
@@ -65875,7 +65875,7 @@ Seria 3
 benzyna
 manualna
 11000
-\\u0160koda
+Škoda
 Fabia
 2003
 266000
@@ -65924,7 +65924,7 @@ i20
 benzyna
 manualna
 37500
-Citro\\u00ebn
+Citroën
 C4
 2016
 176000
@@ -66071,7 +66071,7 @@ Civic
 diesel
 manualna
 73900
-\\u0160koda
+Škoda
 Fabia
 2017
 106177
@@ -66176,7 +66176,7 @@ Insignia
 diesel
 automatyczna
 64500
-\\u0160koda
+Škoda
 Octavia
 2011
 144600
@@ -66274,7 +66274,7 @@ Qashqai
 benzyna
 manualna
 32000
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2013
 267000
@@ -66330,7 +66330,7 @@ Fiesta
 benzyna
 manualna
 41900
-\\u0160koda
+Škoda
 Octavia
 2018
 85851
@@ -66372,7 +66372,7 @@ Insignia
 diesel
 manualna
 36000
-\\u0160koda
+Škoda
 Fabia
 2018
 155000
@@ -66498,7 +66498,7 @@ Alfa Romeo
 diesel
 manualna
 9600
-\\u0160koda
+Škoda
 Superb
 2016
 190000
@@ -66512,7 +66512,7 @@ Mondeo
 diesel
 manualna
 64900
-\\u0160koda
+Škoda
 Octavia
 2014
 205000
@@ -66526,7 +66526,7 @@ Klasa S
 benzyna
 automatyczna
 56500
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2013
 179999
@@ -66631,7 +66631,7 @@ Corsa
 benzyna
 manualna
 38500
-Citro\\u00ebn
+Citroën
 DS4
 2018
 160000
@@ -66757,7 +66757,7 @@ Expert
 diesel
 automatyczna
 16300
-Citro\\u00ebn
+Citroën
 C5
 2009
 127000
@@ -66995,7 +66995,7 @@ Picanto
 benzyna
 manualna
 8900
-\\u0160koda
+Škoda
 Fabia
 2021
 1
@@ -67142,7 +67142,7 @@ Tucson
 benzyna
 automatyczna
 151563
-\\u0160koda
+Škoda
 Citigo
 2018
 10987
@@ -67177,7 +67177,7 @@ Land Cruiser
 diesel
 manualna
 63499
-\\u0160koda
+Škoda
 Fabia
 2012
 108408
@@ -67261,7 +67261,7 @@ Astra
 benzyna
 manualna
 31800
-Citro\\u00ebn
+Citroën
 Berlingo
 2012
 148063
@@ -67366,14 +67366,14 @@ Ceed
 benzyna
 manualna
 47900
-Citro\\u00ebn
+Citroën
 C3
 2015
 86543
 benzyna
 manualna
 30500
-\\u0160koda
+Škoda
 Octavia
 2008
 169140
@@ -67814,7 +67814,7 @@ EcoSport
 benzyna
 manualna
 74900
-\\u0160koda
+Škoda
 RAPID
 2017
 124382
@@ -67996,7 +67996,7 @@ Klasa E
 diesel
 automatyczna
 184500
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2007
 208800
@@ -68444,7 +68444,7 @@ Peugeot
 diesel
 manualna
 54900
-Citro\\u00ebn
+Citroën
 DS3
 2012
 103077
@@ -68458,7 +68458,7 @@ Adam
 benzyna
 manualna
 35500
-Citro\\u00ebn
+Citroën
 C8
 2009
 186000
@@ -68535,7 +68535,7 @@ ix35
 benzyna
 manualna
 50900
-\\u0160koda
+Škoda
 Fabia
 2011
 131000
@@ -68682,14 +68682,14 @@ GLC
 benzyna
 automatyczna
 299000
-Citro\\u00ebn
+Citroën
 Xsara Picasso
 2006
 180000
 diesel
 manualna
 7500
-Citro\\u00ebn
+Citroën
 C5
 2009
 209000
@@ -68780,7 +68780,7 @@ Seria 1
 benzyna
 manualna
 43900
-\\u0160koda
+Škoda
 Superb
 2017
 170000
@@ -68829,7 +68829,7 @@ Picanto
 benzyna
 manualna
 27900
-Citro\\u00ebn
+Citroën
 C3
 2016
 40467
@@ -68892,7 +68892,7 @@ Corsa
 diesel
 manualna
 5700
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2018
 35001
@@ -69186,7 +69186,7 @@ Klasa B
 benzyna
 manualna
 44900
-\\u0160koda
+Škoda
 Yeti
 2015
 137000
@@ -69277,7 +69277,7 @@ Vectra
 benzyna
 manualna
 19900
-Citro\\u00ebn
+Citroën
 Berlingo
 2015
 271454
@@ -69326,7 +69326,7 @@ A6
 diesel
 automatyczna
 21800
-\\u0160koda
+Škoda
 Octavia
 2012
 105000
@@ -69466,7 +69466,7 @@ A4
 diesel
 manualna
 48900
-Citro\\u00ebn
+Citroën
 C1
 2015
 120124
@@ -69494,7 +69494,7 @@ Mokka
 diesel
 manualna
 42800
-Citro\\u00ebn
+Citroën
 Berlingo
 2010
 199000
@@ -69592,7 +69592,7 @@ GLA
 benzyna
 automatyczna
 107000
-Citro\\u00ebn
+Citroën
 C5
 2015
 242000
@@ -69690,7 +69690,7 @@ Jazz
 benzyna
 manualna
 26000
-\\u0160koda
+Škoda
 Octavia
 2017
 128000
@@ -69837,7 +69837,7 @@ Santa Fe
 diesel
 manualna
 69900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2007
 200000
@@ -69956,7 +69956,7 @@ A3
 benzyna
 manualna
 31900
-\\u0160koda
+Škoda
 Superb
 2014
 182745
@@ -70103,7 +70103,7 @@ SQ5
 diesel
 automatyczna
 330000
-\\u0160koda
+Škoda
 Kodiaq
 2020
 23000
@@ -70145,7 +70145,7 @@ Mondeo
 diesel
 manualna
 82000
-\\u0160koda
+Škoda
 Fabia
 2016
 152000
@@ -70327,7 +70327,7 @@ E-Pace
 diesel
 automatyczna
 180000
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2015
 168000
@@ -70593,7 +70593,7 @@ Q5
 diesel
 manualna
 74900
-Citro\\u00ebn
+Citroën
 C3
 2017
 139000
@@ -70621,7 +70621,7 @@ Sandero Stepway
 benzyna
 manualna
 66000
-\\u0160koda
+Škoda
 Fabia
 2008
 168000
@@ -70775,7 +70775,7 @@ Spark
 benzyna
 manualna
 14900
-\\u0160koda
+Škoda
 Fabia
 2021
 10
@@ -70796,7 +70796,7 @@ Sequoia
 benzyna
 automatyczna
 86000
-Citro\\u00ebn
+Citroën
 C5
 2008
 253000
@@ -70922,7 +70922,7 @@ Megane
 benzyna
 manualna
 51000
-\\u0160koda
+Škoda
 Superb
 2016
 182354
@@ -71034,7 +71034,7 @@ Range Rover Velar
 diesel
 automatyczna
 245000
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2014
 201000
@@ -71342,7 +71342,7 @@ Fluence
 diesel
 manualna
 18500
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2017
 76594
@@ -71391,7 +71391,7 @@ Yaris
 benzyna
 manualna
 22900
-Citro\\u00ebn
+Citroën
 C5
 2010
 201855
@@ -71461,7 +71461,7 @@ Sprinter
 diesel
 manualna
 73677
-\\u0160koda
+Škoda
 Octavia
 2018
 100000
@@ -71748,7 +71748,7 @@ Civic
 benzyna
 automatyczna
 22400
-Citro\\u00ebn
+Citroën
 DS5
 2016
 199000
@@ -71783,7 +71783,7 @@ Mazda
 benzyna
 manualna
 29500
-\\u0160koda
+Škoda
 Fabia
 2018
 134000
@@ -71804,7 +71804,7 @@ I30
 benzyna
 manualna
 86600
-Citro\\u00ebn
+Citroën
 C4
 2021
 3
@@ -72056,7 +72056,7 @@ Golf
 benzyna
 manualna
 58900
-\\u0160koda
+Škoda
 Superb
 2010
 188000
@@ -72140,7 +72140,7 @@ Peugeot
 diesel
 manualna
 13300
-Citro\\u00ebn
+Citroën
 C5
 2012
 192040
@@ -72357,7 +72357,7 @@ Klasa B
 benzyna
 manualna
 13500
-\\u0160koda
+Škoda
 Octavia
 2016
 280000
@@ -72462,7 +72462,7 @@ I30
 benzyna
 manualna
 69600
-\\u0160koda
+Škoda
 Kamiq
 2021
 7
@@ -72497,7 +72497,7 @@ Focus
 diesel
 manualna
 64900
-Citro\\u00ebn
+Citroën
 C5
 2010
 310000
@@ -72560,7 +72560,7 @@ Ranger
 diesel
 manualna
 127303
-\\u0160koda
+Škoda
 Scala
 2019
 25225
@@ -72644,7 +72644,7 @@ Panamera
 benzyna
 automatyczna
 499000
-\\u0160koda
+Škoda
 Octavia
 2012
 229000
@@ -72756,7 +72756,7 @@ A6
 diesel
 automatyczna
 229900
-\\u0160koda
+Škoda
 Fabia
 2018
 96000
@@ -72784,7 +72784,7 @@ Eos
 benzyna
 manualna
 25900
-Citro\\u00ebn
+Citroën
 C3
 2021
 1
@@ -72861,14 +72861,14 @@ Focus
 benzyna
 manualna
 16800
-Citro\\u00ebn
+Citroën
 C5
 2006
 143061
 benzyna
 manualna
 11900
-Citro\\u00ebn
+Citroën
 Jumpy Combi
 2013
 207919
@@ -72973,7 +72973,7 @@ Kuga
 diesel
 automatyczna
 102900
-\\u0160koda
+Škoda
 Superb
 2016
 177412
@@ -73008,7 +73008,7 @@ GLC
 benzyna
 automatyczna
 163000
-Citro\\u00ebn
+Citroën
 Inny
 1954
 30000
@@ -73029,7 +73029,7 @@ Getz
 benzyna
 manualna
 3300
-Citro\\u00ebn
+Citroën
 C3
 2010
 175000
@@ -73120,7 +73120,7 @@ Mokka
 benzyna
 manualna
 43900
-Citro\\u00ebn
+Citroën
 C3
 2021
 1
@@ -73169,7 +73169,7 @@ Klasa E
 diesel
 automatyczna
 189900
-Citro\\u00ebn
+Citroën
 C3 Pluriel
 2003
 164000
@@ -73253,7 +73253,7 @@ Corolla
 benzyna
 manualna
 69800
-\\u0160koda
+Škoda
 Octavia
 2011
 151382
@@ -73281,7 +73281,7 @@ Klasa C
 benzyna
 automatyczna
 89900
-Citro\\u00ebn
+Citroën
 C5
 2011
 154992
@@ -73631,7 +73631,7 @@ Astra
 benzyna
 manualna
 17500
-Citro\\u00ebn
+Citroën
 C4
 2021
 3
@@ -73743,7 +73743,7 @@ Corsa
 diesel
 manualna
 26900
-Citro\\u00ebn
+Citroën
 C3
 2014
 124400
@@ -74023,7 +74023,7 @@ Qashqai
 benzyna
 manualna
 75000
-\\u0160koda
+Škoda
 Superb
 2017
 56000
@@ -74219,7 +74219,7 @@ Compass
 benzyna
 automatyczna
 22900
-Citro\\u00ebn
+Citroën
 C3 Aircross
 2018
 61069
@@ -74499,7 +74499,7 @@ Kadjar
 benzyna
 manualna
 63000
-Citro\\u00ebn
+Citroën
 C5
 2009
 209000
@@ -74576,7 +74576,7 @@ Klasa S
 benzyna
 automatyczna
 96700
-Citro\\u00ebn
+Citroën
 C3
 2021
 1
@@ -74590,7 +74590,7 @@ CX-3
 benzyna
 automatyczna
 114900
-Citro\\u00ebn
+Citroën
 C4
 2014
 86900
@@ -74744,7 +74744,7 @@ Jazz
 benzyna
 manualna
 5500
-\\u0160koda
+Škoda
 Superb
 2018
 58134
@@ -74828,7 +74828,7 @@ A4
 benzyna
 automatyczna
 6027
-\\u0160koda
+Škoda
 Octavia
 2017
 78416
@@ -74954,7 +74954,7 @@ Note
 benzyna
 manualna
 33490
-Citro\\u00ebn
+Citroën
 C5
 2005
 200500
@@ -75038,7 +75038,7 @@ S80
 benzyna
 automatyczna
 38500
-Citro\\u00ebn
+Citroën
 Berlingo
 2021
 3
@@ -75066,7 +75066,7 @@ Seria 5
 diesel
 manualna
 22900
-\\u0160koda
+Škoda
 RAPID
 2018
 27025
@@ -75185,7 +75185,7 @@ Mazda
 benzyna
 manualna
 8900
-\\u0160koda
+Škoda
 Octavia
 2004
 217112
@@ -75262,7 +75262,7 @@ Camaro
 benzyna
 automatyczna
 168900
-\\u0160koda
+Škoda
 Octavia
 2016
 145281
@@ -75388,7 +75388,7 @@ Megane
 benzyna
 automatyczna
 49900
-\\u0160koda
+Škoda
 Octavia
 2018
 150222
@@ -75633,7 +75633,7 @@ A3
 benzyna
 manualna
 17499
-Citro\\u00ebn
+Citroën
 C5
 2009
 179000
@@ -75731,7 +75731,7 @@ A6
 benzyna
 manualna
 12777
-\\u0160koda
+Škoda
 RAPID
 2016
 43151
@@ -75885,7 +75885,7 @@ Yaris
 benzyna
 manualna
 24000
-\\u0160koda
+Škoda
 Roomster
 2010
 153683
@@ -76046,7 +76046,7 @@ X5
 diesel
 automatyczna
 67999
-\\u0160koda
+Škoda
 Fabia
 2009
 223000
@@ -76109,7 +76109,7 @@ Exeo
 benzyna
 manualna
 25900
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2007
 230000
@@ -76228,7 +76228,7 @@ Peugeot
 benzyna
 manualna
 4999
-\\u0160koda
+Škoda
 Fabia
 2005
 290000
@@ -76403,7 +76403,7 @@ Grand Scenic
 diesel
 manualna
 12900
-Citro\\u00ebn
+Citroën
 C4
 2021
 1
@@ -76459,7 +76459,7 @@ A4
 benzyna
 automatyczna
 12800
-\\u0160koda
+Škoda
 Octavia
 2018
 172830
@@ -76494,7 +76494,7 @@ M4
 benzyna
 automatyczna
 176900
-\\u0160koda
+Škoda
 Octavia
 2007
 150000
@@ -76543,7 +76543,7 @@ A6
 benzyna
 automatyczna
 19900
-\\u0160koda
+Škoda
 120
 1980
 85300
@@ -76641,7 +76641,7 @@ XE
 diesel
 automatyczna
 212000
-Citro\\u00ebn
+Citroën
 C4
 2010
 214300
@@ -76662,7 +76662,7 @@ Duster
 benzyna
 manualna
 75700
-Citro\\u00ebn
+Citroën
 C3
 2004
 163000
@@ -76690,14 +76690,14 @@ Mondeo
 diesel
 manualna
 56900
-\\u0160koda
+Škoda
 Yeti
 2012
 281277
 diesel
 manualna
 21900
-Citro\\u00ebn
+Citroën
 C3 Aircross
 2021
 9
@@ -76837,7 +76837,7 @@ A4 Allroad
 benzyna
 automatyczna
 185900
-Citro\\u00ebn
+Citroën
 Berlingo
 2003
 404000
@@ -76886,7 +76886,7 @@ Qubo
 benzyna
 manualna
 15500
-Citro\\u00ebn
+Citroën
 C5 Aircross
 2020
 2999
@@ -77054,7 +77054,7 @@ GLK
 diesel
 manualna
 49900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2014
 225000
@@ -77096,7 +77096,7 @@ I30
 benzyna
 manualna
 21900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2015
 200000
@@ -77117,7 +77117,7 @@ Polo
 benzyna
 manualna
 6900
-Citro\\u00ebn
+Citroën
 C3
 2019
 14000
@@ -77194,7 +77194,7 @@ Bravo
 benzyna
 manualna
 17300
-Citro\\u00ebn
+Citroën
 C3
 2017
 63330
@@ -77236,7 +77236,7 @@ Avensis
 diesel
 manualna
 35900
-Citro\\u00ebn
+Citroën
 C3
 2010
 139200
@@ -77341,7 +77341,7 @@ Kuga
 diesel
 automatyczna
 84900
-\\u0160koda
+Škoda
 Fabia
 2018
 126199
@@ -77537,7 +77537,7 @@ Seria 6
 benzyna
 automatyczna
 70900
-\\u0160koda
+Škoda
 Fabia
 2014
 91650
@@ -77712,7 +77712,7 @@ Golf
 benzyna
 automatyczna
 58900
-\\u0160koda
+Škoda
 Superb
 2015
 133024
@@ -77747,7 +77747,7 @@ Linea
 benzyna
 manualna
 12200
-\\u0160koda
+Škoda
 Octavia
 2014
 290000
@@ -77866,7 +77866,7 @@ Astra
 diesel
 manualna
 23900
-Citro\\u00ebn
+Citroën
 C3
 2012
 47569
@@ -77950,7 +77950,7 @@ Clio
 benzyna
 manualna
 28500
-Citro\\u00ebn
+Citroën
 C4
 2021
 3
@@ -78048,14 +78048,14 @@ S60
 benzyna
 manualna
 21900
-\\u0160koda
+Škoda
 Octavia
 2015
 174500
 diesel
 manualna
 44900
-Citro\\u00ebn
+Citroën
 C5 Aircross
 2020
 300
@@ -78076,7 +78076,7 @@ Mokka
 benzyna
 manualna
 104990
-\\u0160koda
+Škoda
 Kodiaq
 2017
 196500
@@ -78104,14 +78104,14 @@ CR-V
 benzyna
 manualna
 47900
-Citro\\u00ebn
+Citroën
 C3 Picasso
 2009
 131000
 benzyna
 manualna
 18400
-\\u0160koda
+Škoda
 Fabia
 2018
 62534
@@ -78125,7 +78125,7 @@ Astra
 benzyna
 manualna
 15900
-\\u0160koda
+Škoda
 Superb
 2017
 121886
@@ -78146,7 +78146,7 @@ Focus
 benzyna
 automatyczna
 176000
-\\u0160koda
+Škoda
 Octavia
 2017
 86400
@@ -78307,7 +78307,7 @@ Touran
 benzyna
 manualna
 60500
-\\u0160koda
+Škoda
 Fabia
 2017
 79100
@@ -78384,7 +78384,7 @@ Juke
 benzyna
 manualna
 45900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2017
 77000
@@ -78643,7 +78643,7 @@ Sebring
 benzyna
 automatyczna
 12000
-Citro\\u00ebn
+Citroën
 C5
 2012
 235000
@@ -78741,7 +78741,7 @@ Peugeot
 benzyna
 manualna
 34900
-\\u0160koda
+Škoda
 Yeti
 2011
 221000
@@ -78874,7 +78874,7 @@ Insignia
 diesel
 manualna
 45900
-\\u0160koda
+Škoda
 Superb
 2017
 33000
@@ -78916,7 +78916,7 @@ A4
 diesel
 manualna
 20900
-\\u0160koda
+Škoda
 Octavia
 2020
 10429
@@ -78937,7 +78937,7 @@ Klasa C
 benzyna
 manualna
 5990
-Citro\\u00ebn
+Citroën
 C3
 2009
 143000
@@ -79007,7 +79007,7 @@ Qashqai
 benzyna
 manualna
 49900
-\\u0160koda
+Škoda
 Superb
 2017
 124553
@@ -79070,7 +79070,7 @@ Fiesta
 benzyna
 manualna
 9800
-Citro\\u00ebn
+Citroën
 C3
 2021
 1
@@ -79126,7 +79126,7 @@ Klasa E
 benzyna
 automatyczna
 12500
-Citro\\u00ebn
+Citroën
 C4
 2014
 100500
@@ -79182,7 +79182,7 @@ V60
 diesel
 manualna
 39700
-Citro\\u00ebn
+Citroën
 C5 Aircross
 2021
 1
@@ -79231,7 +79231,7 @@ Tucson
 benzyna
 manualna
 19200
-Citro\\u00ebn
+Citroën
 DS4
 2013
 150000
@@ -79441,7 +79441,7 @@ A4
 benzyna
 automatyczna
 186279
-\\u0160koda
+Škoda
 Superb
 2018
 129000
@@ -79455,7 +79455,7 @@ Altea
 diesel
 manualna
 21900
-\\u0160koda
+Škoda
 Octavia
 2017
 102410
@@ -79595,7 +79595,7 @@ Caliber
 diesel
 manualna
 8400
-Citro\\u00ebn
+Citroën
 C5
 2010
 170000
@@ -79693,7 +79693,7 @@ Focus
 benzyna
 manualna
 14900
-Citro\\u00ebn
+Citroën
 C5 Aircross
 2021
 2
@@ -79826,7 +79826,7 @@ S6
 diesel
 automatyczna
 520450
-\\u0160koda
+Škoda
 Octavia
 2016
 155000
@@ -80113,7 +80113,7 @@ I30
 benzyna
 manualna
 15900
-Citro\\u00ebn
+Citroën
 DS3
 2014
 107985
@@ -80134,7 +80134,7 @@ Astra
 benzyna
 manualna
 45500
-\\u0160koda
+Škoda
 Octavia
 2007
 172906
@@ -80211,7 +80211,7 @@ Terios
 benzyna
 manualna
 18900
-\\u0160koda
+Škoda
 Fabia
 2006
 105000
@@ -80274,7 +80274,7 @@ California
 diesel
 automatyczna
 282777
-\\u0160koda
+Škoda
 Superb
 2018
 168942
@@ -80309,7 +80309,7 @@ RAM
 benzyna
 automatyczna
 838860
-\\u0160koda
+Škoda
 Octavia
 2021
 7
@@ -80379,14 +80379,14 @@ SX4
 diesel
 manualna
 19900
-Citro\\u00ebn
+Citroën
 C5
 2005
 190000
 benzyna
 automatyczna
 11900
-\\u0160koda
+Škoda
 Fabia
 2010
 211000
@@ -80456,7 +80456,7 @@ Kuga
 benzyna
 manualna
 139900
-\\u0160koda
+Škoda
 Fabia
 2009
 118924
@@ -80470,14 +80470,14 @@ S-Max
 benzyna
 automatyczna
 62900
-\\u0160koda
+Škoda
 Fabia
 2003
 117700
 benzyna
 manualna
 4500
-\\u0160koda
+Škoda
 Superb
 2016
 195183
@@ -80617,7 +80617,7 @@ Astra
 benzyna
 manualna
 15900
-Citro\\u00ebn
+Citroën
 C5
 2011
 275000
@@ -80778,7 +80778,7 @@ Micra
 benzyna
 automatyczna
 35500
-\\u0160koda
+Škoda
 Superb
 2021
 1
@@ -80841,7 +80841,7 @@ Peugeot
 diesel
 manualna
 9400
-\\u0160koda
+Škoda
 Fabia
 2018
 171517
@@ -81065,7 +81065,7 @@ Verso
 benzyna
 automatyczna
 79900
-\\u0160koda
+Škoda
 Octavia
 2016
 165477
@@ -81100,7 +81100,7 @@ Golf
 benzyna
 manualna
 3500
-\\u0160koda
+Škoda
 Octavia
 2017
 124886
@@ -81184,7 +81184,7 @@ Fusion
 diesel
 manualna
 5500
-\\u0160koda
+Škoda
 Octavia
 2021
 7
@@ -81198,7 +81198,7 @@ Mazda
 diesel
 manualna
 17500
-Citro\\u00ebn
+Citroën
 C5
 2009
 230000
@@ -81226,7 +81226,7 @@ XC 60
 diesel
 automatyczna
 154900
-Citro\\u00ebn
+Citroën
 C5
 2002
 196000
@@ -81576,8 +81576,8 @@ Passat
 diesel
 manualna
 43600
-Citro\\u00ebn
-C-Elys\\u00e9e
+Citroën
+C-Elysée
 2018
 93751
 benzyna
@@ -81884,7 +81884,7 @@ Polo
 diesel
 manualna
 7000
-\\u0160koda
+Škoda
 Octavia
 2017
 140761
@@ -81898,7 +81898,7 @@ Corolla
 benzyna
 manualna
 55900
-Citro\\u00ebn
+Citroën
 C3
 2006
 170000
@@ -81975,7 +81975,7 @@ Mustang
 benzyna
 manualna
 99000
-\\u0160koda
+Škoda
 Octavia
 2003
 300000
@@ -82024,7 +82024,7 @@ Seria 3
 diesel
 automatyczna
 85999
-\\u0160koda
+Škoda
 Superb
 2008
 238000
@@ -82150,7 +82150,7 @@ Megane
 benzyna
 manualna
 13900
-\\u0160koda
+Škoda
 Octavia
 2017
 71589
@@ -82220,7 +82220,7 @@ Swift
 benzyna
 manualna
 37700
-\\u0160koda
+Škoda
 Superb
 2016
 213000
@@ -82262,7 +82262,7 @@ Pulsar
 benzyna
 manualna
 39900
-\\u0160koda
+Škoda
 Octavia
 2015
 164000
@@ -82318,7 +82318,7 @@ Klasa S
 benzyna
 automatyczna
 39900
-\\u0160koda
+Škoda
 Superb
 2007
 136000
@@ -82402,7 +82402,7 @@ Colt
 benzyna
 manualna
 6999
-Citro\\u00ebn
+Citroën
 C1
 2008
 139000
@@ -82437,7 +82437,7 @@ Astra
 benzyna
 manualna
 17700
-\\u0160koda
+Škoda
 Fabia
 2006
 260000
@@ -82500,7 +82500,7 @@ Renegade
 benzyna
 manualna
 59900
-\\u0160koda
+Škoda
 Yeti
 2014
 147816
@@ -82535,7 +82535,7 @@ Rover
 diesel
 manualna
 4999
-Citro\\u00ebn
+Citroën
 DS3
 2015
 53400
@@ -82563,7 +82563,7 @@ Civic
 benzyna
 manualna
 20500
-\\u0160koda
+Škoda
 Fabia
 2006
 394000
@@ -82668,7 +82668,7 @@ X3
 diesel
 manualna
 24000
-\\u0160koda
+Škoda
 Octavia
 2003
 303000
@@ -82829,7 +82829,7 @@ Corsa
 benzyna
 manualna
 22900
-\\u0160koda
+Škoda
 Superb
 2008
 238000
@@ -82864,7 +82864,7 @@ Fox
 benzyna
 manualna
 5999
-Citro\\u00ebn
+Citroën
 C3
 2020
 14365
@@ -82899,7 +82899,7 @@ A6
 diesel
 automatyczna
 89667
-\\u0160koda
+Škoda
 Superb
 2014
 58941
@@ -83011,7 +83011,7 @@ Yaris
 benzyna
 manualna
 10999
-\\u0160koda
+Škoda
 Superb
 2016
 53000
@@ -83389,7 +83389,7 @@ Tucson
 diesel
 automatyczna
 85900
-\\u0160koda
+Škoda
 Superb
 2019
 58913
@@ -83641,7 +83641,7 @@ X-Too
 diesel
 manualna
 16000
-\\u0160koda
+Škoda
 Superb
 2016
 118000
@@ -83746,7 +83746,7 @@ Megane
 diesel
 manualna
 21500
-\\u0160koda
+Škoda
 Superb
 2016
 165000
@@ -84026,7 +84026,7 @@ Insignia
 benzyna
 manualna
 22000
-Citro\\u00ebn
+Citroën
 C3 Aircross
 2018
 24000
@@ -84117,7 +84117,7 @@ Corsa
 benzyna
 manualna
 13999
-Citro\\u00ebn
+Citroën
 DS4
 2013
 71000
@@ -84145,7 +84145,7 @@ S3
 benzyna
 automatyczna
 162900
-Citro\\u00ebn
+Citroën
 C5
 2016
 171200
@@ -84264,7 +84264,7 @@ Punto
 benzyna
 manualna
 24900
-\\u0160koda
+Škoda
 Fabia
 2013
 324574
@@ -84327,7 +84327,7 @@ A3
 benzyna
 manualna
 11600
-\\u0160koda
+Škoda
 Octavia
 2013
 188535
@@ -84502,7 +84502,7 @@ Seria 3
 diesel
 manualna
 16700
-Citro\\u00ebn
+Citroën
 C2
 2007
 163000
@@ -84579,7 +84579,7 @@ Transit Connect
 diesel
 manualna
 59000
-\\u0160koda
+Škoda
 Citigo
 2017
 45618
@@ -84691,7 +84691,7 @@ Kuga
 diesel
 manualna
 38900
-\\u0160koda
+Škoda
 Fabia
 2010
 165000
@@ -84733,7 +84733,7 @@ A6
 diesel
 automatyczna
 135000
-\\u0160koda
+Škoda
 Octavia
 2003
 220000
@@ -84803,7 +84803,7 @@ Tourneo Connect
 diesel
 manualna
 12900
-\\u0160koda
+Škoda
 Fabia
 2014
 286396
@@ -84838,7 +84838,7 @@ Ibiza
 benzyna
 manualna
 2500
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2018
 199500
@@ -84922,7 +84922,7 @@ Boxster
 benzyna
 automatyczna
 319900
-Citro\\u00ebn
+Citroën
 C3
 2018
 31718
@@ -85160,7 +85160,7 @@ Avensis
 benzyna
 manualna
 44900
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2014
 235000
@@ -85356,7 +85356,7 @@ Corsa
 benzyna
 manualna
 12900
-Citro\\u00ebn
+Citroën
 Nemo
 2011
 210000
@@ -85391,7 +85391,7 @@ Mondeo
 diesel
 automatyczna
 27500
-Citro\\u00ebn
+Citroën
 C4
 2006
 153785
@@ -85447,7 +85447,7 @@ Golf
 diesel
 manualna
 24900
-\\u0160koda
+Škoda
 Fabia
 2009
 178000
@@ -85496,7 +85496,7 @@ Avensis
 diesel
 manualna
 11900
-\\u0160koda
+Škoda
 Superb
 2012
 295000
@@ -85545,7 +85545,7 @@ Mokka
 benzyna
 manualna
 104850
-\\u0160koda
+Škoda
 Superb
 2017
 76578
@@ -85566,7 +85566,7 @@ Arkana
 benzyna
 automatyczna
 133800
-Citro\\u00ebn
+Citroën
 Xsara Picasso
 2001
 220000
@@ -85608,7 +85608,7 @@ Seria 7
 diesel
 automatyczna
 19950
-\\u0160koda
+Škoda
 Octavia
 2013
 147000
@@ -85720,7 +85720,7 @@ Klasa A
 diesel
 manualna
 9900
-\\u0160koda
+Škoda
 Fabia
 2015
 64000
@@ -85769,7 +85769,7 @@ A4
 diesel
 automatyczna
 109470
-\\u0160koda
+Škoda
 Superb
 2017
 124462
@@ -85818,7 +85818,7 @@ Seria 1
 benzyna
 manualna
 17900
-Citro\\u00ebn
+Citroën
 C5 Aircross
 2021
 1
@@ -85909,7 +85909,7 @@ CLA
 benzyna
 automatyczna
 84999
-Citro\\u00ebn
+Citroën
 DS5
 2012
 147000
@@ -86014,7 +86014,7 @@ Astra
 benzyna
 manualna
 14800
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2016
 73337
@@ -86112,14 +86112,14 @@ Mazda
 benzyna
 automatyczna
 90000
-\\u0160koda
+Škoda
 Superb
 2018
 58532
 benzyna
 manualna
 89900
-\\u0160koda
+Škoda
 Kodiaq
 2017
 148890
@@ -86147,7 +86147,7 @@ Clio
 diesel
 manualna
 26937
-\\u0160koda
+Škoda
 Fabia
 2015
 155548
@@ -86343,7 +86343,7 @@ I30
 benzyna
 manualna
 31900
-\\u0160koda
+Škoda
 RAPID
 2017
 114256
@@ -86420,7 +86420,7 @@ Matiz
 benzyna
 manualna
 6700
-Citro\\u00ebn
+Citroën
 Berlingo
 2015
 132000
@@ -86497,7 +86497,7 @@ Peugeot
 benzyna
 manualna
 13000
-Citro\\u00ebn
+Citroën
 C4
 2021
 1
@@ -86581,7 +86581,7 @@ Ceed
 benzyna
 manualna
 46900
-\\u0160koda
+Škoda
 Superb
 2009
 225000
@@ -86616,7 +86616,7 @@ Mazda
 benzyna
 automatyczna
 137000
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2018
 43452
@@ -86735,7 +86735,7 @@ Peugeot
 benzyna
 manualna
 34900
-\\u0160koda
+Škoda
 Superb
 2016
 131331
@@ -86756,7 +86756,7 @@ Golf
 diesel
 automatyczna
 49000
-\\u0160koda
+Škoda
 Superb
 2016
 124215
@@ -86833,7 +86833,7 @@ Insignia
 diesel
 automatyczna
 23500
-Citro\\u00ebn
+Citroën
 C2
 2004
 170000
@@ -86952,7 +86952,7 @@ Touran
 diesel
 automatyczna
 9499
-Citro\\u00ebn
+Citroën
 Jumper
 2007
 282218
@@ -87078,7 +87078,7 @@ Modus
 benzyna
 manualna
 9717
-\\u0160koda
+Škoda
 Fabia
 2015
 205709
@@ -87113,7 +87113,7 @@ Yaris
 benzyna
 manualna
 59500
-Citro\\u00ebn
+Citroën
 C5
 2008
 149586
@@ -87176,21 +87176,21 @@ EcoSport
 benzyna
 manualna
 87900
-Citro\\u00ebn
+Citroën
 C5 Aircross
 2021
 2
 benzyna
 automatyczna
 135500
-Citro\\u00ebn
+Citroën
 C5 Aircross
 2021
 2
 benzyna
 automatyczna
 125050
-Citro\\u00ebn
+Citroën
 C5 Aircross
 2021
 2
@@ -87232,7 +87232,7 @@ S-Max
 diesel
 manualna
 17500
-Citro\\u00ebn
+Citroën
 C3
 2013
 150000
@@ -87351,7 +87351,7 @@ Panamera
 benzyna
 automatyczna
 659000
-Citro\\u00ebn
+Citroën
 C2
 2004
 3000
@@ -87400,7 +87400,7 @@ Qashqai
 benzyna
 manualna
 52600
-\\u0160koda
+Škoda
 Scala
 2020
 30000
@@ -87428,7 +87428,7 @@ Tiguan
 diesel
 manualna
 47990
-\\u0160koda
+Škoda
 Fabia
 2007
 190000
@@ -87456,7 +87456,7 @@ Peugeot
 benzyna
 manualna
 38900
-\\u0160koda
+Škoda
 Fabia
 2014
 253333
@@ -87512,7 +87512,7 @@ Fiat
 benzyna
 manualna
 40900
-Citro\\u00ebn
+Citroën
 C3
 2021
 3
@@ -87617,7 +87617,7 @@ XC 60
 diesel
 automatyczna
 60900
-\\u0160koda
+Škoda
 Karoq
 2018
 63800
@@ -87631,7 +87631,7 @@ A4
 diesel
 automatyczna
 89900
-\\u0160koda
+Škoda
 RAPID
 2013
 145300
@@ -87652,7 +87652,7 @@ Klasa C
 benzyna
 manualna
 14950
-Citro\\u00ebn
+Citroën
 C3 Picasso
 2016
 133400
@@ -87708,7 +87708,7 @@ Sandero
 benzyna
 manualna
 56950
-Citro\\u00ebn
+Citroën
 C4
 2009
 142000
@@ -88044,7 +88044,7 @@ Peugeot
 diesel
 manualna
 25900
-\\u0160koda
+Škoda
 Yeti
 2011
 240000
@@ -88072,7 +88072,7 @@ DS 4
 benzyna
 automatyczna
 114900
-Citro\\u00ebn
+Citroën
 C3
 2015
 94000
@@ -88422,7 +88422,7 @@ Corolla
 benzyna
 manualna
 74400
-Citro\\u00ebn
+Citroën
 DS4
 2013
 130000
@@ -88443,14 +88443,14 @@ Klasa E
 diesel
 automatyczna
 359900
-\\u0160koda
+Škoda
 Fabia
 2019
 26000
 benzyna
 manualna
 38800
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2014
 218123
@@ -88737,28 +88737,28 @@ T-Roc
 benzyna
 automatyczna
 122500
-\\u0160koda
+Škoda
 Octavia
 2011
 299464
 benzyna
 manualna
 19900
-Citro\\u00ebn
+Citroën
 C1
 2007
 173000
 benzyna
 manualna
 5999
-\\u0160koda
+Škoda
 Octavia
 2013
 122000
 benzyna
 manualna
 44500
-Citro\\u00ebn
+Citroën
 C1
 2007
 173000
@@ -88779,14 +88779,14 @@ Peugeot
 benzyna
 manualna
 42400
-\\u0160koda
+Škoda
 Superb
 2017
 178000
 diesel
 manualna
 35999
-\\u0160koda
+Škoda
 Octavia
 2016
 215483
@@ -88863,14 +88863,14 @@ Touran
 benzyna
 manualna
 16900
-Citro\\u00ebn
+Citroën
 C3
 2014
 154000
 benzyna
 manualna
 23900
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2016
 19000
@@ -88898,7 +88898,7 @@ Seria 5
 diesel
 automatyczna
 149999
-\\u0160koda
+Škoda
 RAPID
 2017
 170000
@@ -89031,7 +89031,7 @@ Kuga
 benzyna
 manualna
 73000
-\\u0160koda
+Škoda
 Octavia
 2017
 104701
@@ -89059,7 +89059,7 @@ Peugeot
 diesel
 manualna
 35500
-\\u0160koda
+Škoda
 Superb
 2014
 125120
@@ -89101,7 +89101,7 @@ Touareg
 diesel
 automatyczna
 75000
-\\u0160koda
+Škoda
 Citigo
 2018
 26139
@@ -89346,7 +89346,7 @@ Avensis
 diesel
 manualna
 84799
-\\u0160koda
+Škoda
 Fabia
 2006
 260000
@@ -89374,7 +89374,7 @@ Kona
 benzyna
 automatyczna
 101700
-\\u0160koda
+Škoda
 Superb
 2021
 5
@@ -89584,7 +89584,7 @@ Sharan
 diesel
 manualna
 47900
-Citro\\u00ebn
+Citroën
 C3
 2009
 90300
@@ -89598,7 +89598,7 @@ Scenic
 diesel
 manualna
 32000
-\\u0160koda
+Škoda
 Octavia
 2009
 228000
@@ -89668,7 +89668,7 @@ ASX
 benzyna
 manualna
 49900
-Citro\\u00ebn
+Citroën
 C5
 2008
 247000
@@ -89815,7 +89815,7 @@ Astra
 diesel
 manualna
 3999
-\\u0160koda
+Škoda
 Fabia
 2010
 101300
@@ -89892,7 +89892,7 @@ Meriva
 diesel
 manualna
 3999
-\\u0160koda
+Škoda
 Superb
 2004
 237957
@@ -90039,7 +90039,7 @@ CR-V
 benzyna
 manualna
 72000
-\\u0160koda
+Škoda
 Fabia
 2005
 93000
@@ -90144,7 +90144,7 @@ Astra
 diesel
 manualna
 3999
-Citro\\u00ebn
+Citroën
 C3
 2017
 86000
@@ -90263,14 +90263,14 @@ Klasa C
 benzyna
 automatyczna
 159000
-\\u0160koda
+Škoda
 Superb
 2016
 53000
 benzyna
 manualna
 78500
-\\u0160koda
+Škoda
 Superb
 2016
 53000
@@ -90333,7 +90333,7 @@ S-Max
 diesel
 manualna
 17500
-\\u0160koda
+Škoda
 Fabia
 2013
 230844
@@ -90382,14 +90382,14 @@ A5
 benzyna
 automatyczna
 48000
-\\u0160koda
+Škoda
 Fabia
 2004
 125000
 benzyna
 manualna
 5999
-Citro\\u00ebn
+Citroën
 C5
 2012
 113000
@@ -90515,7 +90515,7 @@ Klasa C
 diesel
 automatyczna
 87900
-Citro\\u00ebn
+Citroën
 C3 Picasso
 2010
 197785
@@ -90585,7 +90585,7 @@ Focus
 diesel
 manualna
 38999
-\\u0160koda
+Škoda
 Superb
 2018
 168000
@@ -90641,7 +90641,7 @@ Klasa A
 benzyna
 manualna
 14950
-\\u0160koda
+Škoda
 Fabia
 2018
 68100
@@ -90683,14 +90683,14 @@ V60
 diesel
 manualna
 79900
-\\u0160koda
+Škoda
 Fabia
 2019
 86800
 benzyna
 manualna
 58100
-\\u0160koda
+Škoda
 Octavia
 2016
 136600
@@ -90718,7 +90718,7 @@ GS
 benzyna
 automatyczna
 152700
-\\u0160koda
+Škoda
 Superb
 2019
 64200
@@ -90753,7 +90753,7 @@ Auris
 diesel
 manualna
 36900
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2012
 233000
@@ -90977,7 +90977,7 @@ Grand Cherokee
 benzyna
 automatyczna
 165000
-\\u0160koda
+Škoda
 Octavia
 2016
 96313
@@ -91089,7 +91089,7 @@ A6
 diesel
 automatyczna
 27700
-\\u0160koda
+Škoda
 Roomster
 2010
 154200
@@ -91124,7 +91124,7 @@ X4
 benzyna
 automatyczna
 469900
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2016
 40000
@@ -91236,7 +91236,7 @@ Klasa V
 diesel
 automatyczna
 291633
-\\u0160koda
+Škoda
 Fabia
 2015
 104541
@@ -91299,7 +91299,7 @@ Altea XL
 diesel
 manualna
 16800
-Citro\\u00ebn
+Citroën
 C3
 2014
 88590
@@ -91313,7 +91313,7 @@ X6
 diesel
 automatyczna
 66900
-\\u0160koda
+Škoda
 Octavia
 2005
 180600
@@ -91334,14 +91334,14 @@ Venga
 benzyna
 manualna
 24900
-Citro\\u00ebn
+Citroën
 C1
 2009
 128044
 benzyna
 manualna
 10000
-\\u0160koda
+Škoda
 Octavia
 2017
 137228
@@ -91656,7 +91656,7 @@ Tucson
 benzyna
 manualna
 74800
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2007
 241049
@@ -91698,7 +91698,7 @@ S40
 diesel
 manualna
 11000
-\\u0160koda
+Škoda
 Octavia
 2018
 144084
@@ -91740,7 +91740,7 @@ Tucson
 benzyna
 manualna
 96000
-\\u0160koda
+Škoda
 Octavia
 2018
 150556
@@ -91999,7 +91999,7 @@ EcoSport
 benzyna
 manualna
 86000
-\\u0160koda
+Škoda
 Octavia
 2017
 102534
@@ -92090,7 +92090,7 @@ Seria 5
 diesel
 manualna
 19999
-\\u0160koda
+Škoda
 Octavia
 2011
 212000
@@ -92174,7 +92174,7 @@ Chrysler
 diesel
 automatyczna
 34900
-\\u0160koda
+Škoda
 Octavia
 2014
 205300
@@ -92209,7 +92209,7 @@ Mii
 benzyna
 manualna
 21900
-Citro\\u00ebn
+Citroën
 C1
 2009
 175314
@@ -92279,7 +92279,7 @@ A4
 diesel
 automatyczna
 27400
-Citro\\u00ebn
+Citroën
 C4
 2008
 220000
@@ -92293,7 +92293,7 @@ Sportage
 diesel
 manualna
 56000
-\\u0160koda
+Škoda
 Superb
 2015
 192361
@@ -92356,7 +92356,7 @@ Seria 3
 benzyna
 manualna
 10000
-\\u0160koda
+Škoda
 Superb
 2010
 306000
@@ -92398,7 +92398,7 @@ Sportage
 diesel
 automatyczna
 68900
-\\u0160koda
+Škoda
 Fabia
 2005
 122677
@@ -92496,7 +92496,7 @@ Corolla Verso
 diesel
 manualna
 13900
-\\u0160koda
+Škoda
 Octavia
 2017
 187822
@@ -92552,7 +92552,7 @@ Passat
 diesel
 automatyczna
 94799
-\\u0160koda
+Škoda
 Fabia
 2009
 198000
@@ -92664,7 +92664,7 @@ Klasa A
 benzyna
 manualna
 11900
-\\u0160koda
+Škoda
 RAPID
 2017
 143116
@@ -92699,7 +92699,7 @@ GLE
 benzyna
 automatyczna
 479900
-\\u0160koda
+Škoda
 Roomster
 2007
 151000
@@ -92776,7 +92776,7 @@ Seria 3
 benzyna
 manualna
 17000
-\\u0160koda
+Škoda
 Fabia
 2015
 128645
@@ -92951,7 +92951,7 @@ Ceed
 benzyna
 manualna
 16900
-\\u0160koda
+Škoda
 Kamiq
 2020
 12439
@@ -92979,14 +92979,14 @@ XJ
 benzyna
 automatyczna
 17990
-Citro\\u00ebn
-C-Elys\\u00e9e
+Citroën
+C-Elysée
 2016
 88877
 benzyna
 manualna
 34900
-\\u0160koda
+Škoda
 Citigo
 2012
 106719
@@ -93035,7 +93035,7 @@ Megane
 benzyna
 manualna
 59900
-Citro\\u00ebn
+Citroën
 C2
 2008
 180000
@@ -93252,7 +93252,7 @@ A3
 diesel
 manualna
 21000
-\\u0160koda
+Škoda
 RAPID
 2018
 19778
@@ -93364,7 +93364,7 @@ Sportage
 benzyna
 manualna
 23900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2014
 105850
@@ -93462,7 +93462,7 @@ Logan
 benzyna
 manualna
 16900
-\\u0160koda
+Škoda
 Octavia
 2001
 277159
@@ -93490,7 +93490,7 @@ Seria 3
 benzyna
 manualna
 2200
-\\u0160koda
+Škoda
 Kodiaq
 2017
 135822
@@ -93511,7 +93511,7 @@ Seria 2
 benzyna
 automatyczna
 69987
-\\u0160koda
+Škoda
 Octavia
 2010
 199971
@@ -93602,7 +93602,7 @@ Mazda
 diesel
 automatyczna
 69000
-\\u0160koda
+Škoda
 Octavia
 2021
 1
@@ -93623,7 +93623,7 @@ Leon
 benzyna
 manualna
 110000
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2011
 155000
@@ -93756,7 +93756,7 @@ Mondeo
 benzyna
 manualna
 17500
-\\u0160koda
+Škoda
 Superb
 2016
 216899
@@ -93784,7 +93784,7 @@ Exeo
 benzyna
 manualna
 21900
-Citro\\u00ebn
+Citroën
 C5
 2015
 155000
@@ -93861,7 +93861,7 @@ Duster
 benzyna
 manualna
 38500
-Citro\\u00ebn
+Citroën
 C2
 2007
 134000
@@ -94008,7 +94008,7 @@ Peugeot
 benzyna
 manualna
 10800
-Citro\\u00ebn
+Citroën
 C3 Picasso
 2012
 86213
@@ -94057,7 +94057,7 @@ Corsa
 benzyna
 automatyczna
 80490
-\\u0160koda
+Škoda
 Octavia
 2011
 171000
@@ -94302,14 +94302,14 @@ Sharan
 benzyna
 manualna
 12900
-\\u0160koda
+Škoda
 Fabia
 2017
 30915
 benzyna
 manualna
 45900
-Citro\\u00ebn
+Citroën
 C3
 2021
 2
@@ -94449,7 +94449,7 @@ Jetta
 benzyna
 automatyczna
 43900
-Citro\\u00ebn
+Citroën
 C5
 2011
 158700
@@ -94505,7 +94505,7 @@ Duster
 benzyna
 manualna
 46800
-Citro\\u00ebn
+Citroën
 Jumper
 2018
 268685
@@ -94582,7 +94582,7 @@ Grand Cherokee
 benzyna
 automatyczna
 29900
-\\u0160koda
+Škoda
 Citigo
 2017
 115492
@@ -94673,7 +94673,7 @@ Vel Satis
 diesel
 automatyczna
 11900
-\\u0160koda
+Škoda
 Octavia
 1998
 331200
@@ -94729,7 +94729,7 @@ Splash
 benzyna
 manualna
 17900
-\\u0160koda
+Škoda
 Octavia
 2016
 184000
@@ -94799,7 +94799,7 @@ Rio
 benzyna
 manualna
 41000
-\\u0160koda
+Škoda
 Octavia
 2017
 185398
@@ -95002,7 +95002,7 @@ Peugeot
 diesel
 manualna
 29000
-Citro\\u00ebn
+Citroën
 C3 Picasso
 2009
 178000
@@ -95037,7 +95037,7 @@ I30
 benzyna
 manualna
 72600
-Citro\\u00ebn
+Citroën
 C5
 2009
 268000
@@ -95107,7 +95107,7 @@ M5
 benzyna
 automatyczna
 449000
-\\u0160koda
+Škoda
 Superb
 2009
 261684
@@ -95142,14 +95142,14 @@ SX4 S-Cross
 benzyna
 manualna
 52900
-\\u0160koda
+Škoda
 Superb
 2017
 190000
 diesel
 manualna
 59000
-\\u0160koda
+Škoda
 Octavia
 2021
 10
@@ -95198,7 +95198,7 @@ Polo
 benzyna
 manualna
 74100
-\\u0160koda
+Škoda
 Superb
 2004
 362000
@@ -95240,7 +95240,7 @@ Twingo
 benzyna
 manualna
 21900
-\\u0160koda
+Škoda
 Fabia
 2018
 150000
@@ -95471,7 +95471,7 @@ Q3
 benzyna
 automatyczna
 84900
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2018
 169000
@@ -95492,7 +95492,7 @@ Colt
 benzyna
 manualna
 6999
-\\u0160koda
+Škoda
 Fabia
 2018
 24257
@@ -95576,7 +95576,7 @@ A3
 benzyna
 manualna
 33500
-\\u0160koda
+Škoda
 RAPID
 2018
 128000
@@ -95646,7 +95646,7 @@ Mark
 benzyna
 automatyczna
 43000
-\\u0160koda
+Škoda
 Octavia
 2020
 32200
@@ -95681,7 +95681,7 @@ Mazda
 diesel
 manualna
 11600
-\\u0160koda
+Škoda
 Superb
 2010
 405000
@@ -96003,7 +96003,7 @@ Insignia
 diesel
 automatyczna
 177400
-Citro\\u00ebn
+Citroën
 Berlingo
 2013
 283795
@@ -96094,7 +96094,7 @@ Antara
 diesel
 automatyczna
 23990
-\\u0160koda
+Škoda
 Fabia
 2015
 134500
@@ -96185,7 +96185,7 @@ Golf
 benzyna
 manualna
 93850
-\\u0160koda
+Škoda
 Fabia
 2005
 239332
@@ -96220,7 +96220,7 @@ Qashqai
 benzyna
 manualna
 30000
-Citro\\u00ebn
+Citroën
 C4
 2016
 160000
@@ -96304,7 +96304,7 @@ Grand Cherokee
 benzyna
 automatyczna
 189500
-Citro\\u00ebn
+Citroën
 C3 Picasso
 2017
 50400
@@ -96479,7 +96479,7 @@ Town & Country
 benzyna
 automatyczna
 54300
-\\u0160koda
+Škoda
 Fabia
 2000
 164000
@@ -96514,7 +96514,7 @@ Ceed
 benzyna
 manualna
 84990
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2011
 246000
@@ -96535,7 +96535,7 @@ Beetle
 diesel
 manualna
 35499
-\\u0160koda
+Škoda
 Kodiaq
 2021
 10
@@ -96647,7 +96647,7 @@ Arteon
 benzyna
 automatyczna
 213110
-\\u0160koda
+Škoda
 Roomster
 2014
 264575
@@ -96661,14 +96661,14 @@ Golf
 diesel
 automatyczna
 43000
-\\u0160koda
+Škoda
 Fabia
 2021
 5
 benzyna
 manualna
 81200
-\\u0160koda
+Škoda
 Octavia
 2006
 166525
@@ -96717,7 +96717,7 @@ Vitara
 benzyna
 manualna
 66000
-Citro\\u00ebn
+Citroën
 C3 Aircross
 2019
 28000
@@ -96815,7 +96815,7 @@ Zafira
 benzyna
 manualna
 48500
-\\u0160koda
+Škoda
 Fabia
 2018
 68641
@@ -96871,7 +96871,7 @@ Qashqai
 benzyna
 automatyczna
 44900
-Citro\\u00ebn
+Citroën
 C4
 2008
 181000
@@ -96920,7 +96920,7 @@ Seria 1
 benzyna
 manualna
 29900
-\\u0160koda
+Škoda
 Fabia
 2008
 325806
@@ -97018,14 +97018,14 @@ Ceed
 benzyna
 manualna
 92490
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2016
 151753
 diesel
 automatyczna
 58900
-\\u0160koda
+Škoda
 Superb
 2007
 343000
@@ -97060,7 +97060,7 @@ Passat
 benzyna
 automatyczna
 84900
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2016
 141409
@@ -97081,7 +97081,7 @@ Peugeot
 diesel
 automatyczna
 48900
-Citro\\u00ebn
+Citroën
 Jumper
 2021
 6801
@@ -97186,7 +97186,7 @@ Tucson
 diesel
 manualna
 86900
-Citro\\u00ebn
+Citroën
 DS3
 2013
 90000
@@ -97305,7 +97305,7 @@ California
 diesel
 automatyczna
 342214
-Citro\\u00ebn
+Citroën
 C5
 2011
 147000
@@ -97452,14 +97452,14 @@ S3
 benzyna
 automatyczna
 182498
-\\u0160koda
+Škoda
 Fabia
 2018
 114500
 benzyna
 manualna
 37900
-\\u0160koda
+Škoda
 RAPID
 2016
 139550
@@ -97473,7 +97473,7 @@ Arona
 benzyna
 manualna
 100350
-\\u0160koda
+Škoda
 Octavia
 2014
 170000
@@ -97543,7 +97543,7 @@ A3
 benzyna
 automatyczna
 87500
-Citro\\u00ebn
+Citroën
 ZX
 1994
 29000
@@ -97725,7 +97725,7 @@ Seria 5
 diesel
 manualna
 58700
-\\u0160koda
+Škoda
 Octavia
 2009
 290000
@@ -97746,7 +97746,7 @@ Auris
 benzyna
 manualna
 25200
-\\u0160koda
+Škoda
 Octavia
 2021
 5
@@ -97788,7 +97788,7 @@ Modus
 diesel
 manualna
 3550
-\\u0160koda
+Škoda
 Octavia
 2015
 198000
@@ -97872,7 +97872,7 @@ Adam
 benzyna
 manualna
 27499
-\\u0160koda
+Škoda
 Kodiaq
 2017
 91781
@@ -97914,7 +97914,7 @@ Land Cruiser
 diesel
 manualna
 32500
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2010
 200000
@@ -97928,7 +97928,7 @@ Focus
 diesel
 manualna
 11900
-Citro\\u00ebn
+Citroën
 C3
 2004
 171000
@@ -97970,7 +97970,7 @@ XC 90
 benzyna
 automatyczna
 227550
-Citro\\u00ebn
+Citroën
 Berlingo
 2015
 79000
@@ -98033,7 +98033,7 @@ Sportage
 diesel
 manualna
 17999
-\\u0160koda
+Škoda
 Fabia
 2017
 39096
@@ -98138,7 +98138,7 @@ A4
 benzyna
 automatyczna
 175911
-\\u0160koda
+Škoda
 Octavia
 2015
 216212
@@ -98264,7 +98264,7 @@ Klasa E
 benzyna
 automatyczna
 32900
-\\u0160koda
+Škoda
 Superb
 2021
 5
@@ -98285,7 +98285,7 @@ Bravo
 benzyna
 manualna
 15900
-\\u0160koda
+Škoda
 Superb
 2021
 5
@@ -98306,14 +98306,14 @@ Qashqai
 benzyna
 automatyczna
 89900
-\\u0160koda
+Škoda
 Kamiq
 2021
 5
 benzyna
 automatyczna
 136500
-\\u0160koda
+Škoda
 Kamiq
 2021
 5
@@ -98348,21 +98348,21 @@ Fiesta
 benzyna
 manualna
 36900
-\\u0160koda
+Škoda
 Fabia
 2021
 5
 benzyna
 manualna
 71300
-\\u0160koda
+Škoda
 Kamiq
 2021
 5
 benzyna
 automatyczna
 101000
-\\u0160koda
+Škoda
 Kamiq
 2021
 5
@@ -98376,7 +98376,7 @@ A4 Allroad
 benzyna
 automatyczna
 176900
-\\u0160koda
+Škoda
 Superb
 2017
 157633
@@ -98390,7 +98390,7 @@ S40
 diesel
 manualna
 14999
-Citro\\u00ebn
+Citroën
 Berlingo
 2016
 147000
@@ -98418,7 +98418,7 @@ Crafter
 diesel
 manualna
 45500
-\\u0160koda
+Škoda
 Superb
 2017
 115342
@@ -98439,7 +98439,7 @@ LC
 benzyna
 automatyczna
 659500
-\\u0160koda
+Škoda
 Superb
 2018
 149906
@@ -98474,7 +98474,7 @@ XC 60
 benzyna
 automatyczna
 70000
-\\u0160koda
+Škoda
 Octavia
 2009
 100123
@@ -98502,7 +98502,7 @@ Clio
 benzyna
 manualna
 51900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2009
 134000
@@ -98565,7 +98565,7 @@ Klasa E
 diesel
 automatyczna
 64900
-\\u0160koda
+Škoda
 Fabia
 2021
 5
@@ -98740,7 +98740,7 @@ Golf
 benzyna
 manualna
 10200
-\\u0160koda
+Škoda
 Octavia
 2018
 113523
@@ -98859,7 +98859,7 @@ Peugeot
 benzyna
 manualna
 47900
-Citro\\u00ebn
+Citroën
 Berlingo
 2017
 97526
@@ -98957,7 +98957,7 @@ Seria 3
 benzyna
 manualna
 9999
-\\u0160koda
+Škoda
 Citigo
 2013
 279000
@@ -99146,7 +99146,7 @@ S90
 diesel
 automatyczna
 189000
-\\u0160koda
+Škoda
 Superb
 2018
 92184
@@ -99160,7 +99160,7 @@ CR-V
 benzyna
 manualna
 33900
-Citro\\u00ebn
+Citroën
 C8
 2008
 178000
@@ -99174,7 +99174,7 @@ Seria 3
 benzyna
 manualna
 29999
-\\u0160koda
+Škoda
 Fabia
 2000
 191000
@@ -99223,21 +99223,21 @@ Soul
 benzyna
 manualna
 28900
-\\u0160koda
+Škoda
 Superb
 2005
 194000
 benzyna
 manualna
 13400
-\\u0160koda
+Škoda
 Yeti
 2015
 51000
 benzyna
 manualna
 44500
-\\u0160koda
+Škoda
 Octavia
 2015
 169948
@@ -99370,7 +99370,7 @@ C30
 diesel
 manualna
 19900
-Citro\\u00ebn
+Citroën
 Berlingo
 2016
 75000
@@ -99440,7 +99440,7 @@ Peugeot
 benzyna
 manualna
 6700
-\\u0160koda
+Škoda
 Superb
 2018
 104256
@@ -99881,7 +99881,7 @@ Sportage
 benzyna
 manualna
 48900
-\\u0160koda
+Škoda
 RAPID
 2017
 120000
@@ -100084,7 +100084,7 @@ Q5
 benzyna
 automatyczna
 169999
-Citro\\u00ebn
+Citroën
 C5 Aircross
 2019
 17850
@@ -100448,7 +100448,7 @@ Clio
 benzyna
 manualna
 14900
-Citro\\u00ebn
+Citroën
 Nemo
 2014
 119876
@@ -100672,7 +100672,7 @@ S-Max
 diesel
 manualna
 61900
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2007
 253000
@@ -100791,7 +100791,7 @@ Laguna
 benzyna
 manualna
 17800
-Citro\\u00ebn
+Citroën
 C8
 2013
 209000
@@ -100945,7 +100945,7 @@ I30
 benzyna
 manualna
 67990
-Citro\\u00ebn
+Citroën
 Xsara Picasso
 2008
 250000
@@ -100987,7 +100987,7 @@ Corsa
 benzyna
 manualna
 53600
-Citro\\u00ebn
+Citroën
 C4 Grand Picasso
 2019
 25000
@@ -101022,7 +101022,7 @@ Kadjar
 diesel
 manualna
 59900
-Citro\\u00ebn
+Citroën
 C3 Aircross
 2021
 4
@@ -101190,7 +101190,7 @@ Mondeo
 benzyna
 manualna
 20900
-\\u0160koda
+Škoda
 Citigo
 2016
 34551
@@ -101302,14 +101302,14 @@ Pro_cee'd
 benzyna
 automatyczna
 130400
-\\u0160koda
+Škoda
 Superb
 2018
 139468
 benzyna
 automatyczna
 134900
-Citro\\u00ebn
+Citroën
 C3
 2011
 175000
@@ -101358,7 +101358,7 @@ Klasa A
 benzyna
 manualna
 8700
-Citro\\u00ebn
+Citroën
 C5
 2009
 310000
@@ -101400,7 +101400,7 @@ Klasa C
 benzyna
 automatyczna
 34900
-Citro\\u00ebn
+Citroën
 C4
 2021
 2
@@ -101491,7 +101491,7 @@ S-Max
 diesel
 manualna
 25900
-\\u0160koda
+Škoda
 Fabia
 2000
 126947
@@ -101519,7 +101519,7 @@ Grande Punto
 benzyna
 manualna
 15000
-\\u0160koda
+Škoda
 Fabia
 2006
 160000
@@ -101547,7 +101547,7 @@ Insignia
 diesel
 manualna
 83000
-\\u0160koda
+Škoda
 RAPID
 2013
 116025
@@ -101596,7 +101596,7 @@ CC
 diesel
 automatyczna
 36500
-\\u0160koda
+Škoda
 Octavia
 2018
 93000
@@ -101624,7 +101624,7 @@ Mazda
 benzyna
 manualna
 24500
-\\u0160koda
+Škoda
 Octavia
 2018
 67874
@@ -101708,7 +101708,7 @@ Mazda
 benzyna
 manualna
 55500
-Citro\\u00ebn
+Citroën
 C5
 2009
 287456
@@ -101785,7 +101785,7 @@ A6
 diesel
 automatyczna
 94900
-\\u0160koda
+Škoda
 Octavia
 2018
 122814
@@ -102128,7 +102128,7 @@ Laguna
 benzyna
 manualna
 5555
-Citro\\u00ebn
+Citroën
 C5
 2010
 250000
@@ -102149,7 +102149,7 @@ V40
 benzyna
 manualna
 43900
-Citro\\u00ebn
+Citroën
 C4 Cactus
 2016
 123000
@@ -102198,7 +102198,7 @@ IS
 benzyna
 automatyczna
 84900
-\\u0160koda
+Škoda
 Citigo
 2014
 69000
@@ -102212,7 +102212,7 @@ Stelvio
 benzyna
 automatyczna
 124990
-\\u0160koda
+Škoda
 Fabia
 2017
 105305
@@ -102261,7 +102261,7 @@ CLC
 benzyna
 manualna
 29000
-\\u0160koda
+Škoda
 Superb
 2008
 245000
@@ -102331,7 +102331,7 @@ Corolla Verso
 diesel
 manualna
 14999
-\\u0160koda
+Škoda
 Superb
 2017
 159000
@@ -102464,7 +102464,7 @@ Peugeot
 diesel
 automatyczna
 151900
-Citro\\u00ebn
+Citroën
 C5
 2010
 256000
@@ -102597,7 +102597,7 @@ ProAce
 diesel
 manualna
 129714
-\\u0160koda
+Škoda
 Superb
 2015
 141520
@@ -102688,7 +102688,7 @@ i20
 benzyna
 manualna
 28500
-\\u0160koda
+Škoda
 Superb
 2020
 47700
@@ -102996,7 +102996,7 @@ Clio
 benzyna
 manualna
 11500
-\\u0160koda
+Škoda
 Superb
 2021
 1
@@ -103122,7 +103122,7 @@ A3
 benzyna
 manualna
 52300
-\\u0160koda
+Škoda
 Superb
 2017
 120000
@@ -103178,7 +103178,7 @@ Grandis
 diesel
 manualna
 13900
-\\u0160koda
+Škoda
 Karoq
 2020
 8
@@ -103276,7 +103276,7 @@ Caddy
 diesel
 manualna
 100305
-Citro\\u00ebn
+Citroën
 C4 Picasso
 2018
 95772
@@ -103297,7 +103297,7 @@ Seria 5
 benzyna
 automatyczna
 32900
-\\u0160koda
+Škoda
 Octavia
 2004
 258000
@@ -103423,7 +103423,7 @@ Qashqai
 benzyna
 automatyczna
 132200
-\\u0160koda
+Škoda
 Kodiaq
 2017
 99900
@@ -103612,7 +103612,7 @@ Mokka
 benzyna
 manualna
 67000
-\\u0160koda
+Škoda
 Yeti
 2012
 111113
@@ -103682,7 +103682,7 @@ A6
 diesel
 automatyczna
 30999
-\\u0160koda
+Škoda
 Octavia
 2014
 262300
@@ -103710,7 +103710,7 @@ X5
 diesel
 automatyczna
 179900
-\\u0160koda
+Škoda
 Fabia
 2011
 152250
@@ -103731,7 +103731,7 @@ SQ8
 diesel
 automatyczna
 679000
-\\u0160koda
+Škoda
 Fabia
 2011
 231000
@@ -103745,8 +103745,8 @@ Leon
 benzyna
 automatyczna
 140127
-Citro\\u00ebn
-C-Elys\\u00e9e
+Citroën
+C-Elysée
 2016
 146473
 benzyna
@@ -103843,7 +103843,7 @@ Klasa E
 benzyna
 automatyczna
 299900
-\\u0160koda
+Škoda
 RAPID
 2016
 73000
@@ -103962,7 +103962,7 @@ Seria 3
 diesel
 automatyczna
 39900
-Citro\\u00ebn
+Citroën
 Berlingo
 2017
 183525
@@ -104004,7 +104004,7 @@ Peugeot
 diesel
 manualna
 33999
-\\u0160koda
+Škoda
 Octavia
 2016
 309000
@@ -104270,7 +104270,7 @@ New Beetle
 benzyna
 automatyczna
 9490
-Citro\\u00ebn
+Citroën
 C3
 2014
 162612
@@ -104368,7 +104368,7 @@ Wrangler
 diesel
 automatyczna
 130000
-Citro\\u00ebn
+Citroën
 DS3
 2015
 103705
@@ -104389,7 +104389,7 @@ A6
 diesel
 automatyczna
 139900
-\\u0160koda
+Škoda
 Octavia
 2011
 265500
@@ -104438,7 +104438,7 @@ XV
 benzyna
 automatyczna
 123255
-\\u0160koda
+Škoda
 Octavia
 2009
 143847

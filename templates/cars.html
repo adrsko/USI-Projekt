@@ -18,13 +18,13 @@
                 Przebieg [km]
             </th>
             <th scope="col">
-                Cena [zł]
-            </th>
-            <th scope="col">
                 Paliwo
             </th>
             <th scope="col">
                 Skrzynia Biegów
+            </th>
+            <th scope="col">
+                Cena [zł]
             </th>
             <th scope="col">
                 edycja
@@ -45,13 +45,13 @@
                     {{ car.mileage }}
                 </td>
                 <td>
-                    {{ car.price }}
-                </td>
-                <td>
                     {{ car.fuel_type }}
                 </td>
                 <td>
                     {{ car.transmission }}
+                </td>
+                <td>
+                    {{ car.price }}
                 </td>
                 <td>
                     <a class="btn btn-dark" href="{{ url_for('edit_car', id=car.id) }}">EDIT</a>
