@@ -32,7 +32,7 @@ class User(db.Model, UserMixin):
 class Cars(db.Model):
 
     CHOICES = [('benzyna', 'Benzyna'),('diesel', 'Diesel')]
-    CHOICES2 = [('manulana', 'Manualna'),('automatyczna', 'Automatyczna')]
+    CHOICES2 = [('manualna', 'Manualna'),('automatyczna', 'Automatyczna')]
 
     id = db.Column(db.String(100), primary_key=True, nullable=False)
     brand = db.Column(db.String(60), nullable=False)
