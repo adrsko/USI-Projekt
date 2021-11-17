@@ -1,12 +1,10 @@
-from enum import unique
-from os import error
-from flask import Flask, render_template, flash, redirect, url_for, request
+from flask import Flask, render_template, redirect, url_for, request
 from flask_sqlalchemy import SQLAlchemy
-from sqlalchemy import BigInteger
 from form import LoginForm, RegistrationForm, UpdateAccountForm, AddCarForm, UpdateCarForm
 from flask_bcrypt import Bcrypt
 from flask_login import UserMixin, LoginManager, login_user, current_user, logout_user
 import uuid
+from sqlalchemy_utils import ChoiceType
 
 app = Flask(__name__)
 
@@ -20,10 +18,10 @@ login_manager = LoginManager(app)
 
 @login_manager.user_loader
 def load_user(user_id):
-    return User.query.get(int(user_id))
+    return User.query.get(user_id)
 
 class User(db.Model, UserMixin):
-    id = db.Column(db.Integer, primary_key=True, nullable=False)
+    id = db.Column(db.String(100), primary_key=True, nullable=False)
     username = db.Column(db.String(20), nullable=False)
     email = db.Column(db.String(60), nullable=False)
     password = db.Column(db.String(60), nullable=False)
@@ -32,11 +30,17 @@ class User(db.Model, UserMixin):
         return f"User('{self.username}', '{self.email}')"
 
 class Cars(db.Model):
+
+    CHOICES = [('benzyna', 'Benzyna'),('diesel', 'Diesel')]
+    CHOICES2 = [('manulana', 'Manualna'),('automatyczna', 'Automatyczna')]
+
     id = db.Column(db.String(100), primary_key=True, nullable=False)
     brand = db.Column(db.String(60), nullable=False)
     model = db.Column(db.String(60), nullable=False)
     year = db.Column(db.Integer, nullable=False)
     mileage = db.Column(db.Integer, nullable=False)
+    fuel_type = db.Column(ChoiceType(CHOICES))
+    transmission = db.Column(ChoiceType(CHOICES2))
     price = db.Column(db.Integer, nullable=False)
 
     def __repr__(self):
@@ -74,10 +78,9 @@ def register():
         form = RegistrationForm()
         if form.validate_on_submit():
             hashed_password = bcrypt.generate_password_hash(form.password.data).decode('utf-8')
-            user = User(username=form.username.data, email=form.email.data, password=hashed_password)
+            user = User(id = str(uuid.uuid4()), username=form.username.data, email=form.email.data, password=hashed_password)
             db.session.add(user)
             db.session.commit()
-            form = LoginForm()
             return redirect(url_for('login'))
         return render_template('register.html', title='Register', form=form)
 
@@ -119,7 +122,7 @@ def add_car():
     if current_user.is_authenticated:
         form = AddCarForm()
         if form.validate_on_submit():
-            car = Cars(id = str(uuid.uuid4()), brand=form.brand.data, model=form.model.data, year=form.year.data, mileage=form.mileage.data, price=form.price.data)
+            car = Cars(id = str(uuid.uuid4()), brand=form.brand.data, model=form.model.data, year=form.year.data, mileage=form.mileage.data, fuel_type=form.fuel_type.data, transmission=form.transmission.data, price=form.price.data)
             db.session.add(car)
             db.session.commit()
             return redirect(url_for('cars', page_num=1))
@@ -137,6 +140,8 @@ def edit_car(id):
             edit_car.model = form.model.data
             edit_car.year = form.year.data
             edit_car.mileage = form.mileage.data
+            edit_car.fuel_type = form.fuel_type.data
+            edit_car.transmission = form.transmission.data
             edit_car.price = form.price.data
             db.session.commit()
             return redirect(url_for('cars', page_num=1))
@@ -145,6 +150,8 @@ def edit_car(id):
             form.model.data = edit_car.model
             form.year.data = edit_car.year
             form.mileage.data = edit_car.mileage
+            form.fuel_type.data = edit_car.fuel_type
+            form.transmission.data = edit_car.transmission
             form.price.data = edit_car.price
         return render_template('edit_car.html', title='Add_car', form=form)
     else:

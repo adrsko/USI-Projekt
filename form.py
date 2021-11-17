@@ -2,7 +2,7 @@ from wtforms.fields.core import BooleanField
 from wtforms.fields.simple import PasswordField, SubmitField
 from wtforms.validators import Email, EqualTo
 from flask_wtf import FlaskForm
-from wtforms import StringField, validators, IntegerField
+from wtforms import StringField, validators, IntegerField, SelectField
 from flask_login import current_user
 
 class RegistrationForm(FlaskForm):
@@ -28,6 +28,8 @@ class AddCarForm(FlaskForm):
     year = IntegerField('Rok: ')
     mileage = IntegerField('Przebieg: ')
     price = IntegerField('Cena: ')
+    fuel_type = SelectField(u'Typ Paliwa:', choices=[('benzyna', 'Benzyna'),('diesel', 'Diesel')])
+    transmission = SelectField(u'Skrzynia Biegów:', choices=[('manulana', 'Manualna'),('automatyczna', 'Automatyczna')])
     submit = SubmitField('Zapisz')
 
 class UpdateCarForm(FlaskForm):
@@ -35,5 +37,7 @@ class UpdateCarForm(FlaskForm):
     model = StringField('Model: ')
     year = IntegerField('Rok: ')
     mileage = IntegerField('Przebieg: ')
+    fuel_type = SelectField(u'Typ Paliwa:', choices=[('benzyna', 'Benzyna'),('diesel', 'Diesel')])
+    transmission = SelectField(u'Skrzynia Biegów:', choices=[('manulana', 'Manualna'),('automatyczna', 'Automatyczna')])
     price = IntegerField('Cena: ')
     submit = SubmitField('Zapisz')

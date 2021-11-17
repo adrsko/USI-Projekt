@@ -1,6 +1,6 @@
 .bg-nav{
     background-image: url("car.jpg");
-    background-size: cover;
+    background-size: auto;
 }
 
 .content-section{
