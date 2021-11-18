@@ -1,6 +1,5 @@
 from flask import Flask, render_template, redirect, url_for, request
 from flask_sqlalchemy import SQLAlchemy
-from form import LoginForm, RegistrationForm, UpdateAccountForm, AddCarForm, UpdateCarForm
 from flask_bcrypt import Bcrypt
 from flask_login import UserMixin, LoginManager, login_user, current_user, logout_user
 import uuid
@@ -47,6 +46,12 @@ class Cars(db.Model):
         return f"Cars('{self.brand}', '{self.model}')"
 
 
+query = db.session.query(Cars.brand.distinct().label("brand"))
+brands = [row.brand for row in query.all()]
+
+query2 = db.session.query(Cars.model.distinct().label("model")).filter_by(brand='BMW')
+models = [row.model for row in query2.all()]
+
 @app.route("/")
 @app.route("/home")
 def home():
@@ -65,13 +70,16 @@ def cars(page_num):
 
 @app.route("/prices")
 def prices():
+    from form import PricesForm
     if current_user.is_authenticated:
-        return render_template('prices.html')
+        form = PricesForm()
+        return render_template('prices.html', title='Add_car', form = form)
     else:
         return redirect(url_for('login'))
 
 @app.route("/register", methods = ['GET', 'POST'])
 def register():
+    from form import RegistrationForm
     if current_user.is_authenticated:
         return redirect(url_for('home'))
     else:
@@ -86,6 +94,7 @@ def register():
 
 @app.route("/login", methods = ['GET', 'POST'])
 def login():
+    from form import LoginForm
     if current_user.is_authenticated:
         return redirect(url_for('home'))
     form = LoginForm()
@@ -103,6 +112,7 @@ def logout():
 
 @app.route("/account", methods = ['GET', 'POST'])
 def account():
+    from form import UpdateAccountForm
     if current_user.is_authenticated:
         form = UpdateAccountForm()
         if form.validate_on_submit():
@@ -119,6 +129,7 @@ def account():
 
 @app.route("/add_car", methods = ['GET', 'POST'])
 def add_car():
+    from form import AddCarForm
     if current_user.is_authenticated:
         form = AddCarForm()
         if form.validate_on_submit():
@@ -132,6 +143,7 @@ def add_car():
 
 @app.route("/cars/<id>", methods = ['GET', 'POST'])
 def edit_car(id):
+    from form import UpdateCarForm
     if current_user.is_authenticated:
         edit_car = Cars.query.filter_by(id=id).first()
         form = UpdateCarForm()

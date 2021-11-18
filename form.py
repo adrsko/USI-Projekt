@@ -41,3 +41,9 @@ class UpdateCarForm(FlaskForm):
     transmission = SelectField(u'Skrzynia Biegów:', choices=[('manulana', 'Manualna'),('automatyczna', 'Automatyczna')])
     price = IntegerField('Cena: ')
     submit = SubmitField('Zapisz')
+
+class PricesForm(FlaskForm):
+    from main import brands, models, db, Cars
+    brand = SelectField(u'Marka:', choices=brands)
+    model = SelectField(u'Marka:', choices=models)
+
