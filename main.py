@@ -45,13 +45,6 @@ class Cars(db.Model):
     def __repr__(self):
         return f"Cars('{self.brand}', '{self.model}')"
 
-
-query = db.session.query(Cars.brand.distinct().label("brand"))
-brands = [row.brand for row in query.all()]
-
-query2 = db.session.query(Cars.model.distinct().label("model")).filter_by(brand='BMW')
-models = [row.model for row in query2.all()]
-
 @app.route("/")
 @app.route("/home")
 def home():
@@ -68,14 +61,25 @@ def cars(page_num):
     else:
         return redirect(url_for('login'))
 
-@app.route("/prices")
+@app.route("/prices", methods=['GET', 'POST'])
 def prices():
     from form import PricesForm
     if current_user.is_authenticated:
         form = PricesForm()
+        year = form.year.data
+        mileage = form.mileage.data
+        fuel_type = form.fuel_type.data
+        transmission = form.transmission.data
+        print(year, mileage, fuel_type, transmission)
         return render_template('prices.html', title='Add_car', form = form)
     else:
         return redirect(url_for('login'))
+
+@app.route("/predict", methods=['POST'])
+def predict():
+    from test2 import test
+    test()
+    return "gotowe"
 
 @app.route("/register", methods = ['GET', 'POST'])
 def register():

@@ -42,8 +42,19 @@ class UpdateCarForm(FlaskForm):
     price = IntegerField('Cena: ')
     submit = SubmitField('Zapisz')
 
+
+
 class PricesForm(FlaskForm):
-    from main import brands, models, db, Cars
+    from main import Cars, db
+    query = db.session.query(Cars.brand.distinct().label("brand"))
+    brands = [row.brand for row in query.all()]
+    query2 = db.session.query(Cars.model.distinct().label("model"))
+    models = [row.model for row in query2.all()]
     brand = SelectField(u'Marka:', choices=brands)
     model = SelectField(u'Marka:', choices=models)
+    year = IntegerField('Rok: ')
+    mileage = IntegerField('Przebieg: ')
+    fuel_type = SelectField(u'Typ Paliwa:', choices=[('benzyna', 'Benzyna'),('diesel', 'Diesel')])
+    transmission = SelectField(u'Skrzynia Biegów:', choices=[('manulana', 'Manualna'),('automatyczna', 'Automatyczna')])
+    submit = SubmitField('Oblicz przewidywany koszt samochodu')
 

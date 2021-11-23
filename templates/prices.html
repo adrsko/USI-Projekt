@@ -1,22 +1,75 @@
 {% extends "layout.html" %}
 {% block content %}
 
-<div class="container">
-    <div class = "content-section">
-        <form method = "POST" action="">
-            {{ form.hidden_tag() }}
-            <fieldset class="form-group">
-                <div class="form-group" value="Otto">
-                    {{ form.brand.label(class="form-control-label") }}
-                    {{ form.brand(class="form-control form-control-lg") }}
-                </div>
-                <div class="form-group" value="Otto">
-                    {{ form.model.label(class="form-control-label") }}
-                    {{ form.model(class="form-control form-control-lg") }}
-                </div>
-            </fieldset>
-        </form>
+<div class = "content-section">
+    <form method = "POST" action="">
+        {{ form.hidden_tag() }}
+        <fieldset class="form-group">
+            <div class="form-group">
+                {{ form.brand.label(class="form-control-label") }}
+                {{ form.brand(class="form-control form-control-lg") }}
+            </div>
+            <br>
+            <div class="form-group">
+                {{ form.model.label(class="form-control-label") }}
+                {{ form.model(class="form-control form-control-lg") }}
+            </div>
+            <br>
+            <div class="form-group">
+                {{ form.year.label(class="form-control-label") }}
+                {{ form.year(class="form-control form-control-lg") }}
+            </div>
+            <br>
+            <div class="form-group">
+                {{ form.mileage.label(class="form-control-label") }}
+                {{ form.mileage(class="form-control form-control-lg") }}
+            </div>
+            <br>
+            <div class="form-group">
+                {{ form.fuel_type.label(class="form-control-label") }}
+                {{ form.fuel_type(class="form-control form-control-lg") }}
+            </div>
+            <br>
+            <div class="form-group">
+                {{ form.transmission.label(class="form-control-label") }}
+                {{ form.transmission(class="form-control form-control-lg") }}
+            </div>
+        </fieldset>
+        <br>
+        <div class="form-group" onclick="send_data()">
+            {{ form.submit(class="btn btn-outline-info") }}
+        </div>
+    </form>
+    <br>
+    <div class="col-12" style="text-align: center;">
+        <h3><span id="prediction"></span>
+        </h3>
     </div>
+
 </div>
+
+<script>
+    function form_handler(event)
+    {
+        event.preventDefault();
+    }
+
+    function send_data()
+    {
+        document.querySelector('form').addEventListener('submit', form_handler);
+        var fd = new FormData(document.querySelector('form'));
+        var xhr = new XMLHttpRequest();
+        xhr.open('POST', '/predict', true)
+        document.getElementById("prediction").innerHTML="Zaczekaj, trwa obliczanie ceny...";
+        xhr.onreadystatechange = function()
+        {
+            if(xhr.readyState = XMLHttpRequest.DONE)
+            {
+                document.getElementById("prediction").innerHTML="Cena dla podanego samochodu to: " + xhr.responseText;
+            }
+        }
+        xhr.send(fd);
+    }
+</script>
 
 {% endblock content %}
