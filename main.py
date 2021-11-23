@@ -63,23 +63,43 @@ def cars(page_num):
 
 @app.route("/prices", methods=['GET', 'POST'])
 def prices():
-    from form import PricesForm
     if current_user.is_authenticated:
+        from form import PricesForm
         form = PricesForm()
-        year = form.year.data
-        mileage = form.mileage.data
-        fuel_type = form.fuel_type.data
-        transmission = form.transmission.data
-        print(year, mileage, fuel_type, transmission)
         return render_template('prices.html', title='Add_car', form = form)
     else:
         return redirect(url_for('login'))
 
-@app.route("/predict", methods=['POST'])
+@app.route("/predict", methods=['GET', 'POST'])
 def predict():
+    from form import PricesForm
+    import pandas as pd
+    import numpy as np
+    import pickle
+    form = PricesForm()
+    brand = form.brand.data
+    model2 = form.model.data
+    year = form.year.data
+    mileage = form.mileage.data
+    fuel_type = form.fuel_type.data
+    transmission = form.transmission.data
+    model=pickle.load(open("LinearRegressionModel.pkl", 'rb'))
+    prediction = model.predict(pd.DataFrame([[brand, model2, year, mileage, fuel_type, transmission]], columns=['brand', 'model', 'year', 'mileage', 'fuel_type', 'transmission']))    
+    print(str(prediction))
+    return str(round(prediction[0], 2))
+
+@app.route("/regression", methods=['GET', 'POST'])
+def regression():
+    from form import RegressionForm
+    form = RegressionForm()
+    return render_template('regression.html', form=form)
+
+
+@app.route("/test_r", methods=['POST'])
+def test_r():
     from test2 import test
     test()
-    return "gotowe"
+    return ""
 
 @app.route("/register", methods = ['GET', 'POST'])
 def register():

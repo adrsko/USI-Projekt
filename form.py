@@ -1,8 +1,7 @@
-from wtforms.fields.core import BooleanField
 from wtforms.fields.simple import PasswordField, SubmitField
 from wtforms.validators import Email, EqualTo
 from flask_wtf import FlaskForm
-from wtforms import StringField, validators, IntegerField, SelectField
+from wtforms import StringField, validators, IntegerField, SelectField, BooleanField
 from flask_login import current_user
 
 class RegistrationForm(FlaskForm):
@@ -54,7 +53,11 @@ class PricesForm(FlaskForm):
     model = SelectField(u'Marka:', choices=models)
     year = IntegerField('Rok: ')
     mileage = IntegerField('Przebieg: ')
-    fuel_type = SelectField(u'Typ Paliwa:', choices=[('benzyna', 'Benzyna'),('diesel', 'Diesel')])
-    transmission = SelectField(u'Skrzynia Biegów:', choices=[('manulana', 'Manualna'),('automatyczna', 'Automatyczna')])
+    fuel_type = SelectField(u'Typ Paliwa:', choices=[('benzyna', 'benzyna'),('diesel', 'diesel')])
+    transmission = SelectField(u'Skrzynia Biegów:', choices=[('manualna', 'manualna'),('automatyczna', 'automatyczna')])
     submit = SubmitField('Oblicz przewidywany koszt samochodu')
+
+class RegressionForm(FlaskForm):
+    submit = SubmitField('Oblicz Regresję')
+
 
