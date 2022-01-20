@@ -3,6 +3,7 @@ from wtforms.validators import Email, EqualTo
 from flask_wtf import FlaskForm
 from wtforms import StringField, validators, IntegerField, SelectField, BooleanField
 from flask_login import current_user
+from flask import request
 
 class RegistrationForm(FlaskForm):
     username = StringField('Login: ')
@@ -22,39 +23,42 @@ class UpdateAccountForm(FlaskForm):
     submit = SubmitField('Zapisz')
 
 class AddCarForm(FlaskForm):
-    brand = StringField('Marka: ')
+    brand = SelectField(u'Marka: ', choices=[('benzyna', 'Benzyna'),('diesel', 'Diesel')])
     model = StringField('Model: ')
     year = IntegerField('Rok: ')
     mileage = IntegerField('Przebieg: ')
     price = IntegerField('Cena: ')
-    fuel_type = SelectField(u'Typ Paliwa:', choices=[('benzyna', 'Benzyna'),('diesel', 'Diesel')])
-    transmission = SelectField(u'Skrzynia Biegów:', choices=[('manulana', 'Manualna'),('automatyczna', 'Automatyczna')])
+    fuel_type = SelectField(u'Typ Paliwa:', choices=[('Benzyna', 'Benzyna'),('Diesel', 'Diesel')])
+    transmission = SelectField(u'Skrzynia Biegów:', choices=[('Manualna', 'Manualna'),('Automatyczna', 'Automatyczna')])
     submit = SubmitField('Zapisz')
 
 class UpdateCarForm(FlaskForm):
-    brand = StringField('Marka: ')
+    from main import Cars, db, lol
+    query = db.session.query(Cars.brand.distinct().label("brand"))
+    brands = [row.brand for row in query.all()]
+    brand = SelectField(u'Marka:', choices=brands)
     model = StringField('Model: ')
     year = IntegerField('Rok: ')
     mileage = IntegerField('Przebieg: ')
-    fuel_type = SelectField(u'Typ Paliwa:', choices=[('benzyna', 'Benzyna'),('diesel', 'Diesel')])
-    transmission = SelectField(u'Skrzynia Biegów:', choices=[('manulana', 'Manualna'),('automatyczna', 'Automatyczna')])
+    fuel_type = SelectField(u'Typ Paliwa:', choices=[('Benzyna', 'Benzyna'),('Diesel', 'Diesel')])
+    transmission = SelectField(u'Skrzynia Biegów:', choices=[('Manualna', 'Manualna'),('Automatyczna', 'Automatyczna')])
     price = IntegerField('Cena: ')
     submit = SubmitField('Zapisz')
 
 
-
 class PricesForm(FlaskForm):
-    from main import Cars, db
+    from main import Cars, db, lol
+    from sqlalchemy import desc
     query = db.session.query(Cars.brand.distinct().label("brand"))
     brands = [row.brand for row in query.all()]
-    query2 = db.session.query(Cars.model.distinct().label("model"))
-    models = [row.model for row in query2.all()]
     brand = SelectField(u'Marka:', choices=brands)
+    query2 = db.session.query(Cars.model.distinct().label("model")).order_by(Cars.model)
+    models = [row.model for row in query2.all()]
     model = SelectField(u'Marka:', choices=models)
     year = IntegerField('Rok: ')
     mileage = IntegerField('Przebieg: ')
-    fuel_type = SelectField(u'Typ Paliwa:', choices=[('benzyna', 'benzyna'),('diesel', 'diesel')])
-    transmission = SelectField(u'Skrzynia Biegów:', choices=[('manualna', 'manualna'),('automatyczna', 'automatyczna')])
+    fuel_type = SelectField(u'Typ Paliwa:', choices=[('Benzyna', 'Benzyna'),('Diesel', 'Diesel')])
+    transmission = SelectField(u'Skrzynia Biegów:', choices=[('Manualna', 'Manualna'),('Automatyczna', 'Automatyczna')])
     submit = SubmitField('Oblicz przewidywany koszt samochodu')
 
 class RegressionForm(FlaskForm):
