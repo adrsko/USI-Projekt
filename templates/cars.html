@@ -4,10 +4,6 @@
     <h2>Lista używanych Samochodów</h2>
     <a class="btn btn-warning" href = "{{ url_for('add_car') }}">Dodaj samochód</a>
     <table class="table table-sm">
-        <tr>
-            <th scope="col">
-                Marka
-            </th>
             <th scope="col">
                 Model
             </th>
@@ -32,9 +28,6 @@
         </tr>
             {% for car in cars.items %}
             <tr>
-                <td>
-                    {{ car.brand }}
-                </td>
                 <td>
                     {{ car.model }}
                 </td>

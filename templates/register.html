@@ -29,6 +29,16 @@
                     {{ form.confirm_password(class="form-control form-control-lg") }}
                 </div>
             </fieldset>
+            {% for error in form.password.errors %}
+            <span style="color: red;">{{ error }}</span>
+            {% endfor %}
+            {% with messages = get_flashed_messages() %}
+                {% if messages %}
+                    {% for message in messages %}
+                    <span style="color: red;">{{ message }}</span>
+                    {% endfor %}
+                {% endif %}
+            {% endwith %}
             <br>
             <div class="form-group">
                 {{ form.submit(class="btn btn-outline-info") }}

@@ -1,16 +1,11 @@
 {% extends "layout.html" %}
 {% block content %}
 <div class="container">
-    <h2>Samochód {{ form.brand.data }} {{ form.model.data }}</h2>
+    <h2>Samochód {{ form.model.data }}</h2>
     <div class = "content-section">
         <form method = "POST" action="">
             {{ form.hidden_tag() }}
             <fieldset class="form-group">
-                <div class="form-group" value="Otto">
-                    {{ form.brand.label(class="form-control-label") }}
-                    {{ form.brand(class="form-control form-control-lg") }}
-                </div>
-                <br>
                 <div class="form-group">
                     {{ form.model.label(class="form-control-label") }}
                     {{ form.model(class="form-control form-control-lg") }}

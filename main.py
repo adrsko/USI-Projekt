@@ -1,9 +1,10 @@
-from flask import Flask, render_template, redirect, url_for, request
+from flask import Flask, flash, render_template, redirect, url_for, request
 from flask_sqlalchemy import SQLAlchemy
 from flask_bcrypt import Bcrypt
 from flask_login import UserMixin, LoginManager, login_user, current_user, logout_user
 import uuid
 from sqlalchemy_utils import ChoiceType
+from sqlalchemy import exists
 
 app = Flask(__name__)
 
@@ -30,11 +31,10 @@ class User(db.Model, UserMixin):
 
 class Cars(db.Model):
 
-    CHOICES = [('benzyna', 'Benzyna'),('diesel', 'Diesel')]
-    CHOICES2 = [('manualna', 'Manualna'),('automatyczna', 'Automatyczna')]
+    CHOICES = [('Benzyna', 'Benzyna'),('Diesel', 'Diesel')]
+    CHOICES2 = [('Manualna', 'Manualna'),('Automatyczna', 'Automatyczna')]
 
     id = db.Column(db.String(100), primary_key=True, nullable=False)
-    brand = db.Column(db.String(60), nullable=False)
     model = db.Column(db.String(60), nullable=False)
     year = db.Column(db.Integer, nullable=False)
     mileage = db.Column(db.Integer, nullable=False)
@@ -43,7 +43,7 @@ class Cars(db.Model):
     price = db.Column(db.Integer, nullable=False)
 
     def __repr__(self):
-        return f"Cars('{self.brand}', '{self.model}')"
+        return f"Cars('{self.model}')"
 
 @app.route("/")
 @app.route("/home")
@@ -52,11 +52,6 @@ def home():
         return render_template('home.html')
     else:
         return redirect(url_for('login'))
-
-def lol():
-    from form import PricesForm
-    form = PricesForm
-    return form.brand.data
 
 @app.route("/cars/<int:page_num>",methods=['GET'])
 def cars(page_num):
@@ -82,8 +77,7 @@ def predict():
     import numpy as np
     import joblib
     form = PricesForm()
-    brand = form.brand.data
-    model2 = form.model.data
+    model = form.model.data
     year = form.year.data
     mileage = form.mileage.data
     fuel_type = form.fuel_type.data
@@ -93,8 +87,8 @@ def predict():
         ohe = joblib.load(ohe_path)
         model = joblib.load(model_path)
         return sc , ohe, model
-    row = [brand, year, mileage, transmission, fuel_type]
-    cols = ['brand', 'year', 'mileage','transmission', 'fuel_type']
+    row = [model, year, mileage, transmission, fuel_type]
+    cols = ['model', 'year', 'mileage','transmission', 'fuel_type']
     sc, ohe, model = load('scaler.joblib', 'ohe.joblib', 'XGBoost.joblib')
     df = pd.DataFrame([row], columns = cols)
     numerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']
@@ -107,13 +101,7 @@ def predict():
     df = pd.concat([df, car_df_ohe], axis=1)
     prediction = model.predict(df)[0]
     return str(prediction)
-
-@app.route("/regression", methods=['GET', 'POST'])
-def regression():
-    from form import RegressionForm
-    form = RegressionForm()
-    return render_template('regression.html', form=form)
-
+    
 @app.route("/register", methods = ['GET', 'POST'])
 def register():
     from form import RegistrationForm
@@ -124,9 +112,14 @@ def register():
         if form.validate_on_submit():
             hashed_password = bcrypt.generate_password_hash(form.password.data).decode('utf-8')
             user = User(id = str(uuid.uuid4()), username=form.username.data, email=form.email.data, password=hashed_password)
-            db.session.add(user)
-            db.session.commit()
-            return redirect(url_for('login'))
+            if db.session.query(exists().where(User.username==form.username.data)).scalar():
+                flash("Podany login już istnieje, wybierz inny")
+            elif db.session.query(exists().where(User.email==form.email.data)).scalar():
+                flash("Podany email już istnieje, wybierz inny")
+            else:
+                db.session.add(user)
+                db.session.commit()
+                return redirect(url_for('login'))
         return render_template('register.html', title='Register', form=form)
 
 @app.route("/login", methods = ['GET', 'POST'])
@@ -170,7 +163,7 @@ def add_car():
     if current_user.is_authenticated:
         form = AddCarForm()
         if form.validate_on_submit():
-            car = Cars(id = str(uuid.uuid4()), brand=form.brand.data, model=form.model.data, year=form.year.data, mileage=form.mileage.data, fuel_type=form.fuel_type.data, transmission=form.transmission.data, price=form.price.data)
+            car = Cars(id = str(uuid.uuid4()), model=form.model.data, year=form.year.data, mileage=form.mileage.data, fuel_type=form.fuel_type.data, transmission=form.transmission.data, price=form.price.data)
             db.session.add(car)
             db.session.commit()
             return redirect(url_for('cars', page_num=1))
@@ -185,7 +178,6 @@ def edit_car(id):
         edit_car = Cars.query.filter_by(id=id).first()
         form = UpdateCarForm()
         if form.validate_on_submit():
-            edit_car.brand = form.brand.data
             edit_car.model = form.model.data
             edit_car.year = form.year.data
             edit_car.mileage = form.mileage.data
@@ -195,7 +187,6 @@ def edit_car(id):
             db.session.commit()
             return redirect(url_for('cars', page_num=1))
         elif request.method == 'GET':
-            form.brand.data = edit_car.brand
             form.model.data = edit_car.model
             form.year.data = edit_car.year
             form.mileage.data = edit_car.mileage
