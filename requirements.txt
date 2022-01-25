@@ -1,4 +1,3 @@
-wtforms.fields.simple
 wtforms.validators
 flask_wtf
 wtforms
